@@ -8,7 +8,8 @@ class LLMService:
 
     def _init_model(self, device):
         # model_name = "Qwen/Qwen2.5-32B-Instruct"
-        model_name = "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B"
+        # model_name = "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B"
+        model_name = "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B"
         self.tokenizer = AutoTokenizer.from_pretrained(model_name)
         self.model = AutoModelForCausalLM.from_pretrained(
             model_name,

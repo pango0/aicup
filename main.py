@@ -49,13 +49,13 @@ def format_prompt(text, category, few_shot):
     Here are some examples:
 
     Text: 57-year-old patient, Ken Moll, identified by ID number 62S021442H. Resides on Yale Street, in Andergrove, Tasmania. (ZIP Code 2042). Medical Record 6270214.MFH, Lab No. 62S02144.
-    Answer: [{{"AGE": "57", "PATIENT": "Ken Moll", "IDNUM": "62S021442H", "STREET": "Yale", "CITY": "Andergrove", "STATE": "Tasmania", "ZIP": "2042", "MEDICALRECORD": "6270214.MFH", "IDNUM": "62S02144"}}]
+    Answer: [{{"PATIENT": "Ken Moll"}}]
 
     Text: repeated verification ensuring accuracy. He received treatment at Shoalhaven District Memorial Hospital, where he was supported by the SA Pathology department. His care involved an outstanding team of medical professionals, including Dr. John Wall Dr. T.Z. Dr. G.Q. Dr. F. Loftin Dr. David West His treatments
-    Answer: [{{"HOSPITAL": "Shoalhaven District Memorial Hospital", "DEPARTMENT": "SA Pathology", "DOCTOR": "John Wall", "DOCTOR": "T.Z.", "DOCTOR": "G.Q.", "DOCTOR": "F. Loftin", "DOCTOR": "David West"}}]
+    Answer: [{{"DOCTOR": "John Wall", "DOCTOR": "T.Z.", "DOCTOR": "G.Q.", "DOCTOR": "F. Loftin", "DOCTOR": "David West"}}]
 
     Text: internal rigidity, yes. And it... Yeah, and it’s really problematic. I’m like, I understand... the desire for perfection, but... You know, I don’t think you and I talked about, but she and I, and Dr. Jannis talked a couple of weeks ago about anger and... the sense in which
-    Answer: [{{"DOCTOR": "Janice", "DURATION": "a couple of weeks"}}]
+    Answer: [{{"DOCTOR": "Janice"}}]
     
     Text:{text}
 
@@ -116,25 +116,29 @@ def process_llm(device, data, categories, few_shot):
 
 if __name__ == '__main__':
 
-    with open('validation_1.json') as f:
+    with open('training_2.json') as f:
         data = json.load(f)
 
-    num_instances = len(CATEGORIES)
+    results = process_llm('cuda:0', data, CATEGORIES[0], FEW_SHOTS[0])
+
+    with open("task2_answer.txt", 'w', encoding='utf-8') as f:
+        f.write("\n".join(results))    
+    # num_instances = len(CATEGORIES)
     
-    print(f'Launching {num_instances} workers...', file=sys.stderr)
-    with concurrent.futures.ThreadPoolExecutor(max_workers=num_instances) as executor:
+    # print(f'Launching {num_instances} workers...', file=sys.stderr)
+    # with concurrent.futures.ThreadPoolExecutor(max_workers=num_instances) as executor:
         
-        futures = []
+    #     futures = []
 
-        for i in range(num_instances):
-            futures.append(executor.submit(process_llm, f'cuda:{i%2}', data, CATEGORIES[i], FEW_SHOTS[i]))
-            print(f"Waiting 10 seconds before launching worker {i+1}...", file=sys.stderr)
-            time.sleep(10)
+    #     for i in range(num_instances):
+    #         futures.append(executor.submit(process_llm, f'cuda:{i%2}', data, CATEGORIES[i], FEW_SHOTS[i]))
+    #         print(f"Waiting 10 seconds before launching worker {i+1}...", file=sys.stderr)
+    #         time.sleep(10)
 
-        results = []
-        for future in concurrent.futures.as_completed(futures):
-            results.extend(future.result())
+    #     results = []
+    #     for future in concurrent.futures.as_completed(futures):
+    #         results.extend(future.result())
 
-        results.sort(key=lambda line: int(line.split('\t', 1)[0]))
-        with open("task2_asnwer.txt", 'w', encoding='utf-8') as f:
-                f.write("\n".join(results))
+    #     results.sort(key=lambda line: int(line.split('\t', 1)[0]))
+    #     with open("task2_answer.txt", 'w', encoding='utf-8') as f:
+    #             f.write("\n".join(results))

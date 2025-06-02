@@ -1,6 +1,8 @@
 ## Environment
-create conda env with `environment.yaml`
-
+```bash
+conda env create -f environment.yaml
+conda activate aicup
+```
 ## Usage
 ```bash
 llm.py # llm services
