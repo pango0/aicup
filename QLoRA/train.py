@@ -43,7 +43,7 @@ from peft import (
 from peft.tuners.lora import LoraLayer
 from transformers.trainer_utils import PREFIX_CHECKPOINT_DIR
 # from utils import get_bnb_config
-
+from prompt_utils import PROMPT_TEMPLATES
 
 def is_ipex_available():
     def get_major_and_minor_from_version(full_version):
@@ -124,6 +124,10 @@ class DataArguments:
     dataset_format: Optional[str] = field(
         default=None,
         metadata={"help": "Which dataset format is used. [alpaca|chip2|self-instruct|hh-rlhf]"}
+    )
+    prompt_type: str = field(
+        default="DEFAULT",
+        metadata={"help": "Which prompt template to use; must match a key in PROMPT_TEMPLATES."}
     )
 
 @dataclass
@@ -548,12 +552,14 @@ ALPACA_PROMPT_DICT = {
     )
 }
 
-def extract_alpaca_dataset(example):
-    if example.get("input", "") != "":
-        prompt_format = ALPACA_PROMPT_DICT["prompt_input"]
-    else:
-        prompt_format = ALPACA_PROMPT_DICT["prompt_no_input"]
+def extract_alpaca_dataset(example, prompt_key):
+    prompt_format = PROMPT_TEMPLATES[prompt_key]
+    # if example.get("input", "") != "":
+        # prompt_format = ALPACA_PROMPT_DICT["prompt_input"]
+    # else:
+        # prompt_format = ALPACA_PROMPT_DICT["prompt_no_input"]
     return {'input': prompt_format.format(**example)}
+
 
 def local_dataset(dataset_name):
     if dataset_name.endswith('.json') or dataset_name.endswith('.jsonl'):
@@ -625,7 +631,9 @@ def make_data_module(tokenizer: transformers.PreTrainedTokenizer, args) -> Dict:
             dataset_format == 'alpaca' or dataset_format == 'alpaca-clean' or
             (dataset_format is None and args.dataset in ['alpaca', 'alpaca-clean'])
         ):
-            dataset = dataset.map(extract_alpaca_dataset, remove_columns=['instruction'])
+            dataset = dataset.map(lambda x: extract_alpaca_dataset(x, prompt_key=args.prompt_type))
+            dataset = dataset.remove_columns(['instruction'])
+            # dataset = dataset.map(extract_alpaca_dataset, remove_columns=['instruction'])
         elif dataset_format == 'chip2' or (dataset_format is None and args.dataset == 'chip2'):
             dataset = dataset.map(lambda x: {
                 'input': x['text'].split('\n<bot>: ')[0].replace('<human>: ', ''),
