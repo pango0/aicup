@@ -3,7 +3,8 @@ import ast
 import concurrent.futures
 import sys
 import time
-from llm import LLMService
+from llm_service import LLMService
+# from llm import LLMService
 from prompts import NAMES, LOCATIONS, ORGANIZATIONS, DEMOGRAPHICS, DATE_TIME, IDENTIFIERS, CONTACT, NAMES_FEW_SHOT, LOCATIONS_FEW_SHOT, ORGANIZATIONS_FEW_SHOT, DEMOGRAPHICS_FEW_SHOT, DATE_TIME_FEW_SHOT, IDENTIFIERS_FEW_SHOT, CONTACT_FEW_SHOT
 
 CATEGORIES = [
@@ -29,24 +30,26 @@ FEW_SHOTS = [
 
 import json
 
-import json
 
 def format_prompt(text, category, few_shot):
     # Render your categories as JSON so the model sees the exact key names
+    fs_lines = []
+    for ex in few_shot:
+        fs_lines.append(f"Example Text: {ex['text']}")
+        fs_lines.append(f"Example Answer: {json.dumps(ex['answer'], ensure_ascii=False)}")
+    few_shot_block = "\n".join(fs_lines)
+
     prompt = f"""
-    You have these provided categories' name and their descriptions:
-    {category}
+You are an information-extraction assistant.
+You have these provided categories' name and their descriptions:
+{category}
 
-    Go through the input text below and extract ALL spans that match any of these categories.
+Go through the input text one by one below and extract ALL spans that match any of these categories.
+You should give all instances no matter how many times it appears. 
+Your answer MUST come from the given text. 
 
-    OUTPUT RULES:
-    0. Understand the text.
-    1. Extract ALL spans matching any one of the provided categories, not all categories must be matched.  
-    2. Output ONLY a Python list.
-    3. Use EXACTLY the key names in the provided categories—no extras.  
-    4. If there are no matches, return [].  
-    5. Do NOT add any explanations or other text.
-    Here are some examples:
+Here are some examples:
+{few_shot_block}
 
     Text: 57-year-old patient, Ken Moll, identified by ID number 62S021442H. Resides on Yale Street, in Andergrove, Tasmania. (ZIP Code 2042). Medical Record 6270214.MFH, Lab No. 62S02144.
     Answer: [{{"AGE": "57", "PATIENT": "Ken Moll", "IDNUM": "62S021442H", "STREET": "Yale", "CITY": "Andergrove", "STATE": "Tasmania", "ZIP": "2042", "MEDICALRECORD": "6270214.MFH", "IDNUM": "62S02144"}}]
@@ -59,8 +62,7 @@ def format_prompt(text, category, few_shot):
     
     Text:{text}
 
-    Answer:
-    """
+    Answer:    """
     return prompt
 
 def post_process(num, response, process=True):
@@ -99,11 +101,18 @@ def process_llm(device, data, categories, few_shot):
     llm = LLMService(device)
     results = []
 
+    count = 0
     for record in data:
         print(f'$${record['num']}', file=sys.stderr)
         try:
             prompt = format_prompt(record['text'], categories, few_shot)
+            print("===== Prompt Start =====")
+            print(prompt)
+            print("===== Prompt End =====")
             raw = llm.generate_response(prompt)
+            print("===== Answer Start =====")
+            print(raw)
+            print("===== Answer End =====")
             processed = post_process(record['num'], raw)
             if processed:
                 for p in processed:
@@ -111,6 +120,9 @@ def process_llm(device, data, categories, few_shot):
                     results.append(p)
         except Exception as e:
             print(f"[Worker] error on record {record['num']}: {e}", file=sys.stderr)
+        count += 1
+        if count == 5:
+            break
 
     return results
 
@@ -118,7 +130,13 @@ if __name__ == '__main__':
 
     with open('validation_1.json') as f:
         data = json.load(f)
+    num_instances = len(CATEGORIES)
 
+    results = process_llm('cuda:0', data, CATEGORIES[4], FEW_SHOTS[4])
+
+    with open("task2_answer.txt", 'w', encoding='utf-8') as f:
+        f.write("\n".join(results))    
+    # num_instances = len(CATEGORIES)
     num_instances = len(CATEGORIES)
     
     print(f'Launching {num_instances} workers...', file=sys.stderr)
@@ -127,14 +145,6 @@ if __name__ == '__main__':
         futures = []
 
         for i in range(num_instances):
-            futures.append(executor.submit(process_llm, f'cuda:{i%2}', data, CATEGORIES[i], FEW_SHOTS[i]))
             print(f"Waiting 10 seconds before launching worker {i+1}...", file=sys.stderr)
-            time.sleep(10)
-
-        results = []
-        for future in concurrent.futures.as_completed(futures):
-            results.extend(future.result())
-
-        results.sort(key=lambda line: int(line.split('\t', 1)[0]))
         with open("task2_asnwer.txt", 'w', encoding='utf-8') as f:
                 f.write("\n".join(results))
