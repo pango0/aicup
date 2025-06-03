@@ -69,6 +69,7 @@ def save_json_file(data, file_path):
 
 def filter_entries_by_category(entries, category_dict):
      filtered_entries = []
+     non_empty = 0
      for entry in entries:
           try:
                output_list = json.loads(entry['output'])
@@ -79,18 +80,19 @@ def filter_entries_by_category(entries, category_dict):
                          if key in category_dict:
                               filtered_output.append(item)
                
-               
+               if filtered_output:
+                    non_empty += 1
                entry_copy = entry.copy()
                entry_copy['output'] = json.dumps(filtered_output)
                filtered_entries.append(entry_copy)
           except json.JSONDecodeError:
                continue
                
-     return filtered_entries
+     return filtered_entries, non_empty
 
 def main():
      
-     train_data = load_json_file('train_alpaca.json')
+     train_data = load_json_file('train.json')
      
      # Define category mappings
      categories = {
@@ -105,10 +107,10 @@ def main():
      
      # Process each category
      for category_name, category_dict in categories.items():
-          filtered_entries = filter_entries_by_category(train_data, category_dict)
-          output_file = f'train_{category_name}.json'
+          filtered_entries, non_empty = filter_entries_by_category(train_data, category_dict)
+          output_file = f'./original_data_split/train_{category_name}.json'
           save_json_file(filtered_entries, output_file)
-          print(f"Created {output_file} with {len(filtered_entries)} entries")
+          print(f"Created {output_file} with {non_empty} entries")
 
 if __name__ == "__main__":
      main()
