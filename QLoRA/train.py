@@ -222,7 +222,7 @@ class GenerationArguments:
     max_new_tokens: Optional[int] = field(
         default=256,
         metadata={"help": "Maximum number of new tokens to be generated in evaluation or prediction loops"
-                          "if predict_with_generate is set."}
+                            "if predict_with_generate is set."}
     )
     min_new_tokens : Optional[int] = field(
         default=None,
