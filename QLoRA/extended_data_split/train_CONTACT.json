@@ -7697,565 +7697,501 @@
   {
     "id": 160000,
     "instruction": "During admission the charge nurse asked for a 24-hour mobile number, so I gave her 415-772-0934 first and then my apartment landline 650-555-8811 as backup. She wrote both on a color-coded wristband that looked more like a festival pass than a medical tag. The night team joked two phone numbers equal half the alarms. Still, double layers mean no missed calls if the IV pump misbehaves at 3 a.m. Peace of mind apparently comes in pairs.",
-    "output": [
-      {"PHONE":"415-772-0934"},
-      {"PHONE":"650-555-8811"}
-    ]
+    "output": "[{\"PHONE\": \"415-772-0934\"}, {\"PHONE\": \"650-555-8811\"}]"
   },
   {
     "id": 160001,
-    "instruction": "The orthopedic office insisted I fax surgical clearance to 312-555-6644 because their scanner refuses modern attachments. I hadn’t touched a fax since 2004, but a volunteer walked me through the beeping ritual. Five shrieks later the pages slid through like retro magic and a confirmation sheet popped out. That pixelated thumbs-up felt oddly reassuring. Analog tech still enjoys cameo roles in digital hospitals.",
-    "output":[
-      {"FAX":"312-555-6644"}
-    ]
+    "instruction": "The orthopedic office insisted I fax surgical clearance to 312-555-6644 because their scanner refuses modern attachments. I hadn\u2019t touched a fax since 2004, but a volunteer walked me through the beeping ritual. Five shrieks later the pages slid through like retro magic and a confirmation sheet popped out. That pixelated thumbs-up felt oddly reassuring. Analog tech still enjoys cameo roles in digital hospitals.",
+    "output": "[{\"FAX\": \"312-555-6644\"}]"
   },
   {
     "id": 160002,
     "instruction": "The dietitian asked for my best email and I rattled off ellie.grant87@gmail.com while juggling a smoothie sample. She promised to send seven days of meals that taste better than their macros. Ten minutes later a PDF titled \"Fiber Is Your Friend\" landed in my inbox with a cheerful emoji. Low-calorie tips can still be high-volume. At least the email weighed nothing.",
-    "output":[
-      {"EMAIL":"ellie.grant87@gmail.com"}
-    ]
+    "output": "[{\"EMAIL\": \"ellie.grant87@gmail.com\"}]"
   },
   {
     "id": 160003,
     "instruction": "Security gave Dad the portal link https://visitor.hospitalnorth.org so he could reserve an elevator slot and skip lobby limbo. He bookmarked it like a concert ticket and bragged about bypassing clipboards. The site even let him preorder a cafeteria muffin. Technology finally meets parental patience. Paper sign-in sheets quietly retired.",
-    "output":[
-      {"URL":"https://visitor.hospitalnorth.org"}
-    ]
+    "output": "[{\"URL\": \"https://visitor.hospitalnorth.org\"}]"
   },
   {
     "id": 160004,
-    "instruction": "Halfway through the tele-visit the video froze, so IT asked me to read the router’s public IP 98.143.66.210 aloud. I felt like sharing secret coordinates with mission control. Two seconds after he typed it, the doctor’s face re-animated mid-sentence. We rebooted the Matrix with four numbers and a dot. Glitch defeated, consult resumed.",
-    "output":[
-      {"IPADDRESS":"98.143.66.210"}
-    ]
+    "instruction": "Halfway through the tele-visit the video froze, so IT asked me to read the router\u2019s public IP 98.143.66.210 aloud. I felt like sharing secret coordinates with mission control. Two seconds after he typed it, the doctor\u2019s face re-animated mid-sentence. We rebooted the Matrix with four numbers and a dot. Glitch defeated, consult resumed.",
+    "output": "[{\"IPADDRESS\": \"98.143.66.210\"}]"
   },
   {
     "id": 160005,
     "instruction": "My PT scribbled my cell 917-402-3301 and her direct fax 212-555-4477 on a neon note, promising at least one line survives weekends. She claims insurance trusts faxed signatures more than emojis. I pinned the note to my fridge like a motivational poster. Even the yogurt now knows where to send progress charts. Communication can be dairy-free and high-fiber.",
-    "output":[
-      {"PHONE":"917-402-3301"},
-      {"FAX":"212-555-4477"}
-    ]
+    "output": "[{\"PHONE\": \"917-402-3301\"}, {\"FAX\": \"212-555-4477\"}]"
   },
   {
     "id": 160006,
     "instruction": "Cardiology scheduled my webcam stress test through cardio.team@unsw-lcrc.edu.au and tucked a Meet link https://meet.google.com/abc-defg-hij inside. A toll-free backup line 1-800-352-9424 covers Wi-Fi hiccups. Three safety nets for one sweaty session seem generous. Still, I bookmarked everything twice. Digital backups beat cardiac flashbacks.",
-    "output":[
-      {"EMAIL":"cardio.team@unsw-lcrc.edu.au"},
-      {"URL":"https://meet.google.com/abc-defg-hij"},
-      {"PHONE":"1-800-352-9424"}
-    ]
+    "output": "[{\"EMAIL\": \"cardio.team@unsw-lcrc.edu.au\"}, {\"URL\": \"https://meet.google.com/abc-defg-hij\"}, {\"PHONE\": \"1-800-352-9424\"}]"
   },
   {
     "id": 160007,
-    "instruction": "The ICU badge reader needed tablet IP 10.0.1.24 whitelisted, so security emailed security@icu-east.org for approval and faxed 404-555-6678 a paper trail. Watching them mix decades of tech felt like caffeinated time travel. Five minutes later the doors chirped open. Passwords expire, toner apparently doesn’t.",
-    "output":[
-      {"IPADDRESS":"10.0.1.24"},
-      {"EMAIL":"security@icu-east.org"},
-      {"FAX":"404-555-6678"}
-    ]
+    "instruction": "The ICU badge reader needed tablet IP 10.0.1.24 whitelisted, so security emailed security@icu-east.org for approval and faxed 404-555-6678 a paper trail. Watching them mix decades of tech felt like caffeinated time travel. Five minutes later the doors chirped open. Passwords expire, toner apparently doesn\u2019t.",
+    "output": "[{\"IPADDRESS\": \"10.0.1.24\"}, {\"EMAIL\": \"security@icu-east.org\"}, {\"FAX\": \"404-555-6678\"}]"
   },
   {
     "id": 160008,
     "instruction": "The herbal clinic taped a hotline 808-300-4455, FAQ page http://herb.info/faq, and vintage fax 718-555-9400 onto my tea tin. The receptionist said they cover every century of communication except carrier pigeon. I photographed the sticker before steam curls it off. Redundancy never tasted so floral. Brewing instructions now come with tech support.",
-    "output":[
-      {"PHONE":"808-300-4455"},
-      {"URL":"http://herb.info/faq"},
-      {"FAX":"718-555-9400"}
-    ]
+    "output": "[{\"PHONE\": \"808-300-4455\"}, {\"URL\": \"http://herb.info/faq\"}, {\"FAX\": \"718-555-9400\"}]"
   },
   {
     "id": 160009,
-    "instruction": "Radiology’s PACS at 172.16.5.77 went silent, so the tech called 515-888-4401 and fired screenshots to pacs-help@pdxradiology.com. Ten minutes later images flowed like espresso through a clean machine. He toasted success with the last hospital muffin. Servers and staff both need regular heartbeats. Crisis averted, calories acquired.",
-    "output":[
-      {"IPADDRESS":"172.16.5.77"},
-      {"PHONE":"515-888-4401"},
-      {"EMAIL":"pacs-help@pdxradiology.com"}
-    ]
+    "instruction": "Radiology\u2019s PACS at 172.16.5.77 went silent, so the tech called 515-888-4401 and fired screenshots to pacs-help@pdxradiology.com. Ten minutes later images flowed like espresso through a clean machine. He toasted success with the last hospital muffin. Servers and staff both need regular heartbeats. Crisis averted, calories acquired.",
+    "output": "[{\"IPADDRESS\": \"172.16.5.77\"}, {\"PHONE\": \"515-888-4401\"}, {\"EMAIL\": \"pacs-help@pdxradiology.com\"}]"
   },
   {
     "id": 160010,
     "instruction": "The pharmacist texted my cell 480-775-6200 at 6 a.m. to confirm dose timing, then forwarded backup instructions to meds@dawn-rx.com. She said redundancy is the best side effect. I replied before caffeine fully loaded, hoping autocorrect loves Latin drug names. So far, no typos, no tachycardia.",
-    "output":[
-      {"PHONE":"480-775-6200"},
-      {"EMAIL":"meds@dawn-rx.com"}
-    ]
+    "output": "[{\"PHONE\": \"480-775-6200\"}, {\"EMAIL\": \"meds@dawn-rx.com\"}]"
   },
   {
     "id": 160011,
-    "instruction": "Home-health set up weekly vitals uploads to https://portal.vitals-home.io but also left me a fax 404-555-6679 for ‘analog emergencies’. They joked thunderstorms respect paper more than Wi-Fi. My modem squealed like a retro anthem during the test run. At least nostalgia has a dial tone.",
-    "output":[
-      {"URL":"https://portal.vitals-home.io"},
-      {"FAX":"404-555-6679"}
-    ]
+    "instruction": "Home-health set up weekly vitals uploads to https://portal.vitals-home.io but also left me a fax 404-555-6679 for \u2018analog emergencies\u2019. They joked thunderstorms respect paper more than Wi-Fi. My modem squealed like a retro anthem during the test run. At least nostalgia has a dial tone.",
+    "output": "[{\"URL\": \"https://portal.vitals-home.io\"}, {\"FAX\": \"404-555-6679\"}]"
   },
   {
     "id": 160012,
-    "instruction": "Neurology left voicemail from 207-555-1913, emailed eeg@brain-wave.org, and texted a calendar link—all before breakfast. My cerebrum appreciated the multi-channel stimulus. I flagged the email as ‘important’ so Outlook doesn’t treat migraines like spam. Scheduling headaches shouldn’t trigger literal ones.",
-    "output":[
-      {"PHONE":"207-555-1913"},
-      {"EMAIL":"eeg@brain-wave.org"}
-    ]
+    "instruction": "Neurology left voicemail from 207-555-1913, emailed eeg@brain-wave.org, and texted a calendar link\u2014all before breakfast. My cerebrum appreciated the multi-channel stimulus. I flagged the email as \u2018important\u2019 so Outlook doesn\u2019t treat migraines like spam. Scheduling headaches shouldn\u2019t trigger literal ones.",
+    "output": "[{\"PHONE\": \"207-555-1913\"}, {\"EMAIL\": \"eeg@brain-wave.org\"}]"
   },
   {
     "id": 160013,
-    "instruction": "The rehab app refused to sync until IT white-listed IP 192.168.88.11 and pinged 172.20.100.9 for good measure. They cc’d support@move-better.io with a success screenshot. Data flowed, resistance bands stretched, everyone exhaled. Even networks need a warm-up routine.",
-    "output":[
-      {"IPADDRESS":"192.168.88.11"},
-      {"IPADDRESS":"172.20.100.9"},
-      {"EMAIL":"support@move-better.io"}
-    ]
+    "instruction": "The rehab app refused to sync until IT white-listed IP 192.168.88.11 and pinged 172.20.100.9 for good measure. They cc\u2019d support@move-better.io with a success screenshot. Data flowed, resistance bands stretched, everyone exhaled. Even networks need a warm-up routine.",
+    "output": "[{\"IPADDRESS\": \"192.168.88.11\"}, {\"IPADDRESS\": \"172.20.100.9\"}, {\"EMAIL\": \"support@move-better.io\"}]"
   },
   {
     "id": 160014,
-    "instruction": "Discharge printed both my dentist’s fax 303-555-9830 and his email smiles@bright-bites.com on a referral sheet, warning me teeth prefer paperwork to surprises. I scanned and sent both while the numbing gel still worked. Multitasking tastes minty but productive.",
-    "output":[
-      {"FAX":"303-555-9830"},
-      {"EMAIL":"smiles@bright-bites.com"}
-    ]
+    "instruction": "Discharge printed both my dentist\u2019s fax 303-555-9830 and his email smiles@bright-bites.com on a referral sheet, warning me teeth prefer paperwork to surprises. I scanned and sent both while the numbing gel still worked. Multitasking tastes minty but productive.",
+    "output": "[{\"FAX\": \"303-555-9830\"}, {\"EMAIL\": \"smiles@bright-bites.com\"}]"
   },
   {
     "id": 160015,
-    "instruction": "The study coordinator posted survey link https://survey.zzz-clinic.org plus a helpline 1-800-222-1234 on my bedside board. She promised answering questions beats counting ceiling tiles. I bookmarked and dialed to test latency—both worked faster than morphine storytelling. Engagement achieved, boredom sedated.",
-    "output":[
-      {"URL":"https://survey.zzz-clinic.org"},
-      {"PHONE":"1-800-222-1234"}
-    ]
+    "instruction": "The study coordinator posted survey link https://survey.zzz-clinic.org plus a helpline 1-800-222-1234 on my bedside board. She promised answering questions beats counting ceiling tiles. I bookmarked and dialed to test latency\u2014both worked faster than morphine storytelling. Engagement achieved, boredom sedated.",
+    "output": "[{\"URL\": \"https://survey.zzz-clinic.org\"}, {\"PHONE\": \"1-800-222-1234\"}]"
   },
   {
     "id": 160016,
     "instruction": "Tech support noticed the glucose meter registered at IP 10.12.8.42 but still emailed errors to device-help@endo-assist.net. They also left voicemail at 406-555-7420 in case I enjoy phone trees before breakfast. Triple notice, single solution: new batteries. Electronics and humans both need juice.",
-    "output":[
-      {"IPADDRESS":"10.12.8.42"},
-      {"EMAIL":"device-help@endo-assist.net"},
-      {"PHONE":"406-555-7420"}
-    ]
+    "output": "[{\"IPADDRESS\": \"10.12.8.42\"}, {\"EMAIL\": \"device-help@endo-assist.net\"}, {\"PHONE\": \"406-555-7420\"}]"
   },
   {
     "id": 160017,
     "instruction": "The chaplaincy service faxed a meditation sheet to 617-555-4509, emailed calm@quiet-corner.org, and taped hotline 909-555-7722 near my monitor. Serenity apparently likes to travel in threes. I decided to call first, print second, delete none. Better safe than stressed.",
-    "output":[
-      {"FAX":"617-555-4509"},
-      {"EMAIL":"calm@quiet-corner.org"},
-      {"PHONE":"909-555-7722"}
-    ]
+    "output": "[{\"FAX\": \"617-555-4509\"}, {\"EMAIL\": \"calm@quiet-corner.org\"}, {\"PHONE\": \"909-555-7722\"}]"
   },
   {
     "id": 160018,
-    "instruction": "Dermatology sent pre-op reminders via shine@skinbright.pro and directed me to https://glow.skinbright.pro for sunscreen coupons. A final SMS from 808-300-4455 pinged ‘hydrate or regret’. Marketing, medicine, moisture—aligned like SPF layers. My inbox now has better pores than my nose.",
-    "output":[
-      {"EMAIL":"shine@skinbright.pro"},
-      {"URL":"https://glow.skinbright.pro"},
-      {"PHONE":"808-300-4455"}
-    ]
+    "instruction": "Dermatology sent pre-op reminders via shine@skinbright.pro and directed me to https://glow.skinbright.pro for sunscreen coupons. A final SMS from 808-300-4455 pinged \u2018hydrate or regret\u2019. Marketing, medicine, moisture\u2014aligned like SPF layers. My inbox now has better pores than my nose.",
+    "output": "[{\"EMAIL\": \"shine@skinbright.pro\"}, {\"URL\": \"https://glow.skinbright.pro\"}, {\"PHONE\": \"808-300-4455\"}]"
   },
   {
     "id": 160019,
     "instruction": "The infusion clinic labels pump traffic at IP 10.0.55.31 and backs it up by faxing logs to 915-555-6033 nightly. If packets go missing, paper testifies under oath. Bytes and pulp, unlikely allies against downtime. My veins approve the redundancy.",
-    "output":[
-      {"IPADDRESS":"10.0.55.31"},
-      {"FAX":"915-555-6033"}
-    ]
+    "output": "[{\"IPADDRESS\": \"10.0.55.31\"}, {\"FAX\": \"915-555-6033\"}]"
   },
   {
     "id": 160020,
     "instruction": "Mom still dials 911 any time I sneeze louder than a mouse, but the triage nurse confirmed that number truly covers emergencies, not pollen.",
-    "output": [{"PHONE":"911"}]
+    "output": "[{\"PHONE\": \"911\"}]"
   },
   {
     "id": 160021,
     "instruction": "The ENT clinic left a cheery voicemail from 480-775-6200 reminding me to hum scales before the scope appointment.",
-    "output": [{"PHONE":"480-775-6200"}]
+    "output": "[{\"PHONE\": \"480-775-6200\"}]"
   },
   {
     "id": 160022,
     "instruction": "I faxed my physical-therapy release to 404-555-6678 and listened to those vintage tones croon like dial-up opera.",
-    "output": [{"FAX":"404-555-6678"}]
+    "output": "[{\"FAX\": \"404-555-6678\"}]"
   },
   {
     "id": 160023,
     "instruction": "Admissions told me to email travel paperwork to docs@global-health.co.uk before tomorrow, promising the attachment diet is low-carb.",
-    "output": [{"EMAIL":"docs@global-health.co.uk"}]
+    "output": "[{\"EMAIL\": \"docs@global-health.co.uk\"}]"
   },
   {
     "id": 160024,
     "instruction": "To reset the portal password I visited https://ptaccess.medcenter.edu and passed a captcha that doubts my crosswalk skills.",
-    "output": [{"URL":"https://ptaccess.medcenter.edu"}]
+    "output": "[{\"URL\": \"https://ptaccess.medcenter.edu\"}]"
   },
   {
     "id": 160025,
-    "instruction": "Home dialysis tech support asked for the machine’s IP 10.0.1.24 and then joked my kidneys surf a VIP subnet.",
-    "output": [{"IPADDRESS":"10.0.1.24"}]
+    "instruction": "Home dialysis tech support asked for the machine\u2019s IP 10.0.1.24 and then joked my kidneys surf a VIP subnet.",
+    "output": "[{\"IPADDRESS\": \"10.0.1.24\"}]"
   },
   {
     "id": 160026,
     "instruction": "The night pharmacist taped 602-431-8890 onto my pillbox so side-effect panic at 2 a.m. has a direct line.",
-    "output": [{"PHONE":"602-431-8890"}]
+    "output": "[{\"PHONE\": \"602-431-8890\"}]"
   },
   {
     "id": 160027,
     "instruction": "I faxed rehab progress charts to 718-555-9400 and waited while the machine did yoga stretches with my pages.",
-    "output": [{"FAX":"718-555-9400"}]
+    "output": "[{\"FAX\": \"718-555-9400\"}]"
   },
   {
     "id": 160028,
     "instruction": "Lab results popped into my inbox from noreply@questlabs.com with a subject line scarier than the numbers inside.",
-    "output": [{"EMAIL":"noreply@questlabs.com"}]
+    "output": "[{\"EMAIL\": \"noreply@questlabs.com\"}]"
   },
   {
     "id": 160029,
-    "instruction": "The sleep-clinic FAQ at https://zzz-clinic.org/faq answered everything except why I can’t nap on demand.",
-    "output": [{"URL":"https://zzz-clinic.org/faq"}]
+    "instruction": "The sleep-clinic FAQ at https://zzz-clinic.org/faq answered everything except why I can\u2019t nap on demand.",
+    "output": "[{\"URL\": \"https://zzz-clinic.org/faq\"}]"
   },
   {
     "id": 160030,
     "instruction": "The EEG tablet revealed its IP 172.16.5.77 like a shy robot finally learning its name.",
-    "output": [{"IPADDRESS":"172.16.5.77"}]
+    "output": "[{\"IPADDRESS\": \"172.16.5.77\"}]"
   },
   {
     "id": 160031,
-    "instruction": "Urgent-care voicemail came from 515-888-4401 announcing my strep test RSVP’d positive—bacteria love surprise parties.",
-    "output": [{"PHONE":"515-888-4401"}]
+    "instruction": "Urgent-care voicemail came from 515-888-4401 announcing my strep test RSVP\u2019d positive\u2014bacteria love surprise parties.",
+    "output": "[{\"PHONE\": \"515-888-4401\"}]"
   },
   {
     "id": 160032,
-    "instruction": "I faxed gym-clearance forms to 909-555-7722 and prayed the toner didn’t ghost the doctor’s signature.",
-    "output": [{"FAX":"909-555-7722"}]
+    "instruction": "I faxed gym-clearance forms to 909-555-7722 and prayed the toner didn\u2019t ghost the doctor\u2019s signature.",
+    "output": "[{\"FAX\": \"909-555-7722\"}]"
   },
   {
     "id": 160033,
     "instruction": "Dermatology pinged my inbox from glow-up@skinbright.pro, reminding me SPF is cheaper than laser regret.",
-    "output": [{"EMAIL":"glow-up@skinbright.pro"}]
+    "output": "[{\"EMAIL\": \"glow-up@skinbright.pro\"}]"
   },
   {
     "id": 160034,
     "instruction": "Insurance pushed me to http://preauth.insureme.com where scroll bars grow longer the deeper you exhale.",
-    "output": [{"URL":"http://preauth.insureme.com"}]
+    "output": "[{\"URL\": \"http://preauth.insureme.com\"}]"
   },
   {
     "id": 160035,
     "instruction": "Respiratory assigned the ventilator to IP 10.12.8.42, then high-fived itself in binary.",
-    "output": [{"IPADDRESS":"10.12.8.42"}]
+    "output": "[{\"IPADDRESS\": \"10.12.8.42\"}]"
   },
   {
     "id": 160036,
     "instruction": "The pediatrician called from 406-555-7420 at dawn, proving little fevers wear big alarm clocks.",
-    "output": [{"PHONE":"406-555-7420"}]
+    "output": "[{\"PHONE\": \"406-555-7420\"}]"
   },
   {
     "id": 160037,
-    "instruction": "Pharmacy’s refill fax 617-555-4509 devoured my scribbles and spit out a smug confirmation slip.",
-    "output": [{"FAX":"617-555-4509"}]
+    "instruction": "Pharmacy\u2019s refill fax 617-555-4509 devoured my scribbles and spit out a smug confirmation slip.",
+    "output": "[{\"FAX\": \"617-555-4509\"}]"
   },
   {
     "id": 160038,
     "instruction": "Clinical-trial updates arrive via hope@oncology-study.net with subject lines brighter than hospital lighting.",
-    "output": [{"EMAIL":"hope@oncology-study.net"}]
+    "output": "[{\"EMAIL\": \"hope@oncology-study.net\"}]"
   },
   {
     "id": 160039,
     "instruction": "The rehab portal https://move-better.io gamifies step counts but still loses to my couch in overtime.",
-    "output": [{"URL":"https://move-better.io"}]
+    "output": "[{\"URL\": \"https://move-better.io\"}]"
   },
   {
     "id": 160040,
     "instruction": "The ultrasound cart grabbed network address 10.0.55.31 and started humming like it owns the subnet.",
-    "output": [{"IPADDRESS":"10.0.55.31"}]
+    "output": "[{\"IPADDRESS\": \"10.0.55.31\"}]"
   },
   {
     "id": 160041,
     "instruction": "Poetry-therapy left a voicemail from 207-555-1913 inviting me to rhyme about recovery between IV beeps.",
-    "output": [{"PHONE":"207-555-1913"}]
+    "output": "[{\"PHONE\": \"207-555-1913\"}]"
   },
   {
     "id": 160042,
-    "instruction": "I faxed allergy records to 870-555-1224 and hoped the paper didn’t sneeze mid-transit.",
-    "output": [{"FAX":"870-555-1224"}]
+    "instruction": "I faxed allergy records to 870-555-1224 and hoped the paper didn\u2019t sneeze mid-transit.",
+    "output": "[{\"FAX\": \"870-555-1224\"}]"
   },
   {
     "id": 160043,
     "instruction": "Discharge papers dropped in from paperless@medctr-docs.com faster than I could Google half the acronyms.",
-    "output": [{"EMAIL":"paperless@medctr-docs.com"}]
+    "output": "[{\"EMAIL\": \"paperless@medctr-docs.com\"}]"
   },
   {
     "id": 160044,
     "instruction": "The billing portal at https://paynow.hosp-central.com lets me trade tears for receipts in five clicks flat.",
-    "output": [{"URL":"https://paynow.hosp-central.com"}]
+    "output": "[{\"URL\": \"https://paynow.hosp-central.com\"}]"
   },
   {
     "id": 160045,
-    "instruction": "Respiratory’s laptop staked claim to IP 192.168.7.14 and immediately asked for coffee like a digital diva.",
-    "output": [{"IPADDRESS":"192.168.7.14"}]
+    "instruction": "Respiratory\u2019s laptop staked claim to IP 192.168.7.14 and immediately asked for coffee like a digital diva.",
+    "output": "[{\"IPADDRESS\": \"192.168.7.14\"}]"
   },
   {
     "id": 160046,
     "instruction": "Radiation-oncology texted from 336-555-8821 reminding me hydration beats superpowers every time.",
-    "output": [{"PHONE":"336-555-8821"}]
+    "output": "[{\"PHONE\": \"336-555-8821\"}]"
   },
   {
     "id": 160047,
-    "instruction": "I faxed my return-to-work letter to 915-555-6033 and earned a crisp ‘OK’ like a report card A.",
-    "output": [{"FAX":"915-555-6033"}]
+    "instruction": "I faxed my return-to-work letter to 915-555-6033 and earned a crisp \u2018OK\u2019 like a report card A.",
+    "output": "[{\"FAX\": \"915-555-6033\"}]"
   },
   {
     "id": 160048,
-    "instruction": "The nurse dropped recovery.questions@westward-care.org into my phone, promising midnight curiosity won’t go unanswered.",
-    "output": [{"EMAIL":"recovery.questions@westward-care.org"}]
+    "instruction": "The nurse dropped recovery.questions@westward-care.org into my phone, promising midnight curiosity won\u2019t go unanswered.",
+    "output": "[{\"EMAIL\": \"recovery.questions@westward-care.org\"}]"
   },
   {
     "id": 160049,
-    "instruction": "To rate cafeteria lasagna I visited http://survey.hosp-dining.net and discovered the comment box accepts emojis—five noodles up.",
-    "output": [{"URL":"http://survey.hosp-dining.net"}]
+    "instruction": "To rate cafeteria lasagna I visited http://survey.hosp-dining.net and discovered the comment box accepts emojis\u2014five noodles up.",
+    "output": "[{\"URL\": \"http://survey.hosp-dining.net\"}]"
   },
   {
     "id": 160050,
-    "instruction": "The case manager rang from 512-444-9910, speaking with caffeinated efficiency about discharge goals. Her ringtone matched the heart-monitor beep, unintentionally rhythmic. She mentioned a follow-up number tattooed on sticky notes across her desk. I saved her contact as ‘Sprint Nurse’. If only recovery could be dialed so directly.",
-    "output": [{"PHONE":"512-444-9910"}]
+    "instruction": "The case manager rang from 512-444-9910, speaking with caffeinated efficiency about discharge goals. Her ringtone matched the heart-monitor beep, unintentionally rhythmic. She mentioned a follow-up number tattooed on sticky notes across her desk. I saved her contact as \u2018Sprint Nurse\u2019. If only recovery could be dialed so directly.",
+    "output": "[{\"PHONE\": \"512-444-9910\"}]"
   },
   {
     "id": 160051,
     "instruction": "Orthotics demanded a fax to 415-555-3030 because their scanner was doing yoga again. I watched the pages vanish into the feeder like reluctant athletes. Forty seconds of squeals later a victory page emerged. The machine may be ancient but still runs marathons. Paper tape triumphs once more.",
-    "output": [{"FAX":"415-555-3030"}]
+    "output": "[{\"FAX\": \"415-555-3030\"}]"
   },
   {
     "id": 160052,
-    "instruction": "Pathology emailed slides to cells@micro-scope.edu with the subject line ‘Tiny Drama Queen’. I opened the ZIP file like unwrapping a soap opera. Under the microscope, the cells really did look theatrical. Science meets daytime TV. At least the email had no cliff-hangers.",
-    "output": [{"EMAIL":"cells@micro-scope.edu"}]
+    "instruction": "Pathology emailed slides to cells@micro-scope.edu with the subject line \u2018Tiny Drama Queen\u2019. I opened the ZIP file like unwrapping a soap opera. Under the microscope, the cells really did look theatrical. Science meets daytime TV. At least the email had no cliff-hangers.",
+    "output": "[{\"EMAIL\": \"cells@micro-scope.edu\"}]"
   },
   {
     "id": 160053,
     "instruction": "Insurance directed me to https://claims.smoothpay.com where the mascot is a cheerful dollar sign wearing scrubs. The site insisted I upload receipts smaller than 5 MB, forcing me to diet my PDFs. After three tries the form finally applauded. Digital bureaucracy loves applause. My refund joined the waiting room.",
-    "output": [{"URL":"https://claims.smoothpay.com"}]
+    "output": "[{\"URL\": \"https://claims.smoothpay.com\"}]"
   },
   {
     "id": 160054,
     "instruction": "The bedside monitor announced its new IP 10.1.2.99 in glowing green text, like a gamer tag for vital signs. IT logged it into the asset tracker with a smiley face. Machines appreciate name tags too. I waved at the screen in gratitude. It beeped politely back.",
-    "output": [{"IPADDRESS":"10.1.2.99"}]
+    "output": "[{\"IPADDRESS\": \"10.1.2.99\"}]"
   },
   {
     "id": 160055,
-    "instruction": "Nutrition left a voicemail from 818-222-4411 offering broth critiques and low-sodium gossip. The message ended with cheerful slurping sounds. I’m not sure whether to laugh or hydrate. Either way, I saved the number under ‘Soup Hotline’. Comfort comes in liquid form.",
-    "output": [{"PHONE":"818-222-4411"}]
+    "instruction": "Nutrition left a voicemail from 818-222-4411 offering broth critiques and low-sodium gossip. The message ended with cheerful slurping sounds. I\u2019m not sure whether to laugh or hydrate. Either way, I saved the number under \u2018Soup Hotline\u2019. Comfort comes in liquid form.",
+    "output": "[{\"PHONE\": \"818-222-4411\"}]"
   },
   {
     "id": 160056,
     "instruction": "I faxed a thank-you note to 312-555-8877 because handwritten gratitude deserves squealing phone lines. The nurse later waved the curling page like a trophy. Low bandwidth, high sentiment. Who knew paper hugs existed. Hallway smiles proved the point.",
-    "output": [{"FAX":"312-555-8877"}]
+    "output": "[{\"FAX\": \"312-555-8877\"}]"
   },
   {
     "id": 160057,
-    "instruction": "Anatomy club emailed invite skeletons@study-group.org asking if I’d like to borrow a plastic femur for weekend revision. The RSVP button danced like a bone-shaped confetti cannon. I clicked yes before my coffee cooled. Education can be anatomical fun. Inbox imaginations, engage.",
-    "output": [{"EMAIL":"skeletons@study-group.org"}]
+    "instruction": "Anatomy club emailed invite skeletons@study-group.org asking if I\u2019d like to borrow a plastic femur for weekend revision. The RSVP button danced like a bone-shaped confetti cannon. I clicked yes before my coffee cooled. Education can be anatomical fun. Inbox imaginations, engage.",
+    "output": "[{\"EMAIL\": \"skeletons@study-group.org\"}]"
   },
   {
     "id": 160058,
-    "instruction": "Cardiac rehab posted the week-one schedule at https://heartsteps.fit and challenged patients to ‘out-walk’ nurses. The leaderboard updates hourly like a stock-market ticker. Competition is healthy when steps are currency. I bookmarked the page beside memes. Motivation comes in pixels per stride.",
-    "output": [{"URL":"https://heartsteps.fit"}]
+    "instruction": "Cardiac rehab posted the week-one schedule at https://heartsteps.fit and challenged patients to \u2018out-walk\u2019 nurses. The leaderboard updates hourly like a stock-market ticker. Competition is healthy when steps are currency. I bookmarked the page beside memes. Motivation comes in pixels per stride.",
+    "output": "[{\"URL\": \"https://heartsteps.fit\"}]"
   },
   {
     "id": 160059,
-    "instruction": "The telemetry switchboard allocated 192.168.50.12 to my bedside tablet, then patted itself on the back using a command prompt. I named the IP ‘Vital Vader’. Even network addresses deserve personas. Darth Router would approve. Digital alliances forged.",
-    "output": [{"IPADDRESS":"192.168.50.12"}]
+    "instruction": "The telemetry switchboard allocated 192.168.50.12 to my bedside tablet, then patted itself on the back using a command prompt. I named the IP \u2018Vital Vader\u2019. Even network addresses deserve personas. Darth Router would approve. Digital alliances forged.",
+    "output": "[{\"IPADDRESS\": \"192.168.50.12\"}]"
   },
   {
     "id": 160060,
     "instruction": "Psychology follow-up called from 877-301-9200, leaving a voice guided breathing exercise between appointment details. It felt like voicemail yoga. I replayed it three times while waiting for lab draws. Stress lowered, ringtone thanked. Unexpected therapy delivered.",
-    "output": [{"PHONE":"877-301-9200"}]
+    "output": "[{\"PHONE\": \"877-301-9200\"}]"
   },
   {
     "id": 160061,
-    "instruction": "I faxed my occupational-therapy grid to 510-555-7044 and watched the page disappear like a mission-impossible briefing. Five ‘ka-chunks’ later the machine sighed success. Paper still pulls heroic stunts in a digital ward. Respect the retro.",
-    "output": [{"FAX":"510-555-7044"}]
+    "instruction": "I faxed my occupational-therapy grid to 510-555-7044 and watched the page disappear like a mission-impossible briefing. Five \u2018ka-chunks\u2019 later the machine sighed success. Paper still pulls heroic stunts in a digital ward. Respect the retro.",
+    "output": "[{\"FAX\": \"510-555-7044\"}]"
   },
   {
     "id": 160062,
-    "instruction": "Volunteer services emailed craftcorner@ kindness-hub.net inviting me to knit IV-pole cozies. The subject line included virtual confetti. Healing comes with yarn apparently. I’m in, needles first.",
-    "output": [{"EMAIL":"craftcorner@kindness-hub.net"}]
+    "instruction": "Volunteer services emailed craftcorner@ kindness-hub.net inviting me to knit IV-pole cozies. The subject line included virtual confetti. Healing comes with yarn apparently. I\u2019m in, needles first.",
+    "output": "[{\"EMAIL\": \"craftcorner@kindness-hub.net\"}]"
   },
   {
     "id": 160063,
     "instruction": "For wheelchair-ramp maps, rehab suggested http://access-maps.org which loads faster than elevator doors. The interface even cheers when you find a curb cut. Small wins matter when wheels roll. Bookmark saved.",
-    "output": [{"URL":"http://access-maps.org"}]
+    "output": "[{\"URL\": \"http://access-maps.org\"}]"
   },
   {
     "id": 160064,
     "instruction": "Clinic Wi-Fi assigned the infusion pump IP 10.77.88.23 and promptly pinged it like a virtual stethoscope. Connectivity pronounced healthy. Machines, take a bow.",
-    "output": [{"IPADDRESS":"10.77.88.23"}]
+    "output": "[{\"IPADDRESS\": \"10.77.88.23\"}]"
   },
   {
     "id": 160065,
-    "instruction": "Outreach nurse rang 646-555-3399 to confirm my neighborhood’s best pharmacy still stocks dinosaur-shaped bandages. Childhood nostalgia remains dosed-out. I said yes, make it a double.",
-    "output": [{"PHONE":"646-555-3399"}]
+    "instruction": "Outreach nurse rang 646-555-3399 to confirm my neighborhood\u2019s best pharmacy still stocks dinosaur-shaped bandages. Childhood nostalgia remains dosed-out. I said yes, make it a double.",
+    "output": "[{\"PHONE\": \"646-555-3399\"}]"
   },
   {
     "id": 160066,
     "instruction": "I faxed a medication-list update to 913-555-4421 because pharmacists appreciate crisp ink more than blurry smartphones. Pages hummed through like orderly soldiers. Mission accomplished on cellulose.",
-    "output": [{"FAX":"913-555-4421"}]
+    "output": "[{\"FAX\": \"913-555-4421\"}]"
   },
   {
     "id": 160067,
     "instruction": "Newsletter sign-up from hope@recovery-rally.org slid into my inbox with glittering GIFs and a promise of monthly pep. Emails can sparkle louder than sequins. Count me subscribed.",
-    "output": [{"EMAIL":"hope@recovery-rally.org"}]
+    "output": "[{\"EMAIL\": \"hope@recovery-rally.org\"}]"
   },
   {
     "id": 160068,
     "instruction": "The diet app update at https://eat-wise.app now rewards carrot emojis for hydration logs. Gamified veggies for the win. Bookmarked and carrot-clicked.",
-    "output": [{"URL":"https://eat-wise.app"}]
+    "output": "[{\"URL\": \"https://eat-wise.app\"}]"
   },
   {
     "id": 160069,
     "instruction": "Radiology workstation self-reported IP 172.18.44.88 like a proud ID badge, then promptly froze for applause. Tech support laughed and rebooted the diva. Show over, scans resumed.",
-    "output": [{"IPADDRESS":"172.18.44.88"}]
+    "output": "[{\"IPADDRESS\": \"172.18.44.88\"}]"
   },
   {
     "id": 160070,
     "instruction": "Sutures clinic called from 715-555-1199 to remind me stitches are the original wearable tech. I added the number to favorites just in case. Better safe than unravelled.",
-    "output": [{"PHONE":"715-555-1199"}]
+    "output": "[{\"PHONE\": \"715-555-1199\"}]"
   },
   {
     "id": 160071,
-    "instruction": "I faxed pre-op anesthesia forms to 662-555-8012 and the machine sang its dial-tone lullaby. Retro calm washed over me—paper anesthesia.",
-    "output": [{"FAX":"662-555-8012"}]
+    "instruction": "I faxed pre-op anesthesia forms to 662-555-8012 and the machine sang its dial-tone lullaby. Retro calm washed over me\u2014paper anesthesia.",
+    "output": "[{\"FAX\": \"662-555-8012\"}]"
   },
   {
     "id": 160072,
     "instruction": "Legal dropped a privacy-policy revision via compliance@patient-rights.us with bullet points sharper than scalpels. Reading required caffeine stitches. I survived.",
-    "output": [{"EMAIL":"compliance@patient-rights.us"}]
+    "output": "[{\"EMAIL\": \"compliance@patient-rights.us\"}]"
   },
   {
     "id": 160073,
     "instruction": "The PT shared a stretching playlist at https://flex-mix.playlist and dared me to out-dance the theraband. Challenge bookmarked, hips pending.",
-    "output": [{"URL":"https://flex-mix.playlist"}]
+    "output": "[{\"URL\": \"https://flex-mix.playlist\"}]"
   },
   {
     "id": 160074,
     "instruction": "Step-counter wristband claimed network land at IP 192.168.3.33 and immediately boasted 200 steps while still on the charger. Overachiever detected.",
-    "output": [{"IPADDRESS":"192.168.3.33"}]
+    "output": "[{\"IPADDRESS\": \"192.168.3.33\"}]"
   },
   {
     "id": 160075,
     "instruction": "Discharge nurse phoned from 818-555-7710 with a reminder to rest; her ringtone was ironically a marathon whistle. Humor heals.",
-    "output": [{"PHONE":"818-555-7710"}]
+    "output": "[{\"PHONE\": \"818-555-7710\"}]"
   },
   {
     "id": 160076,
     "instruction": "I faxed dietary tweaks to 303-555-9914 and the page emerged spike-free, unlike hospital Jell-O. Small mercies.",
-    "output": [{"FAX":"303-555-9914"}]
+    "output": "[{\"FAX\": \"303-555-9914\"}]"
   },
   {
     "id": 160077,
     "instruction": "Volunteer email smiles@healing-faces.net offered free portrait sketches for long-stay patients. My mirror approves the upgrade.",
-    "output": [{"EMAIL":"smiles@healing-faces.net"}]
+    "output": "[{\"EMAIL\": \"smiles@healing-faces.net\"}]"
   },
   {
     "id": 160078,
     "instruction": "Billing portal https://ledger.lightpay.health gave my debit card stage fright but finally applauded transaction success.",
-    "output": [{"URL":"https://ledger.lightpay.health"}]
+    "output": "[{\"URL\": \"https://ledger.lightpay.health\"}]"
   },
   {
     "id": 160079,
     "instruction": "The vitals app hopped onto IP 10.42.0.19 and started pinging itself with ego-boosting latency checks. Narcissistic but functional.",
-    "output": [{"IPADDRESS":"10.42.0.19"}]
+    "output": "[{\"IPADDRESS\": \"10.42.0.19\"}]"
   },
   {
     "id": 160080,
-    "instruction": "Sleep-clinic alarm line 877-555-3344 called at 6 a.m. to ask how dreams tasted—decaf déjà vu, apparently.",
-    "output": [{"PHONE":"877-555-3344"}]
+    "instruction": "Sleep-clinic alarm line 877-555-3344 called at 6 a.m. to ask how dreams tasted\u2014decaf d\u00e9j\u00e0 vu, apparently.",
+    "output": "[{\"PHONE\": \"877-555-3344\"}]"
   },
   {
     "id": 160081,
     "instruction": "The ortho fax 508-555-1200 finally received my brace measurements after three paper jams; devices fear leg day too.",
-    "output": [{"FAX":"508-555-1200"}]
+    "output": "[{\"FAX\": \"508-555-1200\"}]"
   },
   {
     "id": 160082,
     "instruction": "Newsletter unsubscribe worked through recover@unsubscribe-me.org with surprising kindness. Inbox exhaled relief.",
-    "output": [{"EMAIL":"recover@unsubscribe-me.org"}]
+    "output": "[{\"EMAIL\": \"recover@unsubscribe-me.org\"}]"
   },
   {
     "id": 160083,
-    "instruction": "I bookmarked https://sparkle.smile.dental for post-chemo whitening inspo—hope is enamel-colored.",
-    "output": [{"URL":"https://sparkle.smile.dental"}]
+    "instruction": "I bookmarked https://sparkle.smile.dental for post-chemo whitening inspo\u2014hope is enamel-colored.",
+    "output": "[{\"URL\": \"https://sparkle.smile.dental\"}]"
   },
   {
     "id": 160084,
     "instruction": "Ward monitor grabbed IP 172.25.4.55 then blinked like a disco ball until IT dimmed its enthusiasm.",
-    "output": [{"IPADDRESS":"172.25.4.55"}]
+    "output": "[{\"IPADDRESS\": \"172.25.4.55\"}]"
   },
   {
     "id": 160085,
     "instruction": "Nurse practitioner called from 303-555-8877 to congratulate my blood pressure on being boring. Best compliment ever.",
-    "output": [{"PHONE":"303-555-8877"}]
+    "output": "[{\"PHONE\": \"303-555-8877\"}]"
   },
   {
     "id": 160086,
     "instruction": "I faxed the occupational-therapy doodle plan to 702-555-4412; yes, stick figures appreciate analog delivery.",
-    "output": [{"FAX":"702-555-4412"}]
+    "output": "[{\"FAX\": \"702-555-4412\"}]"
   },
   {
     "id": 160087,
-    "instruction": "The art-therapy invite came from brushstrokes@canvas-care.art with subject ‘Paint Your Pulse’. Inbox framed.",
-    "output": [{"EMAIL":"brushstrokes@canvas-care.art"}]
+    "instruction": "The art-therapy invite came from brushstrokes@canvas-care.art with subject \u2018Paint Your Pulse\u2019. Inbox framed.",
+    "output": "[{\"EMAIL\": \"brushstrokes@canvas-care.art\"}]"
   },
   {
     "id": 160088,
     "instruction": "I filed insurance appeal via https://claims-redo.insure and the submit button sighed like a drama queen.",
-    "output": [{"URL":"https://claims-redo.insure"}]
+    "output": "[{\"URL\": \"https://claims-redo.insure\"}]"
   },
   {
     "id": 160089,
-    "instruction": "Bedside tablet joined network as IP 192.168.10.77 then asked for Netflix permissions—priorities in pixels.",
-    "output": [{"IPADDRESS":"192.168.10.77"}]
+    "instruction": "Bedside tablet joined network as IP 192.168.10.77 then asked for Netflix permissions\u2014priorities in pixels.",
+    "output": "[{\"IPADDRESS\": \"192.168.10.77\"}]"
   },
   {
     "id": 160090,
     "instruction": "Cardio nurse called 646-555-6600 to celebrate my first 500 stairs; phone high fives are calorie-free.",
-    "output": [{"PHONE":"646-555-6600"}]
+    "output": "[{\"PHONE\": \"646-555-6600\"}]"
   },
   {
     "id": 160091,
     "instruction": "Insurance fax 818-555-5510 ate my appeal twice then accepted it like a reluctant toddler. Perseverance printed.",
-    "output": [{"FAX":"818-555-5510"}]
+    "output": "[{\"FAX\": \"818-555-5510\"}]"
   },
   {
     "id": 160092,
     "instruction": "Research team emailed genome@code-life.io asking for saliva 2.0 collection; genetics never sleeps.",
-    "output": [{"EMAIL":"genome@code-life.io"}]
+    "output": "[{\"EMAIL\": \"genome@code-life.io\"}]"
   },
   {
     "id": 160093,
     "instruction": "The wound-care guide lives at https://heal.quicksteps.org and loads images just graphic enough to behave like caution tape.",
-    "output": [{"URL":"https://heal.quicksteps.org"}]
+    "output": "[{\"URL\": \"https://heal.quicksteps.org\"}]"
   },
   {
     "id": 160094,
     "instruction": "ICU hub gave ventilator alias IP 10.0.0.254, a VIP address one hop shy of royalty. It bowed in binary.",
-    "output": [{"IPADDRESS":"10.0.0.254"}]
+    "output": "[{\"IPADDRESS\": \"10.0.0.254\"}]"
   },
   {
     "id": 160095,
     "instruction": "Derm study line 800-555-7711 asked if my freckles feel chatty. I answered with SPF.",
-    "output": [{"PHONE":"800-555-7711"}]
+    "output": "[{\"PHONE\": \"800-555-7711\"}]"
   },
   {
     "id": 160096,
     "instruction": "I faxed hospice consent to 660-555-9988; paper carried grace where email felt blunt. Quiet victories.",
-    "output": [{"FAX":"660-555-9988"}]
+    "output": "[{\"FAX\": \"660-555-9988\"}]"
   },
   {
     "id": 160097,
     "instruction": "Tech support replied from bytes@uplift.health with a GIF of a cheering laptop. Mood elevated.",
-    "output": [{"EMAIL":"bytes@uplift.health"}]
+    "output": "[{\"EMAIL\": \"bytes@uplift.health\"}]"
   },
   {
     "id": 160098,
     "instruction": "Nutrition portal https://menu.hidden-veggies.com gamified broccoli into badge points; I surrendered and clicked.",
-    "output": [{"URL":"https://menu.hidden-veggies.com"}]
+    "output": "[{\"URL\": \"https://menu.hidden-veggies.com\"}]"
   },
   {
     "id": 160099,
     "instruction": "The IV pump registered as IP 172.30.99.9 and promptly complained about daylight-saving lag. Machines get jet-lag too.",
-    "output": [{"IPADDRESS":"172.30.99.9"}]
+    "output": "[{\"IPADDRESS\": \"172.30.99.9\"}]"
   }
 ]

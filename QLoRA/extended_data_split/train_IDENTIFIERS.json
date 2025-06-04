@@ -7693,650 +7693,505 @@
     "id": 84980,
     "instruction": "\u5582",
     "output": "[]"
-  }, 
+  },
   {
     "id": 140000,
     "instruction": "During the night-shift huddle the charge nurse read out my temporary identifier 8QF7LX2D so everyone knew which isolation room to visit. She double-checked my wristband to confirm medical record 912884.HKG before hanging a fresh IV. The lab porter reminded her that specimen tubes must also list the biometric code FPR-781642 to match the patient portal. I nodded even though half the acronyms still sound like airport codes at 3 a.m.",
-    "output": [
-      {"ID_NUMBER": "8QF7LX2D"},
-      {"MEDICAL_RECORD_NUMBER": "912884.HKG"},
-      {"BIOMETRIC_ID": "FPR-781642"}
-    ]
+    "output": "[{\"ID_NUMBER\": \"8QF7LX2D\"}, {\"MEDICAL_RECORD_NUMBER\": \"912884.HKG\"}, {\"BIOMETRIC_ID\": \"FPR-781642\"}]"
   },
   {
     "id": 140001,
-    "instruction": "Just before surgery the registrar copied my health-plan number HP-550772319 onto three different forms, swearing insurance demons hate typos. She smiled when I recited my social security 384-66-2091 without looking, proof the pre-op sedative hadn’t kicked in yet. I secretly worried the anesthesia mask might wipe that memory faster than it erases pain.",
-    "output": [
-      {"HEALTH_PLAN_NUMBER": "HP-550772319"},
-      {"SOCIAL_SECURITY_NUMBER": "384-66-2091"}
-    ]
+    "instruction": "Just before surgery the registrar copied my health-plan number HP-550772319 onto three different forms, swearing insurance demons hate typos. She smiled when I recited my social security 384-66-2091 without looking, proof the pre-op sedative hadn\u2019t kicked in yet. I secretly worried the anesthesia mask might wipe that memory faster than it erases pain.",
+    "output": "[{\"HEALTH_PLAN_NUMBER\": \"HP-550772319\"}, {\"SOCIAL_SECURITY_NUMBER\": \"384-66-2091\"}]"
   },
   {
     "id": 140002,
     "instruction": "While connecting me to the mobile telemetry pack, the tech scanned device ID DVC-5E4B7C2A into the charting system. He then verified medical record 304221.VFX on the wall monitor and said the two numbers have to marry happily or alarms will nag all night. I joked that my vitals enjoy dramatic attention.",
-    "output": [
-      {"DEVICE_ID": "DVC-5E4B7C2A"},
-      {"MEDICAL_RECORD_NUMBER": "304221.VFX"}
-    ]
+    "output": "[{\"DEVICE_ID\": \"DVC-5E4B7C2A\"}, {\"MEDICAL_RECORD_NUMBER\": \"304221.VFX\"}]"
   },
   {
     "id": 140003,
-    "instruction": "In the ambulance report they listed our crash-car’s VIN 1HGCM82633A881542 right next to my bruised-rib diagnosis. The trauma clerk copied that vehicle ID into the incident log so insurance can’t claim clerical confusion later. Apparently steel digits travel faster than rib fractures do.",
-    "output": [
-      {"VEHICLE_ID": "1HGCM82633A881542"}
-    ]
+    "instruction": "In the ambulance report they listed our crash-car\u2019s VIN 1HGCM82633A881542 right next to my bruised-rib diagnosis. The trauma clerk copied that vehicle ID into the incident log so insurance can\u2019t claim clerical confusion later. Apparently steel digits travel faster than rib fractures do.",
+    "output": "[{\"VEHICLE_ID\": \"1HGCM82633A881542\"}]"
   },
   {
     "id": 140004,
-    "instruction": "The dialysis nurse tapped my account 661004229155 into the billing tablet and winced at the pending total. She comforted me with a joke about coffee costing more than calcium binders, then stuck a bright sticker over the screen so I wouldn’t stare at numbers longer than needles.",
-    "output": [
-      {"ACCOUNT_NUMBER": "661004229155"}
-    ]
+    "instruction": "The dialysis nurse tapped my account 661004229155 into the billing tablet and winced at the pending total. She comforted me with a joke about coffee costing more than calcium binders, then stuck a bright sticker over the screen so I wouldn\u2019t stare at numbers longer than needles.",
+    "output": "[{\"ACCOUNT_NUMBER\": \"661004229155\"}]"
   },
   {
     "id": 140005,
     "instruction": "Security issued me badge code ID 3ZR8HYKF after fingerprint FPR-514203 cleared, promising the elevator will now obey my tired thumb. Somewhere between radiology and cafeteria the barcode beep feels like a tiny victory cheer each time it lights green.",
-    "output": [
-      {"ID_NUMBER": "3ZR8HYKF"},
-      {"BIOMETRIC_ID": "FPR-514203"}
-    ]
+    "output": "[{\"ID_NUMBER\": \"3ZR8HYKF\"}, {\"BIOMETRIC_ID\": \"FPR-514203\"}]"
   },
   {
     "id": 140006,
-    "instruction": "The anesthetist confirmed my driver’s license DL4490TX aloud, then typed medical record 774120.QPS into the syringe pump to bind the records. I teased that if the drugs forget me at least the database won’t.",
-    "output": [
-      {"LICENSE_NUMBER": "DL4490TX"},
-      {"MEDICAL_RECORD_NUMBER": "774120.QPS"}
-    ]
+    "instruction": "The anesthetist confirmed my driver\u2019s license DL4490TX aloud, then typed medical record 774120.QPS into the syringe pump to bind the records. I teased that if the drugs forget me at least the database won\u2019t.",
+    "output": "[{\"LICENSE_NUMBER\": \"DL4490TX\"}, {\"MEDICAL_RECORD_NUMBER\": \"774120.QPS\"}]"
   },
   {
     "id": 140007,
     "instruction": "While prepping my PICC-line, the nurse read out health-plan HP-662998440, license DL3314CA for ID verification, and finally asked me my favorite pizza topping to break the monotony. Pineapple apparently surprises fewer nurses than complicated benefits codes.",
-    "output": [
-      {"HEALTH_PLAN_NUMBER": "HP-662998440"},
-      {"LICENSE_NUMBER": "DL3314CA"}
-    ]
+    "output": "[{\"HEALTH_PLAN_NUMBER\": \"HP-662998440\"}, {\"LICENSE_NUMBER\": \"DL3314CA\"}]"
   },
   {
     "id": 140008,
-    "instruction": "The ward clerk highlighted social security 215-91-6742 on the discharge packet in neon orange so I won’t misplace the form among prescriptions. She said the color scares photocopiers into clarity, which sounded superstitious but oddly comforting.",
-    "output": [
-      {"SOCIAL_SECURITY_NUMBER": "215-91-6742"}
-    ]
+    "instruction": "The ward clerk highlighted social security 215-91-6742 on the discharge packet in neon orange so I won\u2019t misplace the form among prescriptions. She said the color scares photocopiers into clarity, which sounded superstitious but oddly comforting.",
+    "output": "[{\"SOCIAL_SECURITY_NUMBER\": \"215-91-6742\"}]"
   },
   {
     "id": 140009,
     "instruction": "During radiology rounds the intern noticed my generic ID 6NF4WM8E on seven different labels yet my name only on six. Before I could panic she printed a fresh sticker, arguing numbers never blush from typos, people do.",
-    "output": [
-      {"ID_NUMBER": "6NF4WM8E"}
-    ]
+    "output": "[{\"ID_NUMBER\": \"6NF4WM8E\"}]"
   },
   {
     "id": 140010,
     "instruction": "The pharmacist scanned device DVC-A2C19F4B attached to my infusion pump and muttered about firmware updates. Right after that, she added account 775400982201 to the billing queue so the system knows who to thank for the hardware romance.",
-    "output": [
-      {"DEVICE_ID": "DVC-A2C19F4B"},
-      {"ACCOUNT_NUMBER": "775400982201"}
-    ]
+    "output": "[{\"DEVICE_ID\": \"DVC-A2C19F4B\"}, {\"ACCOUNT_NUMBER\": \"775400982201\"}]"
   },
   {
     "id": 140011,
     "instruction": "While I lay beneath the echo probe, the cardiology fellow scribbled medical record 619332.LBM on her glove for quick reference. She winked, saying exam gloves double as sticky notes when printers jam more than hearts do.",
-    "output": [
-      {"MEDICAL_RECORD_NUMBER": "619332.LBM"}
-    ]
+    "output": "[{\"MEDICAL_RECORD_NUMBER\": \"619332.LBM\"}]"
   },
   {
     "id": 140012,
     "instruction": "Registration confirmed health plan HP-900114562 with a triumphant ding, then forged onward to verify my temporary tag ID 4TJ9PK2S. The clerk claimed alignment of cosmic and insurance codes prevents billing eclipses.",
-    "output": [
-      {"HEALTH_PLAN_NUMBER": "HP-900114562"},
-      {"ID_NUMBER": "4TJ9PK2S"}
-    ]
+    "output": "[{\"HEALTH_PLAN_NUMBER\": \"HP-900114562\"}, {\"ID_NUMBER\": \"4TJ9PK2S\"}]"
   },
   {
     "id": 140013,
-    "instruction": "Before wheeling me to CT, transport called out driver’s license DL7883OH for identity check. I answered with a thumbs-up even though the gurney blanket had more pockets than my actual jeans.",
-    "output": [
-      {"LICENSE_NUMBER": "DL7883OH"}
-    ]
+    "instruction": "Before wheeling me to CT, transport called out driver\u2019s license DL7883OH for identity check. I answered with a thumbs-up even though the gurney blanket had more pockets than my actual jeans.",
+    "output": "[{\"LICENSE_NUMBER\": \"DL7883OH\"}]"
   },
   {
     "id": 140014,
-    "instruction": "The lab requisition carried biometric code FPR-330917 in bold, ensuring my fingerprint scan matches every tube. It’s odd feeling like a barcode with a pulse, yet accuracy tastes sweeter than mix-ups.",
-    "output": [
-      {"BIOMETRIC_ID": "FPR-330917"}
-    ]
+    "instruction": "The lab requisition carried biometric code FPR-330917 in bold, ensuring my fingerprint scan matches every tube. It\u2019s odd feeling like a barcode with a pulse, yet accuracy tastes sweeter than mix-ups.",
+    "output": "[{\"BIOMETRIC_ID\": \"FPR-330917\"}]"
   },
   {
     "id": 140015,
     "instruction": "Finance printed my invoice on paper thicker than courage, listing account 220118004551 at the top. I folded it into origami just to prove debt can bend without breaking spirits.",
-    "output": [
-      {"ACCOUNT_NUMBER": "220118004551"}
-    ]
+    "output": "[{\"ACCOUNT_NUMBER\": \"220118004551\"}]"
   },
   {
     "id": 140016,
     "instruction": "During the fire-drill shuffle, security flashed VIN 4T1BE46K27U112345 from the parking log to match keys with owners. Somehow my broken bumper now has more paperwork than my entire medical file.",
-    "output": [
-      {"VEHICLE_ID": "4T1BE46K27U112345"}
-    ]
+    "output": "[{\"VEHICLE_ID\": \"4T1BE46K27U112345\"}]"
   },
   {
     "id": 140017,
-    "instruction": "The IT specialist slapped a sticker reading DVC-7B0E8D3C onto the replacement vitals monitor, assuring the ward the machine would now behave. He compared device IDs to pet names—each one listens better once labeled.",
-    "output": [
-      {"DEVICE_ID": "DVC-7B0E8D3C"}
-    ]
+    "instruction": "The IT specialist slapped a sticker reading DVC-7B0E8D3C onto the replacement vitals monitor, assuring the ward the machine would now behave. He compared device IDs to pet names\u2014each one listens better once labeled.",
+    "output": "[{\"DEVICE_ID\": \"DVC-7B0E8D3C\"}]"
   },
   {
     "id": 140018,
     "instruction": "HR sent a form requesting my social security 602-58-1907 again because the previous copy apparently joined the sock-lost-in-dryer society. Paperwork has a vibrant nightlife nobody tells patients about.",
-    "output": [
-      {"SOCIAL_SECURITY_NUMBER": "602-58-1907"}
-    ]
+    "output": "[{\"SOCIAL_SECURITY_NUMBER\": \"602-58-1907\"}]"
   },
   {
     "id": 140019,
     "instruction": "The nursing station whiteboard displayed medical record 883211.QJV next to my diet order, proving numbers decide what soup I swallow. At least the digits never mispronounce my name.",
-    "output": [
-      {"MEDICAL_RECORD_NUMBER": "883211.QJV"}
-    ]
+    "output": "[{\"MEDICAL_RECORD_NUMBER\": \"883211.QJV\"}]"
   },
   {
     "id": 140020,
-    "instruction": "Billing highlighted account 991221440088 in neon so the auditor won’t mistake my charges for yesterday’s mystery patient. Highlighters are hospital mood lighting for accountants.",
-    "output": [
-      {"ACCOUNT_NUMBER": "991221440088"}
-    ]
+    "instruction": "Billing highlighted account 991221440088 in neon so the auditor won\u2019t mistake my charges for yesterday\u2019s mystery patient. Highlighters are hospital mood lighting for accountants.",
+    "output": "[{\"ACCOUNT_NUMBER\": \"991221440088\"}]"
   },
   {
     "id": 140021,
     "instruction": "The dietician laughed that my health-plan HP-441558882 covers extra pudding cups but not almond milk. Insurance logic could power abstract art.",
-    "output": [
-      {"HEALTH_PLAN_NUMBER": "HP-441558882"}
-    ]
+    "output": "[{\"HEALTH_PLAN_NUMBER\": \"HP-441558882\"}]"
   },
   {
     "id": 140022,
     "instruction": "Security granted me badge ID 2HM5XYQD to open the rehab gym after hours. Swiping it feels like a VIP pass to muscle soreness.",
-    "output": [
-      {"ID_NUMBER": "2HM5XYQD"}
-    ]
+    "output": "[{\"ID_NUMBER\": \"2HM5XYQD\"}]"
   },
   {
     "id": 140023,
     "instruction": "Lab posted biometric code FPR-140512 on every tube, assuring the vampires know whose veins they raided at dawn.",
-    "output": [
-      {"BIOMETRIC_ID": "FPR-140512"}
-    ]
+    "output": "[{\"BIOMETRIC_ID\": \"FPR-140512\"}]"
   },
   {
     "id": 140024,
-    "instruction": "Driver’s license DL5027FL was shouted across triage like a bingo call, followed by my actual name once the nurse caught her breath.",
-    "output": [
-      {"LICENSE_NUMBER": "DL5027FL"}
-    ]
+    "instruction": "Driver\u2019s license DL5027FL was shouted across triage like a bingo call, followed by my actual name once the nurse caught her breath.",
+    "output": "[{\"LICENSE_NUMBER\": \"DL5027FL\"}]"
   },
   {
     "id": 140025,
-    "instruction": "A bright sticker reading DVC-CF1E09A2 appeared on my IV pole overnight, announcing the pump’s software finally made the honor roll.",
-    "output": [
-      {"DEVICE_ID": "DVC-CF1E09A2"}
-    ]
+    "instruction": "A bright sticker reading DVC-CF1E09A2 appeared on my IV pole overnight, announcing the pump\u2019s software finally made the honor roll.",
+    "output": "[{\"DEVICE_ID\": \"DVC-CF1E09A2\"}]"
   },
   {
     "id": 140026,
     "instruction": "The registrar snapped a photo of VIN 1FAFP40411F199876 on the break-room whiteboard quiz, turning car trivia into shift diversion.",
-    "output": [
-      {"VEHICLE_ID": "1FAFP40411F199876"}
-    ]
+    "output": "[{\"VEHICLE_ID\": \"1FAFP40411F199876\"}]"
   },
   {
     "id": 140027,
     "instruction": "My new temp ID 5XG4NJ8V printed with the ink still wet, proving hospital bureaucracy breeds faster than bacteria.",
-    "output": [
-      {"ID_NUMBER": "5XG4NJ8V"}
-    ]
+    "output": "[{\"ID_NUMBER\": \"5XG4NJ8V\"}]"
   },
   {
     "id": 140028,
     "instruction": "The biller recited health plan HP-330118772 three times like a spell to summon prior authorization approval. Silence followed; magic still pending.",
-    "output": [
-      {"HEALTH_PLAN_NUMBER": "HP-330118772"}
-    ]
+    "output": "[{\"HEALTH_PLAN_NUMBER\": \"HP-330118772\"}]"
   },
   {
     "id": 140029,
-    "instruction": "MRI scheduling stapled medical record 701204.NTZ to a neon slip titled ‘Claustrophobia? Y/N’—I circled maybe.",
-    "output": [
-      {"MEDICAL_RECORD_NUMBER": "701204.NTZ"}
-    ]
+    "instruction": "MRI scheduling stapled medical record 701204.NTZ to a neon slip titled \u2018Claustrophobia? Y/N\u2019\u2014I circled maybe.",
+    "output": "[{\"MEDICAL_RECORD_NUMBER\": \"701204.NTZ\"}]"
   },
   {
     "id": 140030,
-    "instruction": "Finance flagged account 441110338921 with an asterisk that apparently means ‘explainable after coffee.’ I decided to wait until caffeine arrived.",
-    "output": [
-      {"ACCOUNT_NUMBER": "441110338921"}
-    ]
+    "instruction": "Finance flagged account 441110338921 with an asterisk that apparently means \u2018explainable after coffee.\u2019 I decided to wait until caffeine arrived.",
+    "output": "[{\"ACCOUNT_NUMBER\": \"441110338921\"}]"
   },
   {
     "id": 140031,
     "instruction": "Security typed my social security 477-21-9951 into a form the size of a postcard. Identity apparently fits better on glossy cardstock.",
-    "output": [
-      {"SOCIAL_SECURITY_NUMBER": "477-21-9951"}
-    ]
+    "output": "[{\"SOCIAL_SECURITY_NUMBER\": \"477-21-9951\"}]"
   },
   {
     "id": 140032,
     "instruction": "Transport scanned device ID DVC-E1A4F5C0 at every elevator landing. The scanner beep echoed like breadcrumbs leading me back to bed.",
-    "output": [
-      {"DEVICE_ID": "DVC-E1A4F5C0"}
-    ]
+    "output": "[{\"DEVICE_ID\": \"DVC-E1A4F5C0\"}]"
   },
   {
     "id": 140033,
     "instruction": "My vehicle VIN 2HGFG3B56FH611223 found its way onto the visitor-parking log even though the car is still at the body shop. Paperwork travels faster than tow trucks.",
-    "output": [
-      {"VEHICLE_ID": "2HGFG3B56FH611223"}
-    ]
+    "output": "[{\"VEHICLE_ID\": \"2HGFG3B56FH611223\"}]"
   },
   {
     "id": 140034,
-    "instruction": "License DL1198AZ got photocopied so many times today it now looks like modern art in grayscale. Identity smudges but doesn’t smear, apparently.",
-    "output": [
-      {"LICENSE_NUMBER": "DL1198AZ"}
-    ]
+    "instruction": "License DL1198AZ got photocopied so many times today it now looks like modern art in grayscale. Identity smudges but doesn\u2019t smear, apparently.",
+    "output": "[{\"LICENSE_NUMBER\": \"DL1198AZ\"}]"
   },
   {
     "id": 140035,
     "instruction": "New badge code ID 9VF3WH6R unlocks the family lounge vending machine, which might be the most critical doorway in recovery.",
-    "output": [
-      {"ID_NUMBER": "9VF3WH6R"}
-    ]
+    "output": "[{\"ID_NUMBER\": \"9VF3WH6R\"}]"
   },
   {
     "id": 140036,
     "instruction": "The surgeon scribbled medical record 552119.QWN on my cast like an autograph, promising that ortho residents pay for signatures in coffee.",
-    "output": [
-      {"MEDICAL_RECORD_NUMBER": "552119.QWN"}
-    ]
+    "output": "[{\"MEDICAL_RECORD_NUMBER\": \"552119.QWN\"}]"
   },
   {
     "id": 140037,
     "instruction": "Health plan HP-880441339 approved my post-op brace but rejected the color upgrade. Apparently fashion is elective.",
-    "output": [
-      {"HEALTH_PLAN_NUMBER": "HP-880441339"}
-    ]
+    "output": "[{\"HEALTH_PLAN_NUMBER\": \"HP-880441339\"}]"
   },
   {
     "id": 140038,
-    "instruction": "Account 300442118552 now sports a zero balance after insurance swept through like a benevolent hurricane. Paper confetti would’ve been nice.",
-    "output": [
-      {"ACCOUNT_NUMBER": "300442118552"}
-    ]
+    "instruction": "Account 300442118552 now sports a zero balance after insurance swept through like a benevolent hurricane. Paper confetti would\u2019ve been nice.",
+    "output": "[{\"ACCOUNT_NUMBER\": \"300442118552\"}]"
   },
   {
     "id": 140039,
     "instruction": "Biometric code FPR-260911 flashed green, granting me access to the physiotherapy gym. My thumb now moonlights as a keycard.",
-    "output": [
-      {"BIOMETRIC_ID": "FPR-260911"}
-    ]
+    "output": "[{\"BIOMETRIC_ID\": \"FPR-260911\"}]"
   },
   {
     "id": 140040,
     "instruction": "Security logged VIN 3N1AB7AP0KY249876 for overnight lot patrol, proving my dented sedan now enjoys round-the-clock surveillance it never had at home.",
-    "output": [
-      {"VEHICLE_ID": "3N1AB7AP0KY249876"}
-    ]
+    "output": "[{\"VEHICLE_ID\": \"3N1AB7AP0KY249876\"}]"
   },
   {
     "id": 140041,
-    "instruction": "Device sticker DVC-4B190E6D arrived on the new portable suction unit, and the RT christened it ‘Darth Vac’ immediately.",
-    "output": [
-      {"DEVICE_ID": "DVC-4B190E6D"}
-    ]
+    "instruction": "Device sticker DVC-4B190E6D arrived on the new portable suction unit, and the RT christened it \u2018Darth Vac\u2019 immediately.",
+    "output": "[{\"DEVICE_ID\": \"DVC-4B190E6D\"}]"
   },
   {
     "id": 140042,
-    "instruction": "My social security 144-70-3321 printed crooked on the W-4 form; HR shrugged and said the IRS doesn’t grade alignment.",
-    "output": [
-      {"SOCIAL_SECURITY_NUMBER": "144-70-3321"}
-    ]
+    "instruction": "My social security 144-70-3321 printed crooked on the W-4 form; HR shrugged and said the IRS doesn\u2019t grade alignment.",
+    "output": "[{\"SOCIAL_SECURITY_NUMBER\": \"144-70-3321\"}]"
   },
   {
     "id": 140043,
     "instruction": "License DL6609NY glared at me from the visitor badge after three laminations; each layer thicker than hospital lasagna.",
-    "output": [
-      {"LICENSE_NUMBER": "DL6609NY"}
-    ]
+    "output": "[{\"LICENSE_NUMBER\": \"DL6609NY\"}]"
   },
   {
     "id": 140044,
     "instruction": "Health plan HP-712006420 turned my referral into a scavenger hunt; every phone extension led to voicemail treasure.",
-    "output": [
-      {"HEALTH_PLAN_NUMBER": "HP-712006420"}
-    ]
+    "output": "[{\"HEALTH_PLAN_NUMBER\": \"HP-712006420\"}]"
   },
   {
     "id": 140045,
     "instruction": "ID tag 6PK2GZ7M stuck to my water pitcher so nobody confuses my ice chips with contraband soda. Hydration by serial number.",
-    "output": [
-      {"ID_NUMBER": "6PK2GZ7M"}
-    ]
+    "output": "[{\"ID_NUMBER\": \"6PK2GZ7M\"}]"
   },
   {
     "id": 140046,
-    "instruction": "Medical record 633204.VBZ was handwritten on the OR board in glitter marker—surgery meets stationery club.",
-    "output": [
-      {"MEDICAL_RECORD_NUMBER": "633204.VBZ"}
-    ]
+    "instruction": "Medical record 633204.VBZ was handwritten on the OR board in glitter marker\u2014surgery meets stationery club.",
+    "output": "[{\"MEDICAL_RECORD_NUMBER\": \"633204.VBZ\"}]"
   },
   {
     "id": 140047,
     "instruction": "Account 551440008733 received a partial refund and the finance clerk celebrated by stapling a smiley face to the statement. Paper happiness counts.",
-    "output": [
-      {"ACCOUNT_NUMBER": "551440008733"}
-    ]
+    "output": "[{\"ACCOUNT_NUMBER\": \"551440008733\"}]"
   },
   {
     "id": 140048,
     "instruction": "Biometric ID FPR-820774 lights up the visitor kiosk faster than any ID card; apparently fingerprints skip the small talk.",
-    "output": [
-      {"BIOMETRIC_ID": "FPR-820774"}
-    ]
+    "output": "[{\"BIOMETRIC_ID\": \"FPR-820774\"}]"
   },
   {
     "id": 140049,
-    "instruction": "Vehicle ID 5YJ3E1EA7JF108765 made its way onto the valet ticket, ensuring my electric car won’t sneak off to recharge without me.",
-    "output": [
-      {"VEHICLE_ID": "5YJ3E1EA7JF108765"}
-    ]
-  }, 
+    "instruction": "Vehicle ID 5YJ3E1EA7JF108765 made its way onto the valet ticket, ensuring my electric car won\u2019t sneak off to recharge without me.",
+    "output": "[{\"VEHICLE_ID\": \"5YJ3E1EA7JF108765\"}]"
+  },
   {
     "id": 140050,
     "instruction": "The dietitian popped back in to verify health-plan number HP-774330115 before she could order my protein shakes. She laughed that insurance codes treat fruit flavors like pharmaceuticals. A few minutes later the clerk rang to confirm my account 773019441122 because pudding apparently requires double clearance. Hospitals take dessert very seriously.",
-    "output": [
-      {"HEALTH_PLAN_NUMBER": "HP-774330115"},
-      {"ACCOUNT_NUMBER": "773019441122"}
-    ]
+    "output": "[{\"HEALTH_PLAN_NUMBER\": \"HP-774330115\"}, {\"ACCOUNT_NUMBER\": \"773019441122\"}]"
   },
   {
     "id": 140051,
-    "instruction": "During the shift change the nurse read my driver’s license DL5588AL aloud, then tapped biometric ID FPR-411225 on the scanner to unlock the med cart. She joked that thumbprints never forget allergy alerts even when nurses do. Technology keeps us honest and caffeinated.",
-    "output": [
-      {"LICENSE_NUMBER": "DL5588AL"},
-      {"BIOMETRIC_ID": "FPR-411225"}
-    ]
+    "instruction": "During the shift change the nurse read my driver\u2019s license DL5588AL aloud, then tapped biometric ID FPR-411225 on the scanner to unlock the med cart. She joked that thumbprints never forget allergy alerts even when nurses do. Technology keeps us honest and caffeinated.",
+    "output": "[{\"LICENSE_NUMBER\": \"DL5588AL\"}, {\"BIOMETRIC_ID\": \"FPR-411225\"}]"
   },
   {
     "id": 140052,
     "instruction": "Pharmacy printed device code DVC-60AF2C8B on a label and slapped it onto the new PCA pump so it would pair with my chart. They also copied medical record 305118.XDG into the dosing screen to avoid late-night typo tragedies. My pain and the barcode now speak fluent beeps.",
-    "output": [
-      {"DEVICE_ID": "DVC-60AF2C8B"},
-      {"MEDICAL_RECORD_NUMBER": "305118.XDG"}
-    ]
+    "output": "[{\"DEVICE_ID\": \"DVC-60AF2C8B\"}, {\"MEDICAL_RECORD_NUMBER\": \"305118.XDG\"}]"
   },
   {
     "id": 140053,
-    "instruction": "The transport orderly double-checked vehicle VIN 2T1BURHE6JC092887 from the accident report before rolling me down for X-rays. Radiology added my new generic ID 7VH2QK9T on each image so no one confuses my ribs with today’s twelve other fender-bender patients. Apparently bumpers and bones share a schedule.",
-    "output": [
-      {"VEHICLE_ID": "2T1BURHE6JC092887"},
-      {"ID_NUMBER": "7VH2QK9T"}
-    ]
+    "instruction": "The transport orderly double-checked vehicle VIN 2T1BURHE6JC092887 from the accident report before rolling me down for X-rays. Radiology added my new generic ID 7VH2QK9T on each image so no one confuses my ribs with today\u2019s twelve other fender-bender patients. Apparently bumpers and bones share a schedule.",
+    "output": "[{\"VEHICLE_ID\": \"2T1BURHE6JC092887\"}, {\"ID_NUMBER\": \"7VH2QK9T\"}]"
   },
   {
     "id": 140054,
     "instruction": "At rounds the resident highlighted social security 508-22-6114 on my consent form, then circled health plan HP-660884211 for the billing team. She said paperwork triage saves more careers than CPR. I promised to autograph anywhere else she needed.",
-    "output": [
-      {"SOCIAL_SECURITY_NUMBER": "508-22-6114"},
-      {"HEALTH_PLAN_NUMBER": "HP-660884211"}
-    ]
+    "output": "[{\"SOCIAL_SECURITY_NUMBER\": \"508-22-6114\"}, {\"HEALTH_PLAN_NUMBER\": \"HP-660884211\"}]"
   },
   {
     "id": 140055,
     "instruction": "Security printed badge ID 4MF8RX3W for late-night therapy sessions and mapped it to biometric scan FPR-930118. Now my thumb opens doors faster than the skeleton key on horror-movie sets. Progress is spooky but efficient.",
-    "output": [
-      {"ID_NUMBER": "4MF8RX3W"},
-      {"BIOMETRIC_ID": "FPR-930118"}
-    ]
+    "output": "[{\"ID_NUMBER\": \"4MF8RX3W\"}, {\"BIOMETRIC_ID\": \"FPR-930118\"}]"
   },
   {
     "id": 140056,
-    "instruction": "The registrar stapled account 550110992230 to a neon sheet titled ‘Self-Pay Drama’ and logged my license DL7021NV just beneath it. She assured me color coding scares errors away the way garlic scares vampires. I’ll try anything once.",
-    "output": [
-      {"ACCOUNT_NUMBER": "550110992230"},
-      {"LICENSE_NUMBER": "DL7021NV"}
-    ]
+    "instruction": "The registrar stapled account 550110992230 to a neon sheet titled \u2018Self-Pay Drama\u2019 and logged my license DL7021NV just beneath it. She assured me color coding scares errors away the way garlic scares vampires. I\u2019ll try anything once.",
+    "output": "[{\"ACCOUNT_NUMBER\": \"550110992230\"}, {\"LICENSE_NUMBER\": \"DL7021NV\"}]"
   },
   {
     "id": 140057,
     "instruction": "While connecting portable telemetry, the tech scanned device DVC-BE1D084F and announced its battery outlasts most reality shows. He then typed medical record 618441.RST to cement our digital friendship. Machines like clear identities, same as people.",
-    "output": [
-      {"DEVICE_ID": "DVC-BE1D084F"},
-      {"MEDICAL_RECORD_NUMBER": "618441.RST"}
-    ]
+    "output": "[{\"DEVICE_ID\": \"DVC-BE1D084F\"}, {\"MEDICAL_RECORD_NUMBER\": \"618441.RST\"}]"
   },
   {
     "id": 140058,
     "instruction": "Housekeeping wheeled in a sterilizer labeled with ID tag 8QG5PJ6L and winked that even cleaning robots need name badges. Infection control added health-plan HP-330771905 to the log because germs generate invoices too. The closet of codes grows daily.",
-    "output": [
-      {"ID_NUMBER": "8QG5PJ6L"},
-      {"HEALTH_PLAN_NUMBER": "HP-330771905"}
-    ]
+    "output": "[{\"ID_NUMBER\": \"8QG5PJ6L\"}, {\"HEALTH_PLAN_NUMBER\": \"HP-330771905\"}]"
   },
   {
     "id": 140059,
     "instruction": "Finance emailed me a statement showing account 663440229877 and reminded me payment plans exist. Moments later HR requested my social security 684-10-3302 for disability paperwork. Paper trails multiply like tribbles.",
-    "output": [
-      {"ACCOUNT_NUMBER": "663440229877"},
-      {"SOCIAL_SECURITY_NUMBER": "684-10-3302"}
-    ]
+    "output": "[{\"ACCOUNT_NUMBER\": \"663440229877\"}, {\"SOCIAL_SECURITY_NUMBER\": \"684-10-3302\"}]"
   },
   {
     "id": 140060,
-    "instruction": "The ortho fellow scribbled medical record 821230.QRW on my sling with bold black marker, then added device code DVC-9D3F21A0 for the bone stimulator. Art meets hardware on cotton canvas—modern medicine’s gallery.",
-    "output": [
-      {"MEDICAL_RECORD_NUMBER": "821230.QRW"},
-      {"DEVICE_ID": "DVC-9D3F21A0"}
-    ]
+    "instruction": "The ortho fellow scribbled medical record 821230.QRW on my sling with bold black marker, then added device code DVC-9D3F21A0 for the bone stimulator. Art meets hardware on cotton canvas\u2014modern medicine\u2019s gallery.",
+    "output": "[{\"MEDICAL_RECORD_NUMBER\": \"821230.QRW\"}, {\"DEVICE_ID\": \"DVC-9D3F21A0\"}]"
   },
   {
     "id": 140061,
     "instruction": "Security noted vehicle VIN 1C6RR7FG4HS652301 alongside license DL5512SC so the valet can match metal to owner after my follow-up. They teased me that car and driver share more numbers than secrets.",
-    "output": [
-      {"VEHICLE_ID": "1C6RR7FG4HS652301"},
-      {"LICENSE_NUMBER": "DL5512SC"}
-    ]
+    "output": "[{\"VEHICLE_ID\": \"1C6RR7FG4HS652301\"}, {\"LICENSE_NUMBER\": \"DL5512SC\"}]"
   },
   {
     "id": 140062,
     "instruction": "The nurse stuck a fresh label showing biometric ID FPR-300221 onto my chart, assuring me machines never forget a fingerprint even when nurses forget coffee.",
-    "output": [{"BIOMETRIC_ID": "FPR-300221"}]
+    "output": "[{\"BIOMETRIC_ID\": \"FPR-300221\"}]"
   },
   {
     "id": 140063,
     "instruction": "Billing highlighted health-plan HP-411008662 in yellow and muttered that neon markers improve reimbursement speed. I hope color psychology applies to insurers.",
-    "output": [{"HEALTH_PLAN_NUMBER": "HP-411008662"}]
+    "output": "[{\"HEALTH_PLAN_NUMBER\": \"HP-411008662\"}]"
   },
   {
     "id": 140064,
     "instruction": "Maintenance logged device sticker DVC-134F0B9E on the new wall oxygen meter and declared it officially part of the family.",
-    "output": [{"DEVICE_ID": "DVC-134F0B9E"}]
+    "output": "[{\"DEVICE_ID\": \"DVC-134F0B9E\"}]"
   },
   {
     "id": 140065,
     "instruction": "My social security 298-62-1174 appeared on yet another clipboard, proving ID duplication is a hospital art form.",
-    "output": [{"SOCIAL_SECURITY_NUMBER": "298-62-1174"}]
+    "output": "[{\"SOCIAL_SECURITY_NUMBER\": \"298-62-1174\"}]"
   },
   {
     "id": 140066,
     "instruction": "The registrar added medical record 702115.VHV to the transport whiteboard in bubble letters, turning logistics into kindergarten chic.",
-    "output": [{"MEDICAL_RECORD_NUMBER": "702115.VHV"}]
+    "output": "[{\"MEDICAL_RECORD_NUMBER\": \"702115.VHV\"}]"
   },
   {
     "id": 140067,
-    "instruction": "Finance stamped account 440099887621 ‘Paid in Full’ and I nearly framed the receipt as modern wall décor.",
-    "output": [{"ACCOUNT_NUMBER": "440099887621"}]
+    "instruction": "Finance stamped account 440099887621 \u2018Paid in Full\u2019 and I nearly framed the receipt as modern wall d\u00e9cor.",
+    "output": "[{\"ACCOUNT_NUMBER\": \"440099887621\"}]"
   },
   {
     "id": 140068,
     "instruction": "Security printed badge ID 1WN7FK3P so I could raid the vending machine after midnight; code red for snack emergency.",
-    "output": [{"ID_NUMBER": "1WN7FK3P"}]
+    "output": "[{\"ID_NUMBER\": \"1WN7FK3P\"}]"
   },
   {
     "id": 140069,
     "instruction": "Device DVC-0A77C4E2 blinked online the moment the RT plugged it in; serial numbers apparently love grand entrances.",
-    "output": [{"DEVICE_ID": "DVC-0A77C4E2"}]
+    "output": "[{\"DEVICE_ID\": \"DVC-0A77C4E2\"}]"
   },
   {
     "id": 140070,
     "instruction": "Parking control copied VIN 5XYZTDLB7HG496200 onto a sticky note and promised my hatchback would not vanish into valet Narnia.",
-    "output": [{"VEHICLE_ID": "5XYZTDLB7HG496200"}]
+    "output": "[{\"VEHICLE_ID\": \"5XYZTDLB7HG496200\"}]"
   },
   {
     "id": 140071,
-    "instruction": "License DL3305WA photocopied so many times today it looks vintage—identity by Xerox patina.",
-    "output": [{"LICENSE_NUMBER": "DL3305WA"}]
+    "instruction": "License DL3305WA photocopied so many times today it looks vintage\u2014identity by Xerox patina.",
+    "output": "[{\"LICENSE_NUMBER\": \"DL3305WA\"}]"
   },
   {
     "id": 140072,
-    "instruction": "Health-plan number HP-509887201 unlocked authorization for an MRI faster than I unlock my phone—miracles happen.",
-    "output": [{"HEALTH_PLAN_NUMBER": "HP-509887201"}]
+    "instruction": "Health-plan number HP-509887201 unlocked authorization for an MRI faster than I unlock my phone\u2014miracles happen.",
+    "output": "[{\"HEALTH_PLAN_NUMBER\": \"HP-509887201\"}]"
   },
   {
     "id": 140073,
     "instruction": "Medical record 611228.PRS appeared on my meal tray cover, proving mashed potatoes require official documentation.",
-    "output": [{"MEDICAL_RECORD_NUMBER": "611228.PRS"}]
+    "output": "[{\"MEDICAL_RECORD_NUMBER\": \"611228.PRS\"}]"
   },
   {
     "id": 140074,
     "instruction": "Account 330118550009 flashed overdue until insurance angels waved a wand; zero never looked so pretty.",
-    "output": [{"ACCOUNT_NUMBER": "330118550009"}]
+    "output": "[{\"ACCOUNT_NUMBER\": \"330118550009\"}]"
   },
   {
     "id": 140075,
     "instruction": "Badge ID 3ZF4LP8N now grants me access to the rooftop garden where tomato plants gossip about patients.",
-    "output": [{"ID_NUMBER": "3ZF4LP8N"}]
+    "output": "[{\"ID_NUMBER\": \"3ZF4LP8N\"}]"
   },
   {
     "id": 140076,
     "instruction": "My fingerprint tag FPR-640211 beeped green, ushering me into physio like a tiny electronic cheerleader.",
-    "output": [{"BIOMETRIC_ID": "FPR-640211"}]
+    "output": "[{\"BIOMETRIC_ID\": \"FPR-640211\"}]"
   },
   {
     "id": 140077,
     "instruction": "Device sticker DVC-B41E09D7 joined the fleet of infusion pumps crowding my IV pole like tech groupies.",
-    "output": [{"DEVICE_ID": "DVC-B41E09D7"}]
+    "output": "[{\"DEVICE_ID\": \"DVC-B41E09D7\"}]"
   },
   {
     "id": 140078,
-    "instruction": "License DL8802KS scanned into the volunteer log even though I’m just here for free magazines and better Wi-Fi.",
-    "output": [{"LICENSE_NUMBER": "DL8802KS"}]
+    "instruction": "License DL8802KS scanned into the volunteer log even though I\u2019m just here for free magazines and better Wi-Fi.",
+    "output": "[{\"LICENSE_NUMBER\": \"DL8802KS\"}]"
   },
   {
     "id": 140079,
     "instruction": "VIN 1FTFW1EG7JKE55221 showed up on the valet ticket written in Sharpie bold enough to scare thieves.",
-    "output": [{"VEHICLE_ID": "1FTFW1EG7JKE55221"}]
+    "output": "[{\"VEHICLE_ID\": \"1FTFW1EG7JKE55221\"}]"
   },
   {
     "id": 140080,
     "instruction": "Health-plan HP-700221994 promised free flu shots yet charges me for bandages; healthcare math is avant-garde.",
-    "output": [{"HEALTH_PLAN_NUMBER": "HP-700221994"}]
+    "output": "[{\"HEALTH_PLAN_NUMBER\": \"HP-700221994\"}]"
   },
   {
     "id": 140081,
     "instruction": "Medical record 921104.QYN was printed on my therapy schedule so large it could guide aircraft.",
-    "output": [{"MEDICAL_RECORD_NUMBER": "921104.QYN"}]
+    "output": "[{\"MEDICAL_RECORD_NUMBER\": \"921104.QYN\"}]"
   },
   {
     "id": 140082,
     "instruction": "Account 552220199441 gained a mysterious five-dollar credit; the clerk shrugged and called it karma with decimals.",
-    "output": [{"ACCOUNT_NUMBER": "552220199441"}]
+    "output": "[{\"ACCOUNT_NUMBER\": \"552220199441\"}]"
   },
   {
     "id": 140083,
     "instruction": "Badge code ID 7LF9QM2S opens the meditation room, where silence hums louder than IV pumps.",
-    "output": [{"ID_NUMBER": "7LF9QM2S"}]
+    "output": "[{\"ID_NUMBER\": \"7LF9QM2S\"}]"
   },
   {
     "id": 140084,
     "instruction": "Fingerprint scan FPR-508877 lit up red once then green twice; apparently my thumb enjoys dramatic entrances.",
-    "output": [{"BIOMETRIC_ID": "FPR-508877"}]
+    "output": "[{\"BIOMETRIC_ID\": \"FPR-508877\"}]"
   },
   {
     "id": 140085,
     "instruction": "Device DVC-20BF7E98 hummed to life with a startup jingle that belongs at a tech conference, not ICU.",
-    "output": [{"DEVICE_ID": "DVC-20BF7E98"}]
+    "output": "[{\"DEVICE_ID\": \"DVC-20BF7E98\"}]"
   },
   {
     "id": 140086,
     "instruction": "License DL9922OR clashed with my hospital gown color palette, proving fashion consultants skip government IDs.",
-    "output": [{"LICENSE_NUMBER": "DL9922OR"}]
+    "output": "[{\"LICENSE_NUMBER\": \"DL9922OR\"}]"
   },
   {
     "id": 140087,
-    "instruction": "Vehicle ID 3N1CN7AP8KL865877 tucked under a wiper blade like a secret admirer note—tow trucks read love letters too.",
-    "output": [{"VEHICLE_ID": "3N1CN7AP8KL865877"}]
+    "instruction": "Vehicle ID 3N1CN7AP8KL865877 tucked under a wiper blade like a secret admirer note\u2014tow trucks read love letters too.",
+    "output": "[{\"VEHICLE_ID\": \"3N1CN7AP8KL865877\"}]"
   },
   {
     "id": 140088,
     "instruction": "Health-plan number HP-601770441 finally green-lit my follow-up scans, so radiology threw a mini parade of stickers.",
-    "output": [{"HEALTH_PLAN_NUMBER": "HP-601770441"}]
+    "output": "[{\"HEALTH_PLAN_NUMBER\": \"HP-601770441\"}]"
   },
   {
     "id": 140089,
     "instruction": "Medical record 844112.TWB now lives on a wristband tougher than my old festival bands; aging rocks on.",
-    "output": [{"MEDICAL_RECORD_NUMBER": "844112.TWB"}]
+    "output": "[{\"MEDICAL_RECORD_NUMBER\": \"844112.TWB\"}]"
   },
   {
     "id": 140090,
     "instruction": "Account 771004113220 shows a balance that could fund my caffeine habit for a decade; priorities shift.",
-    "output": [{"ACCOUNT_NUMBER": "771004113220"}]
+    "output": "[{\"ACCOUNT_NUMBER\": \"771004113220\"}]"
   },
   {
     "id": 140091,
     "instruction": "ID badge 5QN2HZ4J grants entry to cooking-class therapy where patients julienne anxiety into confetti.",
-    "output": [{"ID_NUMBER": "5QN2HZ4J"}]
+    "output": "[{\"ID_NUMBER\": \"5QN2HZ4J\"}]"
   },
   {
     "id": 140092,
-    "instruction": "Biometric tag FPR-109944 blinked three times because the kiosk needed reassurance I’m still me after coffee.",
-    "output": [{"BIOMETRIC_ID": "FPR-109944"}]
+    "instruction": "Biometric tag FPR-109944 blinked three times because the kiosk needed reassurance I\u2019m still me after coffee.",
+    "output": "[{\"BIOMETRIC_ID\": \"FPR-109944\"}]"
   },
   {
     "id": 140093,
     "instruction": "Device code DVC-D11A0C7F now decorates the portable echo probe like a sci-fi tattoo.",
-    "output": [{"DEVICE_ID": "DVC-D11A0C7F"}]
+    "output": "[{\"DEVICE_ID\": \"DVC-D11A0C7F\"}]"
   },
   {
     "id": 140094,
     "instruction": "License DL4408IL photocopied cleanly this time, proving copy machines experience character growth too.",
-    "output": [{"LICENSE_NUMBER": "DL4408IL"}]
+    "output": "[{\"LICENSE_NUMBER\": \"DL4408IL\"}]"
   },
   {
     "id": 140095,
     "instruction": "VIN 1GCHK23D27F445612 landed on the bumper-repair estimate that costs nearly as much as my deductible soul.",
-    "output": [{"VEHICLE_ID": "1GCHK23D27F445612"}]
+    "output": "[{\"VEHICLE_ID\": \"1GCHK23D27F445612\"}]"
   },
   {
     "id": 140096,
-    "instruction": "Health-plan HP-903004771 labeled my knee brace as ‘durable medical equipment’; my later selfie will test that adjective.",
-    "output": [{"HEALTH_PLAN_NUMBER": "HP-903004771"}]
+    "instruction": "Health-plan HP-903004771 labeled my knee brace as \u2018durable medical equipment\u2019; my later selfie will test that adjective.",
+    "output": "[{\"HEALTH_PLAN_NUMBER\": \"HP-903004771\"}]"
   },
   {
     "id": 140097,
     "instruction": "Medical record 599003.RGV appeared in handwriting so elegant I almost asked for an autograph from the scribe.",
-    "output": [{"MEDICAL_RECORD_NUMBER": "599003.RGV"}]
+    "output": "[{\"MEDICAL_RECORD_NUMBER\": \"599003.RGV\"}]"
   },
   {
     "id": 140098,
     "instruction": "Account 801112442003 sprouted a $2.17 finance charge for reasons as mysterious as hospital pudding flavors.",
-    "output": [{"ACCOUNT_NUMBER": "801112442003"}]
+    "output": "[{\"ACCOUNT_NUMBER\": \"801112442003\"}]"
   },
   {
     "id": 140099,
     "instruction": "Badge ID 2GS7MK5Q now lets me sneak into the quiet stairwell where echoes rehearse my discharge speech.",
-    "output": [{"ID_NUMBER": "2GS7MK5Q"}]
+    "output": "[{\"ID_NUMBER\": \"2GS7MK5Q\"}]"
   }
 ]

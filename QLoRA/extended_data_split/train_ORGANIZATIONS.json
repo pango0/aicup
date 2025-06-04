@@ -7693,405 +7693,405 @@
     "id": 84980,
     "instruction": "\u5582",
     "output": "[]"
-  }, 
+  },
   {
     "id": 120120,
     "instruction": "The nurse swapped my soggy gauze for a fresh layer of 3M Coban wrap and smiled, saying the elastic hugs the skin without yanking off hair like the cheaper brands. I flexed my ankle and admitted it felt strangely comfortable for something that looks like purple duct tape.",
-    "output": [{"ORGANIZATION": "3M"}]
+    "output": "[{\"ORGANIZATION\": \"3M\"}]"
   },
   {
     "id": 120121,
-    "instruction": "While I signed the anesthesia consent, I noticed the pen barrel flaunted Johnson & Johnson’s red logo. If a pharma giant can make ballpoints that never skip, maybe I should trust their suture material too.",
-    "output": [{"ORGANIZATION": "Johnson & Johnson"}]
+    "instruction": "While I signed the anesthesia consent, I noticed the pen barrel flaunted Johnson & Johnson\u2019s red logo. If a pharma giant can make ballpoints that never skip, maybe I should trust their suture material too.",
+    "output": "[{\"ORGANIZATION\": \"Johnson & Johnson\"}]"
   },
   {
     "id": 120122,
-    "instruction": "Discharge came faster than expected, so I booked a Lyft right from the ward’s Wi-Fi instead of begging family for a ride. Watching the little car icon snake toward the hospital gate felt like the real finish line of my stay.",
-    "output": [{"ORGANIZATION": "Lyft"}]
+    "instruction": "Discharge came faster than expected, so I booked a Lyft right from the ward\u2019s Wi-Fi instead of begging family for a ride. Watching the little car icon snake toward the hospital gate felt like the real finish line of my stay.",
+    "output": "[{\"ORGANIZATION\": \"Lyft\"}]"
   },
   {
     "id": 120123,
-    "instruction": "During physio the therapist raved about her Lululemon leggings, demonstrating lunges that made the fabric stretch like superhero armor. I promised to buy a pair if it guarantees my hamstrings won’t complain all day.",
-    "output": [{"ORGANIZATION": "Lululemon"}]
+    "instruction": "During physio the therapist raved about her Lululemon leggings, demonstrating lunges that made the fabric stretch like superhero armor. I promised to buy a pair if it guarantees my hamstrings won\u2019t complain all day.",
+    "output": "[{\"ORGANIZATION\": \"Lululemon\"}]"
   },
   {
     "id": 120124,
     "instruction": "The cafeteria closed early again, so I broke down and ordered tomato soup through DoorDash. When the courier texted that he was lost inside the parking maze, I almost offered to trade him my crutches for a GPS.",
-    "output": [{"ORGANIZATION": "DoorDash"}]
+    "output": "[{\"ORGANIZATION\": \"DoorDash\"}]"
   },
   {
     "id": 120125,
     "instruction": "At 5 a.m. the anesthesiologist strolled in carrying a giant Dunkin' iced coffee and joked the caffeine was for both of us. I decided any doctor clutching that much cold brew had my full confidence.",
-    "output": [{"ORGANIZATION": "Dunkin'"}]
+    "output": "[{\"ORGANIZATION\": \"Dunkin'\"}]"
   },
   {
     "id": 120126,
     "instruction": "To distract my nephew before stitches, I handed him my Amazon Fire tablet loaded with cartoons. He barely noticed the needle, but I did notice the nurses stealing glances at the episode playing.",
-    "output": [{"ORGANIZATION": "Amazon"}]
+    "output": "[{\"ORGANIZATION\": \"Amazon\"}]"
   },
   {
     "id": 120127,
     "instruction": "A volunteer pressed a worn copy of National Geographic into my hands, saying the coral-reef photos help patients breathe slower. I pretended the IV pole was scuba gear and practiced deep sea-level breaths.",
-    "output": [{"ORGANIZATION": "National Geographic"}]
+    "output": "[{\"ORGANIZATION\": \"National Geographic\"}]"
   },
   {
     "id": 120128,
     "instruction": "I refilled my bottle at the hallway fountain and spotted a discreet Brita logo on the filter housing. For the first time in days, hospital water tasted like something other than mystery pipes.",
-    "output": [{"ORGANIZATION": "Brita"}]
+    "output": "[{\"ORGANIZATION\": \"Brita\"}]"
   },
   {
     "id": 120129,
-    "instruction": "My phone kept nagging me through MyFitnessPal notifications to log every gelatin cup the nurses brought. I finally logged them as ‘hospital cuisine—don’t ask’ and the app still congratulated me.",
-    "output": [{"ORGANIZATION": "MyFitnessPal"}]
+    "instruction": "My phone kept nagging me through MyFitnessPal notifications to log every gelatin cup the nurses brought. I finally logged them as \u2018hospital cuisine\u2014don\u2019t ask\u2019 and the app still congratulated me.",
+    "output": "[{\"ORGANIZATION\": \"MyFitnessPal\"}]"
   },
   {
     "id": 120130,
-    "instruction": "The compression socks they issued have a tiny Under Armour logo near the heel, so I joked I’m now in sponsored rehab. The tech laughed and said branding creeps into every layer of healthcare.",
-    "output": [{"ORGANIZATION": "Under Armour"}]
+    "instruction": "The compression socks they issued have a tiny Under Armour logo near the heel, so I joked I\u2019m now in sponsored rehab. The tech laughed and said branding creeps into every layer of healthcare.",
+    "output": "[{\"ORGANIZATION\": \"Under Armour\"}]"
   },
   {
     "id": 120131,
     "instruction": "Waiting for the drip to finish, I beat two Mario Kart tracks on my Nintendo Switch. The beeping IV pump synced eerily well with the victory theme.",
-    "output": [{"ORGANIZATION": "Nintendo"}]
+    "output": "[{\"ORGANIZATION\": \"Nintendo\"}]"
   },
   {
     "id": 120132,
-    "instruction": "When the call-bell rang, its tone reminded me of an old Nokia ringtone and triggered instant 2000-era nostalgia. I half-expected a flip phone to emerge from the nurse’s pocket.",
-    "output": [{"ORGANIZATION": "Nokia"}]
+    "instruction": "When the call-bell rang, its tone reminded me of an old Nokia ringtone and triggered instant 2000-era nostalgia. I half-expected a flip phone to emerge from the nurse\u2019s pocket.",
+    "output": "[{\"ORGANIZATION\": \"Nokia\"}]"
   },
   {
     "id": 120133,
-    "instruction": "My therapist challenged me to hit 5,000 steps on my Fitbit before dinner rounds. I marched loops around the ward until the device gave its triumphant vibration like I’d won a marathon.",
-    "output": [{"ORGANIZATION": "Fitbit"}]
+    "instruction": "My therapist challenged me to hit 5,000 steps on my Fitbit before dinner rounds. I marched loops around the ward until the device gave its triumphant vibration like I\u2019d won a marathon.",
+    "output": "[{\"ORGANIZATION\": \"Fitbit\"}]"
   },
   {
     "id": 120134,
     "instruction": "To drown out corridor noise, I streamed a snowy-mountain screensaver on Disney+. Even the orderly paused to admire the view before adjusting my IV.",
-    "output": [{"ORGANIZATION": "Disney+"}]
+    "output": "[{\"ORGANIZATION\": \"Disney+\"}]"
   },
   {
     "id": 120135,
-    "instruction": "The resident’s badge reel sported a tiny GitHub Octocat, and she joked that surgeries should allow pull requests for last-minute edits. I told her I’d gladly approve a hotfix that removes pain.",
-    "output": [{"ORGANIZATION": "GitHub"}]
+    "instruction": "The resident\u2019s badge reel sported a tiny GitHub Octocat, and she joked that surgeries should allow pull requests for last-minute edits. I told her I\u2019d gladly approve a hotfix that removes pain.",
+    "output": "[{\"ORGANIZATION\": \"GitHub\"}]"
   },
   {
     "id": 120136,
     "instruction": "After a blue screen scare, the workstation rebooted with the Intel Inside chime. The nurse sarcastically thanked the silicon gods for letting us chart vitals again.",
-    "output": [{"ORGANIZATION": "Intel"}]
+    "output": "[{\"ORGANIZATION\": \"Intel\"}]"
   },
   {
     "id": 120137,
-    "instruction": "The cafeteria advertised an Impossible Burger as today’s plant-based experiment. I ordered one and joked it was impossible to believe it came from hospital food service.",
-    "output": [{"ORGANIZATION": "Impossible Burger"}]
+    "instruction": "The cafeteria advertised an Impossible Burger as today\u2019s plant-based experiment. I ordered one and joked it was impossible to believe it came from hospital food service.",
+    "output": "[{\"ORGANIZATION\": \"Impossible Burger\"}]"
   },
   {
     "id": 120138,
     "instruction": "My friend peppered our family WhatsApp chat with bitmoji cheerleaders the moment I hobbled ten steps. Digital high-fives still count in physiotherapy world.",
-    "output": [{"ORGANIZATION": "WhatsApp"}]
+    "output": "[{\"ORGANIZATION\": \"WhatsApp\"}]"
   },
   {
     "id": 120139,
-    "instruction": "The portable ultrasound bore a large GE Healthcare sticker, and the tech swore the new firmware makes it hum like a luxury car. I only cared that it didn’t feel like a freezer on my ribs.",
-    "output": [{"ORGANIZATION": "GE Healthcare"}]
+    "instruction": "The portable ultrasound bore a large GE Healthcare sticker, and the tech swore the new firmware makes it hum like a luxury car. I only cared that it didn\u2019t feel like a freezer on my ribs.",
+    "output": "[{\"ORGANIZATION\": \"GE Healthcare\"}]"
   },
   {
     "id": 120140,
     "instruction": "My discharge class happened on Webex because half the nurses were remote today. Watching them in scrub caps on screen felt like an odd medical talk show.",
-    "output": [{"ORGANIZATION": "Webex"}]
+    "output": "[{\"ORGANIZATION\": \"Webex\"}]"
   },
   {
     "id": 120141,
     "instruction": "The radiology tech slapped my chest X-ray onto a Canon printer, and out came a glossy souvenir of my ribs. I wondered if I should get it framed or filed.",
-    "output": [{"ORGANIZATION": "Canon"}]
+    "output": "[{\"ORGANIZATION\": \"Canon\"}]"
   },
   {
     "id": 120142,
-    "instruction": "The endocrinologist handed me an Accu-Chek meter and said its lancets sting less than gossip. I’ll judge that claim tomorrow at clumsy o’clock.",
-    "output": [{"ORGANIZATION": "Accu-Chek"}]
+    "instruction": "The endocrinologist handed me an Accu-Chek meter and said its lancets sting less than gossip. I\u2019ll judge that claim tomorrow at clumsy o\u2019clock.",
+    "output": "[{\"ORGANIZATION\": \"Accu-Chek\"}]"
   },
   {
     "id": 120143,
-    "instruction": "I spotted a silver SpaceX rocket pin on the surgeon’s lanyard and teased that launching people to Mars might be easier than my shoulder repair. She grinned and promised liftoff by lunchtime.",
-    "output": [{"ORGANIZATION": "SpaceX"}]
+    "instruction": "I spotted a silver SpaceX rocket pin on the surgeon\u2019s lanyard and teased that launching people to Mars might be easier than my shoulder repair. She grinned and promised liftoff by lunchtime.",
+    "output": "[{\"ORGANIZATION\": \"SpaceX\"}]"
   },
   {
     "id": 120144,
-    "instruction": "My barcode bracelet was printed on a Zebra Technologies label that refuses to smudge, even after ten rounds of hand sanitizer. Apparently zebras don’t fade under alcohol.",
-    "output": [{"ORGANIZATION": "Zebra Technologies"}]
+    "instruction": "My barcode bracelet was printed on a Zebra Technologies label that refuses to smudge, even after ten rounds of hand sanitizer. Apparently zebras don\u2019t fade under alcohol.",
+    "output": "[{\"ORGANIZATION\": \"Zebra Technologies\"}]"
   },
   {
     "id": 120145,
-    "instruction": "The social worker suggested starting a GoFundMe if the rehab bills stack too high. I joked my campaign title could be ‘Bionic Hip, Please Tip’.",
-    "output": [{"ORGANIZATION": "GoFundMe"}]
+    "instruction": "The social worker suggested starting a GoFundMe if the rehab bills stack too high. I joked my campaign title could be \u2018Bionic Hip, Please Tip\u2019.",
+    "output": "[{\"ORGANIZATION\": \"GoFundMe\"}]"
   },
   {
     "id": 120146,
     "instruction": "In the break room I smelled fresh coffee from the Keurig before I saw the machine. Those single-serve pods are the true anesthetics of night shift.",
-    "output": [{"ORGANIZATION": "Keurig"}]
+    "output": "[{\"ORGANIZATION\": \"Keurig\"}]"
   },
   {
     "id": 120147,
     "instruction": "Before handing over my phone, I wiped it with a Purell towelette like it was a newborn. The nurse laughed but accepted the germ-free handoff.",
-    "output": [{"ORGANIZATION": "Purell"}]
+    "output": "[{\"ORGANIZATION\": \"Purell\"}]"
   },
   {
     "id": 120148,
-    "instruction": "The stretcher mattress bore a bright yellow Stryker logo, and the orderly claimed it’s the Cadillac of gurneys. I said it rode more like a rollercoaster over hallway bumps.",
-    "output": [{"ORGANIZATION": "Stryker"}]
+    "instruction": "The stretcher mattress bore a bright yellow Stryker logo, and the orderly claimed it\u2019s the Cadillac of gurneys. I said it rode more like a rollercoaster over hallway bumps.",
+    "output": "[{\"ORGANIZATION\": \"Stryker\"}]"
   },
   {
     "id": 120149,
     "instruction": "I signed my rehab waiver on an iPad using an Apple Pencil, but the latex glove made every letter look like spaghetti. The intern said modern tech still bows to sterile technique.",
-    "output": [{"ORGANIZATION": "Apple"}]
+    "output": "[{\"ORGANIZATION\": \"Apple\"}]"
   },
   {
     "id": 120150,
     "instruction": "The oncologist quoted a surprising stat from Bloomberg, proving even financial news tracks chemo outcomes. I never thought Wall Street cared about my white-cell count.",
-    "output": [{"ORGANIZATION": "Bloomberg"}]
+    "output": "[{\"ORGANIZATION\": \"Bloomberg\"}]"
   },
   {
     "id": 120151,
-    "instruction": "I overheard IT bragging about moving the patient-tracking board to Salesforce next quarter. Hopefully the new cloud won’t rain glitches on discharge day.",
-    "output": [{"ORGANIZATION": "Salesforce"}]
+    "instruction": "I overheard IT bragging about moving the patient-tracking board to Salesforce next quarter. Hopefully the new cloud won\u2019t rain glitches on discharge day.",
+    "output": "[{\"ORGANIZATION\": \"Salesforce\"}]"
   },
   {
     "id": 120152,
-    "instruction": "My new blue frames from Warby Parker managed to survive three accidental knocks by the IV pole. Style and durability—who knew?",
-    "output": [{"ORGANIZATION": "Warby Parker"}]
+    "instruction": "My new blue frames from Warby Parker managed to survive three accidental knocks by the IV pole. Style and durability\u2014who knew?",
+    "output": "[{\"ORGANIZATION\": \"Warby Parker\"}]"
   },
   {
     "id": 120153,
-    "instruction": "The child-life volunteer dropped off a mini Lego kit so I could build a tiny ambulance. I told her I’d trade if she could assemble my real ride home.",
-    "output": [{"ORGANIZATION": "Lego"}]
+    "instruction": "The child-life volunteer dropped off a mini Lego kit so I could build a tiny ambulance. I told her I\u2019d trade if she could assemble my real ride home.",
+    "output": "[{\"ORGANIZATION\": \"Lego\"}]"
   },
   {
     "id": 120154,
     "instruction": "I paid my buddy back for cafeteria snacks through Venmo because wallets are useless in hospital gowns. Digital pockets for the win.",
-    "output": [{"ORGANIZATION": "Venmo"}]
+    "output": "[{\"ORGANIZATION\": \"Venmo\"}]"
   },
   {
     "id": 120155,
-    "instruction": "The PT flaunted her Garmin stats, bragging she walks ten kilometers each shift. I checked mine and realized rolling IV poles doesn’t count as steps.",
-    "output": [{"ORGANIZATION": "Garmin"}]
+    "instruction": "The PT flaunted her Garmin stats, bragging she walks ten kilometers each shift. I checked mine and realized rolling IV poles doesn\u2019t count as steps.",
+    "output": "[{\"ORGANIZATION\": \"Garmin\"}]"
   },
   {
     "id": 120156,
-    "instruction": "A sleek Dyson purifier hummed in the corner, and the nurse claimed it banishes the mysterious ‘hospital smell’. I breathed in and only detected faint soap and a lot of optimism.",
-    "output": [{"ORGANIZATION": "Dyson"}]
+    "instruction": "A sleek Dyson purifier hummed in the corner, and the nurse claimed it banishes the mysterious \u2018hospital smell\u2019. I breathed in and only detected faint soap and a lot of optimism.",
+    "output": "[{\"ORGANIZATION\": \"Dyson\"}]"
   },
   {
     "id": 120157,
     "instruction": "Post-op nausea hit, so they offered me ginger ale from Coca-Cola and it tasted like childhood sick days. Comfort fizz is apparently timeless.",
-    "output": [{"ORGANIZATION": "Coca-Cola"}]
+    "output": "[{\"ORGANIZATION\": \"Coca-Cola\"}]"
   },
   {
     "id": 120158,
-    "instruction": "The dietitian slid me a packet of GNC protein powder and swore it doesn’t clump. I decided to trust her biceps as evidence.",
-    "output": [{"ORGANIZATION": "GNC"}]
+    "instruction": "The dietitian slid me a packet of GNC protein powder and swore it doesn\u2019t clump. I decided to trust her biceps as evidence.",
+    "output": "[{\"ORGANIZATION\": \"GNC\"}]"
   },
   {
     "id": 120159,
     "instruction": "I routed every MyChart alert to my Outlook inbox, which now looks like a lab-result confetti cannon exploded. At least everything syncs.",
-    "output": [{"ORGANIZATION": "Outlook"}]
+    "output": "[{\"ORGANIZATION\": \"Outlook\"}]"
   },
   {
     "id": 120160,
-    "instruction": "Looking at the traction frame, I joked it resembled an IKEA shelving unit—just missing an Allen key. The PT laughed and said some assembly was definitely required.",
-    "output": [{"ORGANIZATION": "IKEA"}]
+    "instruction": "Looking at the traction frame, I joked it resembled an IKEA shelving unit\u2014just missing an Allen key. The PT laughed and said some assembly was definitely required.",
+    "output": "[{\"ORGANIZATION\": \"IKEA\"}]"
   },
   {
     "id": 120161,
     "instruction": "A TV in the corridor blared a CNN headline about a breakthrough drug trial. I silently cheered, hoping it lands on the formulary before my next visit.",
-    "output": [{"ORGANIZATION": "CNN"}]
+    "output": "[{\"ORGANIZATION\": \"CNN\"}]"
   },
   {
     "id": 120162,
     "instruction": "The respiratory tech suggested the Headspace app to tame my scanxiety, claiming it lowered her own heart rate before board exams. I downloaded it before she even left the room.",
-    "output": [{"ORGANIZATION": "Headspace"}]
+    "output": "[{\"ORGANIZATION\": \"Headspace\"}]"
   },
   {
     "id": 120163,
     "instruction": "Discharge planner booked me a convalescent hotel through Agoda and boasted it cost less than hospital parking. Savings are a healing factor, apparently.",
-    "output": [{"ORGANIZATION": "Agoda"}]
+    "output": "[{\"ORGANIZATION\": \"Agoda\"}]"
   },
   {
     "id": 120164,
     "instruction": "Environmental services sprayed a Lysol mist that smelled like citrus apocalypse. I held my breath and hoped germs hate oranges.",
-    "output": [{"ORGANIZATION": "Lysol"}]
+    "output": "[{\"ORGANIZATION\": \"Lysol\"}]"
   },
   {
     "id": 120165,
     "instruction": "Mom overnighted pajamas via UPS, and the box arrived taped like Fort Knox. Even the ward clerk struggled with the industrial seal.",
-    "output": [{"ORGANIZATION": "UPS"}]
+    "output": "[{\"ORGANIZATION\": \"UPS\"}]"
   },
   {
     "id": 120166,
     "instruction": "The new heart monitor manual carried a bold Philips logo, promising intuitive buttons. I still needed a cheat sheet to silence the alarm at 3 a.m.",
-    "output": [{"ORGANIZATION": "Philips"}]
+    "output": "[{\"ORGANIZATION\": \"Philips\"}]"
   },
   {
     "id": 120167,
     "instruction": "I drafted a gratitude list in Evernote while the drip ran. Digital positivity for the win.",
-    "output": [{"ORGANIZATION": "Evernote"}]
+    "output": "[{\"ORGANIZATION\": \"Evernote\"}]"
   },
   {
     "id": 120168,
     "instruction": "The coffee kiosk finally restocked Oatly, sparing me the chalky powdered creamer. Small mercies taste like oat foam.",
-    "output": [{"ORGANIZATION": "Oatly"}]
+    "output": "[{\"ORGANIZATION\": \"Oatly\"}]"
   },
   {
     "id": 120169,
-    "instruction": "The family lounge printer—a sturdy HP LaserJet—spat out my FMLA papers so fast the pages felt warm. Thermal therapy by bureaucracy.",
-    "output": [{"ORGANIZATION": "HP"}]
+    "instruction": "The family lounge printer\u2014a sturdy HP LaserJet\u2014spat out my FMLA papers so fast the pages felt warm. Thermal therapy by bureaucracy.",
+    "output": "[{\"ORGANIZATION\": \"HP\"}]"
   },
   {
     "id": 120170,
     "instruction": "The sitter streamed Bluey on Disney+ and even the surgeons pausing for coffee chuckled at the cartoon dog. Laughter truly is medicine.",
-    "output": [{"ORGANIZATION": "Disney+"}]
+    "output": "[{\"ORGANIZATION\": \"Disney+\"}]"
   },
   {
     "id": 120171,
-    "instruction": "To stay motivated, I watched a TED talk on grit while flexing my new knee. The speaker’s pep plus ice packs made a convincing argument.",
-    "output": [{"ORGANIZATION": "TED"}]
+    "instruction": "To stay motivated, I watched a TED talk on grit while flexing my new knee. The speaker\u2019s pep plus ice packs made a convincing argument.",
+    "output": "[{\"ORGANIZATION\": \"TED\"}]"
   },
   {
     "id": 120172,
     "instruction": "Apologizing for the two-hour delay, the nurse handed me a five-dollar Starbucks card. Caffeine reparations accepted.",
-    "output": [{"ORGANIZATION": "Starbucks"}]
+    "output": "[{\"ORGANIZATION\": \"Starbucks\"}]"
   },
   {
     "id": 120173,
     "instruction": "For shoulder rehab the OT handed me a bright-green Theraband, warning it snaps back like karma. Challenge accepted.",
-    "output": [{"ORGANIZATION": "Theraband"}]
+    "output": "[{\"ORGANIZATION\": \"Theraband\"}]"
   },
   {
     "id": 120174,
     "instruction": "I turned the waiting-room TV to ESPN just in time to see my team brick a free throw. Some disappointments travel even behind hospital walls.",
-    "output": [{"ORGANIZATION": "ESPN"}]
+    "output": "[{\"ORGANIZATION\": \"ESPN\"}]"
   },
   {
     "id": 120175,
     "instruction": "My flashy Skechers sneakers squeaked down the sterile hallway like rubber violins, attracting amused looks from night staff. Style has no visiting hours.",
-    "output": [{"ORGANIZATION": "Skechers"}]
+    "output": "[{\"ORGANIZATION\": \"Skechers\"}]"
   },
   {
     "id": 120176,
-    "instruction": "The discharge sheet linked to the CDC’s wound-care page, reminding me WebMD isn’t the only site that can scare me properly.",
-    "output": [{"ORGANIZATION": "CDC"}]
+    "instruction": "The discharge sheet linked to the CDC\u2019s wound-care page, reminding me WebMD isn\u2019t the only site that can scare me properly.",
+    "output": "[{\"ORGANIZATION\": \"CDC\"}]"
   },
   {
     "id": 120177,
-    "instruction": "Before emailing my boss, I ran the letter through Grammarly to ensure no narcotic-induced typos. It still suggested replacing ‘ouch’ with ‘discomfort’.",
-    "output": [{"ORGANIZATION": "Grammarly"}]
+    "instruction": "Before emailing my boss, I ran the letter through Grammarly to ensure no narcotic-induced typos. It still suggested replacing \u2018ouch\u2019 with \u2018discomfort\u2019.",
+    "output": "[{\"ORGANIZATION\": \"Grammarly\"}]"
   },
   {
     "id": 120178,
-    "instruction": "Breakfast came with a Kellogg's logo on the cereal lid, and I joked the mascot tiger should roar ‘It’s acceptable!’ instead of ‘Great!’",
-    "output": [{"ORGANIZATION": "Kellogg's"}]
+    "instruction": "Breakfast came with a Kellogg's logo on the cereal lid, and I joked the mascot tiger should roar \u2018It\u2019s acceptable!\u2019 instead of \u2018Great!\u2019",
+    "output": "[{\"ORGANIZATION\": \"Kellogg's\"}]"
   },
   {
     "id": 120179,
-    "instruction": "I bundled in my trusty Patagonia fleece because the AC seemed set to ‘glacier’. At least my core temp matched the ice packs.",
-    "output": [{"ORGANIZATION": "Patagonia"}]
+    "instruction": "I bundled in my trusty Patagonia fleece because the AC seemed set to \u2018glacier\u2019. At least my core temp matched the ice packs.",
+    "output": "[{\"ORGANIZATION\": \"Patagonia\"}]"
   },
   {
     "id": 120180,
     "instruction": "Craving real flavor, I splurged on tacos via Uber Eats and ignored the side-eye from dietary staff. The salsa beat hospital broth hands down.",
-    "output": [{"ORGANIZATION": "Uber Eats"}]
+    "output": "[{\"ORGANIZATION\": \"Uber Eats\"}]"
   },
   {
     "id": 120181,
-    "instruction": "Pharmacy printed tiny dosage stickers on a humming Brother label printer—like medical postage stamps ready for mailing into my bloodstream.",
-    "output": [{"ORGANIZATION": "Brother"}]
+    "instruction": "Pharmacy printed tiny dosage stickers on a humming Brother label printer\u2014like medical postage stamps ready for mailing into my bloodstream.",
+    "output": "[{\"ORGANIZATION\": \"Brother\"}]"
   },
   {
     "id": 120182,
-    "instruction": "Between vitals, I solved the daily Wordle on The New York Times app and bragged to the nurse that my brain still works. She reminded me that five-letter words don’t equal discharge criteria.",
-    "output": [{"ORGANIZATION": "The New York Times"}]
+    "instruction": "Between vitals, I solved the daily Wordle on The New York Times app and bragged to the nurse that my brain still works. She reminded me that five-letter words don\u2019t equal discharge criteria.",
+    "output": "[{\"ORGANIZATION\": \"The New York Times\"}]"
   },
   {
     "id": 120183,
     "instruction": "The PT suggested tracking my hallway laps with Strava once I ditch the walker. Gamifying pain sounds oddly appealing.",
-    "output": [{"ORGANIZATION": "Strava"}]
+    "output": "[{\"ORGANIZATION\": \"Strava\"}]"
   },
   {
     "id": 120184,
     "instruction": "Post-anesthesia dry mouth vanished the instant I sipped ice-cold Canada Dry ginger ale. Bubbles beat opioids in mood elevation.",
-    "output": [{"ORGANIZATION": "Canada Dry"}]
+    "output": "[{\"ORGANIZATION\": \"Canada Dry\"}]"
   },
   {
     "id": 120185,
     "instruction": "Red Cross volunteers wheeled in a snack cart and offered cookies with a side of cheery conversation. I took both.",
-    "output": [{"ORGANIZATION": "Red Cross"}]
+    "output": "[{\"ORGANIZATION\": \"Red Cross\"}]"
   },
   {
     "id": 120186,
     "instruction": "My phone charger from Anker stretched all the way to the awkward wall outlet, saving me from battery despair. Small cord, big win.",
-    "output": [{"ORGANIZATION": "Anker"}]
+    "output": "[{\"ORGANIZATION\": \"Anker\"}]"
   },
   {
     "id": 120187,
-    "instruction": "Mom dozed in the visitor chair listening to an Audible thriller, the narrator’s calm voice blending with IV pump clicks like a weird ASMR track.",
-    "output": [{"ORGANIZATION": "Audible"}]
+    "instruction": "Mom dozed in the visitor chair listening to an Audible thriller, the narrator\u2019s calm voice blending with IV pump clicks like a weird ASMR track.",
+    "output": "[{\"ORGANIZATION\": \"Audible\"}]"
   },
   {
     "id": 120188,
     "instruction": "The patient-library cart loaned me a rugged Chromebook so I could clear my inbox. Hospital productivity level: marginally heroic.",
-    "output": [{"ORGANIZATION": "Chromebook"}]
+    "output": "[{\"ORGANIZATION\": \"Chromebook\"}]"
   },
   {
     "id": 120189,
     "instruction": "I tried a ten-minute meditation on Insight Timer and nearly drifted into a snore before the chime. Nurses called it progress.",
-    "output": [{"ORGANIZATION": "Insight Timer"}]
+    "output": "[{\"ORGANIZATION\": \"Insight Timer\"}]"
   },
   {
     "id": 120190,
     "instruction": "Using Adobe Acrobat, I e-signed the physical therapy plan with shaky stylus strokes. Digital paperwork still counts as exercise, right?",
-    "output": [{"ORGANIZATION": "Adobe"}]
+    "output": "[{\"ORGANIZATION\": \"Adobe\"}]"
   },
   {
     "id": 120191,
-    "instruction": "My brother lobbed a goofy Bitmoji via Snapchat just as the doctor rounded the corner. Timing is comedy—and mildly embarrassing.",
-    "output": [{"ORGANIZATION": "Snapchat"}]
+    "instruction": "My brother lobbed a goofy Bitmoji via Snapchat just as the doctor rounded the corner. Timing is comedy\u2014and mildly embarrassing.",
+    "output": "[{\"ORGANIZATION\": \"Snapchat\"}]"
   },
   {
     "id": 120192,
     "instruction": "Breakfast finally included Chobani yogurt instead of those waxy fruit cups. I celebrated the upgrade like a Michelin star.",
-    "output": [{"ORGANIZATION": "Chobani"}]
+    "output": "[{\"ORGANIZATION\": \"Chobani\"}]"
   },
   {
     "id": 120193,
-    "instruction": "To keep my streak alive, I completed a Duolingo Spanish lesson between vitals. ‘El gato bebe leche’ feels oddly profound at 3 a.m.",
-    "output": [{"ORGANIZATION": "Duolingo"}]
+    "instruction": "To keep my streak alive, I completed a Duolingo Spanish lesson between vitals. \u2018El gato bebe leche\u2019 feels oddly profound at 3 a.m.",
+    "output": "[{\"ORGANIZATION\": \"Duolingo\"}]"
   },
   {
     "id": 120194,
-    "instruction": "The attending compared our understaffing to Amazon’s packing lines—everything must move faster than humanly reasonable. We both laughed, then kept moving.",
-    "output": [{"ORGANIZATION": "Amazon"}]
+    "instruction": "The attending compared our understaffing to Amazon\u2019s packing lines\u2014everything must move faster than humanly reasonable. We both laughed, then kept moving.",
+    "output": "[{\"ORGANIZATION\": \"Amazon\"}]"
   },
   {
     "id": 120195,
-    "instruction": "Somewhere down the hallway, that classic Nokia ringtone chirped again, proving indestructible tech truly never dies—unlike my phone battery.",
-    "output": [{"ORGANIZATION": "Nokia"}]
+    "instruction": "Somewhere down the hallway, that classic Nokia ringtone chirped again, proving indestructible tech truly never dies\u2014unlike my phone battery.",
+    "output": "[{\"ORGANIZATION\": \"Nokia\"}]"
   },
   {
     "id": 120196,
-    "instruction": "While waiting for labs, I opened Robinhood to check my ‘recovery fund’ stocks. Irony: my health and portfolio dipped on the same day.",
-    "output": [{"ORGANIZATION": "Robinhood"}]
+    "instruction": "While waiting for labs, I opened Robinhood to check my \u2018recovery fund\u2019 stocks. Irony: my health and portfolio dipped on the same day.",
+    "output": "[{\"ORGANIZATION\": \"Robinhood\"}]"
   },
   {
     "id": 120197,
     "instruction": "The orderly said the flickering hallway lights looked like a low-budget Netflix horror set. I replied that at least the jump scares are free.",
-    "output": [{"ORGANIZATION": "Netflix"}]
+    "output": "[{\"ORGANIZATION\": \"Netflix\"}]"
   },
   {
     "id": 120198,
     "instruction": "My neon green Crocs squeaked through every sterile corridor, announcing my approach like a rubber trumpet. Fashion anesthesia, some might say.",
-    "output": [{"ORGANIZATION": "Crocs"}]
+    "output": "[{\"ORGANIZATION\": \"Crocs\"}]"
   },
   {
     "id": 120199,
     "instruction": "The dietary aide offered a grape Popsicle and joked it was courtesy of 7-Eleven. Brain freeze never tasted so nostalgic.",
-    "output": [{"ORGANIZATION": "7-Eleven"}]
+    "output": "[{\"ORGANIZATION\": \"7-Eleven\"}]"
   }
 ]

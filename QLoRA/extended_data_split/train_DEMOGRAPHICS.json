@@ -7696,580 +7696,502 @@
   },
   {
     "id": 130000,
-    "instruction": "Now that I’m 34, I finally quit the late-night cashier grind and dared to freelance as a graphic designer. Trading small talk about receipt tape for clients who nitpick color palettes feels like swapping instant noodles for espresso shots. So far, the caffeine is winning.",
-    "output": [
-      {"AGE": "34"},
-      {"PROFESSION": "cashier"},
-      {"PROFESSION": "graphic designer"}
-    ]
+    "instruction": "Now that I\u2019m 34, I finally quit the late-night cashier grind and dared to freelance as a graphic designer. Trading small talk about receipt tape for clients who nitpick color palettes feels like swapping instant noodles for espresso shots. So far, the caffeine is winning.",
+    "output": "[{\"AGE\": \"34\"}, {\"PROFESSION\": \"cashier\"}, {\"PROFESSION\": \"graphic designer\"}]"
   },
   {
     "id": 130001,
     "instruction": "When I was 27, sunrise meant guiding a room full of yogis through sun salutations, and sunset meant hustling freeway traffic as an Uber driver. My hamstrings and my accelerator both filed overtime complaints before my brain even woke up.",
-    "output": [
-      {"AGE": "27"},
-      {"PROFESSION": "yoga instructor"},
-      {"PROFESSION": "Uber driver"}
-    ]
+    "output": "[{\"AGE\": \"27\"}, {\"PROFESSION\": \"yoga instructor\"}, {\"PROFESSION\": \"Uber driver\"}]"
   },
   {
     "id": 130002,
-    "instruction": "I’m just 19, yet between philosophy lectures I steam milk like a pro barista. The smell of roasted beans now follows me into every classroom, and my professors secretly approve because they get free refills of focus.",
-    "output": [
-      {"AGE": "19"},
-      {"PROFESSION": "barista"}
-    ]
+    "instruction": "I\u2019m just 19, yet between philosophy lectures I steam milk like a pro barista. The smell of roasted beans now follows me into every classroom, and my professors secretly approve because they get free refills of focus.",
+    "output": "[{\"AGE\": \"19\"}, {\"PROFESSION\": \"barista\"}]"
   },
   {
     "id": 130003,
     "instruction": "At 58 I swapped courtroom objections for watercolor washes. Being a retired lawyer with paint-stained sleeves feels equal parts rebellious and overdue.",
-    "output": [
-      {"AGE": "58"},
-      {"PROFESSION": "lawyer"}
-    ]
+    "output": "[{\"AGE\": \"58\"}, {\"PROFESSION\": \"lawyer\"}]"
   },
   {
     "id": 130004,
     "instruction": "When I was 23, I coached butterfly strokes at dawn and guarded the same pool by dusk just to afford a shoebox apartment. Chlorine became my signature perfume, but at least rent cleared on time.",
-    "output": [
-      {"AGE": "23"},
-      {"PROFESSION": "swim coach"},
-      {"PROFESSION": "lifeguard"}
-    ]
+    "output": "[{\"AGE\": \"23\"}, {\"PROFESSION\": \"swim coach\"}, {\"PROFESSION\": \"lifeguard\"}]"
   },
   {
     "id": 130005,
     "instruction": "Turning 46 pushed me to swap spreadsheets for springform pans, resigning as an accountant to chase pastry school dreams. Now ledgers are recipe cards dusted with rogue flour, and late fees smell like butter.",
-    "output": [
-      {"AGE": "46"},
-      {"PROFESSION": "accountant"},
-      {"PROFESSION": "pastry chef"}
-    ]
+    "output": "[{\"AGE\": \"46\"}, {\"PROFESSION\": \"accountant\"}, {\"PROFESSION\": \"pastry chef\"}]"
   },
   {
     "id": 130006,
     "instruction": "Thirty-one nudged me out of the kindergarten chaos and into the calm spin of a pottery wheel. Tiny fingerprints in wet clay are quieter than sticky handprints on classroom windows, and my sanity sends thank-you notes.",
-    "output": [
-      {"AGE": "31"},
-      {"PROFESSION": "kindergarten teacher"},
-      {"PROFESSION": "pottery artist"}
-    ]
+    "output": "[{\"AGE\": \"31\"}, {\"PROFESSION\": \"kindergarten teacher\"}, {\"PROFESSION\": \"pottery artist\"}]"
   },
   {
     "id": 130007,
-    "instruction": "I’m 55 and still hauling an upright bass onto tour vans, yet weekdays I lecture music theory on chalk-dusty stages. My students love that their professor can actually slap a double-stop on Friday nights.",
-    "output": [
-      {"AGE": "55"},
-      {"PROFESSION": "jazz bassist"},
-      {"PROFESSION": "music lecturer"}
-    ]
+    "instruction": "I\u2019m 55 and still hauling an upright bass onto tour vans, yet weekdays I lecture music theory on chalk-dusty stages. My students love that their professor can actually slap a double-stop on Friday nights.",
+    "output": "[{\"AGE\": \"55\"}, {\"PROFESSION\": \"jazz bassist\"}, {\"PROFESSION\": \"music lecturer\"}]"
   },
   {
     "id": 130008,
-    "instruction": "At 40 my knees announced retirement from pro soccer, so I pivoted to delivery driving. Packages don’t cheer when you score, but they never argue with referees either.",
-    "output": [
-      {"AGE": "40"},
-      {"PROFESSION": "soccer player"},
-      {"PROFESSION": "delivery driver"}
-    ]
+    "instruction": "At 40 my knees announced retirement from pro soccer, so I pivoted to delivery driving. Packages don\u2019t cheer when you score, but they never argue with referees either.",
+    "output": "[{\"AGE\": \"40\"}, {\"PROFESSION\": \"soccer player\"}, {\"PROFESSION\": \"delivery driver\"}]"
   },
   {
     "id": 130009,
     "instruction": "Life at 29 means weekdays coaxing microbes in a lab as a microbiologist and weekends coaxing nervous brides as a wedding photographer. Whether bacteria or mothers-in-law, something is always growing in a petri dish of stress.",
-    "output": [
-      {"AGE": "29"},
-      {"PROFESSION": "microbiologist"},
-      {"PROFESSION": "wedding photographer"}
-    ]
+    "output": "[{\"AGE\": \"29\"}, {\"PROFESSION\": \"microbiologist\"}, {\"PROFESSION\": \"wedding photographer\"}]"
   },
   {
     "id": 130010,
-    "instruction": "Now 62, I still rise at dawn to inspect my orchard, but by lunch I’m drafting gardening columns for the local paper. Apples don’t read my prose, yet they remain my most honest editors.",
-    "output": [
-      {"AGE": "62"},
-      {"PROFESSION": "fruit farmer"},
-      {"PROFESSION": "columnist"}
-    ]
+    "instruction": "Now 62, I still rise at dawn to inspect my orchard, but by lunch I\u2019m drafting gardening columns for the local paper. Apples don\u2019t read my prose, yet they remain my most honest editors.",
+    "output": "[{\"AGE\": \"62\"}, {\"PROFESSION\": \"fruit farmer\"}, {\"PROFESSION\": \"columnist\"}]"
   },
   {
     "id": 130011,
     "instruction": "At 26 I traded ambulance sirens for error beeps, swapping my paramedic badge for a software-testing lanyard. Debugging code rarely involves blood, which my laundry and nerves appreciate.",
-    "output": [
-      {"AGE": "26"},
-      {"PROFESSION": "paramedic"},
-      {"PROFESSION": "software tester"}
-    ]
+    "output": "[{\"AGE\": \"26\"}, {\"PROFESSION\": \"paramedic\"}, {\"PROFESSION\": \"software tester\"}]"
   },
   {
     "id": 130012,
     "instruction": "Being 37 with twins means my 9-to-5 as an HR manager ends precisely when my bedtime-story author shift begins. Some days I approve PTO at noon and fight imaginary dragons by nine.",
-    "output": [
-      {"AGE": "37"},
-      {"PROFESSION": "HR manager"},
-      {"PROFESSION": "children’s author"}
-    ]
+    "output": "[{\"AGE\": \"37\"}, {\"PROFESSION\": \"HR manager\"}, {\"PROFESSION\": \"children\u2019s author\"}]"
   },
   {
     "id": 130013,
     "instruction": "At 51 I retired my welding torch and learned to stage homes for open-house selfies. Metal sparks out, scented candles in.",
-    "output": [
-      {"AGE": "51"},
-      {"PROFESSION": "welder"},
-      {"PROFESSION": "real-estate agent"}
-    ]
+    "output": "[{\"AGE\": \"51\"}, {\"PROFESSION\": \"welder\"}, {\"PROFESSION\": \"real-estate agent\"}]"
   },
   {
     "id": 130014,
-    "instruction": "I’m 22, shelving novels by daylight as a bookstore clerk and streaming video games by moonlight to bankroll grad-school dreams. It’s literature in the front, controller party in the back.",
-    "output": [
-      {"AGE": "22"},
-      {"PROFESSION": "bookstore clerk"},
-      {"PROFESSION": "gaming streamer"}
-    ]
+    "instruction": "I\u2019m 22, shelving novels by daylight as a bookstore clerk and streaming video games by moonlight to bankroll grad-school dreams. It\u2019s literature in the front, controller party in the back.",
+    "output": "[{\"AGE\": \"22\"}, {\"PROFESSION\": \"bookstore clerk\"}, {\"PROFESSION\": \"gaming streamer\"}]"
   },
   {
     "id": 130015,
     "instruction": "After 63 birthdays sprinting into burning buildings, I now guide tourists through climate-controlled museum halls. My new uniform smells like polished wood instead of smoke, and I call that progress.",
-    "output": [
-      {"AGE": "63"},
-      {"PROFESSION": "firefighter"},
-      {"PROFESSION": "museum docent"}
-    ]
+    "output": "[{\"AGE\": \"63\"}, {\"PROFESSION\": \"firefighter\"}, {\"PROFESSION\": \"museum docent\"}]"
   },
   {
     "id": 130016,
     "instruction": "At 28 my weekdays revolve around load calculations as a civil engineer, while evenings revolve around teenagers fine-tuning robots. Bolts and caffeine keep everything from collapsing.",
-    "output": [
-      {"AGE": "28"},
-      {"PROFESSION": "civil engineer"},
-      {"PROFESSION": "robotics coach"}
-    ]
+    "output": "[{\"AGE\": \"28\"}, {\"PROFESSION\": \"civil engineer\"}, {\"PROFESSION\": \"robotics coach\"}]"
   },
   {
     "id": 130017,
     "instruction": "When I hit 47, Excel sheets tasted like stale crackers, so I opened a tiny coffee roastery. Profit margins now smell like dark roast at 5 a.m., and banking feels beige in comparison.",
-    "output": [
-      {"AGE": "47"},
-      {"PROFESSION": "banker"},
-      {"PROFESSION": "coffee roaster"}
-    ]
+    "output": "[{\"AGE\": \"47\"}, {\"PROFESSION\": \"banker\"}, {\"PROFESSION\": \"coffee roaster\"}]"
   },
   {
     "id": 130018,
-    "instruction": "I’m 30, juggling fluorescent lab nights as a technician with sunrise surf lessons where students treat me like Poseidon. Saltwater therapy beats migraine-bright LEDs every time.",
-    "output": [
-      {"AGE": "30"},
-      {"PROFESSION": "lab technician"},
-      {"PROFESSION": "surf instructor"}
-    ]
+    "instruction": "I\u2019m 30, juggling fluorescent lab nights as a technician with sunrise surf lessons where students treat me like Poseidon. Saltwater therapy beats migraine-bright LEDs every time.",
+    "output": "[{\"AGE\": \"30\"}, {\"PROFESSION\": \"lab technician\"}, {\"PROFESSION\": \"surf instructor\"}]"
   },
   {
     "id": 130019,
     "instruction": "Now 45, I narrate weekend baseball games on local radio while weekdays find me knee-deep in spreadsheets as a statistician. My voice and my formulas both bleed home-team colors.",
-    "output": [
-      {"AGE": "45"},
-      {"PROFESSION": "radio announcer"},
-      {"PROFESSION": "statistician"}
-    ]
+    "output": "[{\"AGE\": \"45\"}, {\"PROFESSION\": \"radio announcer\"}, {\"PROFESSION\": \"statistician\"}]"
   },
   {
     "id": 130020,
     "instruction": "Turning 18 felt like getting a fragile backstage pass to adulthood, complete with license-photo cringe and late-night fries that taste like rebellion.",
-    "output": [{"AGE": "18"}]
+    "output": "[{\"AGE\": \"18\"}]"
   },
   {
     "id": 130021,
     "instruction": "As a librarian, I shelve mysteries faster than most folks misplace their keys, though my hush is mightier than my shush.",
-    "output": [{"PROFESSION": "librarian"}]
+    "output": "[{\"PROFESSION\": \"librarian\"}]"
   },
   {
     "id": 130022,
     "instruction": "At 72 my morning jog has evolved into a dignified shuffle, but every mile still feels like a victory lap over gravity.",
-    "output": [{"AGE": "72"}]
+    "output": "[{\"AGE\": \"72\"}]"
   },
   {
     "id": 130023,
-    "instruction": "I’m a wedding planner, translating frantic phone calls into color-coded timelines and occasionally reminding grooms to breathe.",
-    "output": [{"PROFESSION": "wedding planner"}]
+    "instruction": "I\u2019m a wedding planner, translating frantic phone calls into color-coded timelines and occasionally reminding grooms to breathe.",
+    "output": "[{\"PROFESSION\": \"wedding planner\"}]"
   },
   {
     "id": 130024,
     "instruction": "Thirty-three snuck up on me like an unsolicited newsletter, but at least car-rental desks no longer treat me like a toddler with keys.",
-    "output": [{"AGE": "33"}]
+    "output": "[{\"AGE\": \"33\"}]"
   },
   {
     "id": 130025,
-    "instruction": "Most days I’m a locksmith, prying open doors for strangers who swear they ‘never’ lose keys—until next week when they call again.",
-    "output": [{"PROFESSION": "locksmith"}]
+    "instruction": "Most days I\u2019m a locksmith, prying open doors for strangers who swear they \u2018never\u2019 lose keys\u2014until next week when they call again.",
+    "output": "[{\"PROFESSION\": \"locksmith\"}]"
   },
   {
     "id": 130026,
     "instruction": "At 60 I joined an improv troupe just to prove knee creaks and punchlines can share the same stage lights.",
-    "output": [{"AGE": "60"}]
+    "output": "[{\"AGE\": \"60\"}]"
   },
   {
     "id": 130027,
     "instruction": "I spend nights as a data analyst, coaxing spreadsheets to reveal secrets while coffee keeps the treaty between eyelids and deadlines.",
-    "output": [{"PROFESSION": "data analyst"}]
+    "output": "[{\"PROFESSION\": \"data analyst\"}]"
   },
   {
     "id": 130028,
-    "instruction": "I’m 25, balancing existential dread with the question of whether cereal can remain a dinner staple indefinitely.",
-    "output": [{"AGE": "25"}]
+    "instruction": "I\u2019m 25, balancing existential dread with the question of whether cereal can remain a dinner staple indefinitely.",
+    "output": "[{\"AGE\": \"25\"}]"
   },
   {
     "id": 130029,
     "instruction": "Being a florist means even my bad days smell faintly of peonies, though rose prices occasionally spike like thorns in my ledger.",
-    "output": [{"PROFESSION": "florist"}]
+    "output": "[{\"PROFESSION\": \"florist\"}]"
   },
   {
     "id": 130030,
     "instruction": "At 41 my knees soundtrack every staircase with crunchy percussion, reminding me youth left the chat.",
-    "output": [{"AGE": "41"}]
+    "output": "[{\"AGE\": \"41\"}]"
   },
   {
     "id": 130031,
     "instruction": "As a cybersecurity consultant I translate hacker nightmares into boardroom slide decks, hoping executives remember their passwords afterward.",
-    "output": [{"PROFESSION": "cybersecurity consultant"}]
+    "output": "[{\"PROFESSION\": \"cybersecurity consultant\"}]"
   },
   {
     "id": 130032,
     "instruction": "My 56th birthday wish list included softer lighting and louder reading glasses, proving style evolves into practicality.",
-    "output": [{"AGE": "56"}]
+    "output": "[{\"AGE\": \"56\"}]"
   },
   {
     "id": 130033,
     "instruction": "As an illustrator I turn blank pages into technicolor daydreams and send invoices adorned with doodles in the memo line.",
-    "output": [{"PROFESSION": "illustrator"}]
+    "output": "[{\"PROFESSION\": \"illustrator\"}]"
   },
   {
     "id": 130034,
     "instruction": "Thirty-eight taught me that lawn-mower horsepower is a legitimate talking point and not a hallucination of midlife.",
-    "output": [{"AGE": "38"}]
+    "output": "[{\"AGE\": \"38\"}]"
   },
   {
     "id": 130035,
     "instruction": "Serving as a flight attendant means perfecting a smile steady enough to withstand turbulence and passenger tantrums alike.",
-    "output": [{"PROFESSION": "flight attendant"}]
+    "output": "[{\"PROFESSION\": \"flight attendant\"}]"
   },
   {
     "id": 130036,
-    "instruction": "At 52 I finally respect my ankles’ right to protest high-impact workouts and embrace brisk sarcasm instead.",
-    "output": [{"AGE": "52"}]
+    "instruction": "At 52 I finally respect my ankles\u2019 right to protest high-impact workouts and embrace brisk sarcasm instead.",
+    "output": "[{\"AGE\": \"52\"}]"
   },
   {
     "id": 130037,
     "instruction": "As a beekeeper I measure seasons in honey jars, not calendar pages, though the bees still ignore my deadlines.",
-    "output": [{"PROFESSION": "beekeeper"}]
+    "output": "[{\"PROFESSION\": \"beekeeper\"}]"
   },
   {
     "id": 130038,
-    "instruction": "Sixty-five candles later, I still can’t blow them all out in one breath, but I can outrun grandkids to the last slice of cake.",
-    "output": [{"AGE": "65"}]
+    "instruction": "Sixty-five candles later, I still can\u2019t blow them all out in one breath, but I can outrun grandkids to the last slice of cake.",
+    "output": "[{\"AGE\": \"65\"}]"
   },
   {
     "id": 130039,
     "instruction": "Being a stand-up comedian is 10 % punchlines and 90 % begging bar owners for stage time, usually in that order.",
-    "output": [{"PROFESSION": "stand-up comedian"}]
+    "output": "[{\"PROFESSION\": \"stand-up comedian\"}]"
   },
   {
     "id": 130040,
-    "instruction": "I’m 44, and my spine cracks louder than bubble wrap whenever I stretch for the top shelf, which is apparently Everest.",
-    "output": [{"AGE": "44"}]
+    "instruction": "I\u2019m 44, and my spine cracks louder than bubble wrap whenever I stretch for the top shelf, which is apparently Everest.",
+    "output": "[{\"AGE\": \"44\"}]"
   },
   {
     "id": 130041,
-    "instruction": "As a dog groomer I know every breed’s haircut but none of their names; clients pay for fluff, not trivia.",
-    "output": [{"PROFESSION": "dog groomer"}]
+    "instruction": "As a dog groomer I know every breed\u2019s haircut but none of their names; clients pay for fluff, not trivia.",
+    "output": "[{\"PROFESSION\": \"dog groomer\"}]"
   },
   {
     "id": 130042,
     "instruction": "Twenty-one unlocks champagne toasts and a fridge that still screams college freshman.",
-    "output": [{"AGE": "21"}]
+    "output": "[{\"AGE\": \"21\"}]"
   },
   {
     "id": 130043,
-    "instruction": "I’m an event planner who funnels confetti and chaos into back-to-back smiles on a rigid timeline.",
-    "output": [{"PROFESSION": "event planner"}]
+    "instruction": "I\u2019m an event planner who funnels confetti and chaos into back-to-back smiles on a rigid timeline.",
+    "output": "[{\"PROFESSION\": \"event planner\"}]"
   },
   {
     "id": 130044,
     "instruction": "At 67 I finally learned that retirement means replacing deadlines with refill lines on my teacup, both to be met promptly.",
-    "output": [{"AGE": "67"}]
+    "output": "[{\"AGE\": \"67\"}]"
   },
   {
     "id": 130045,
     "instruction": "Being a candle-maker means my apartment always smells like a festive fire hazard, and I can identify wax types by touch.",
-    "output": [{"PROFESSION": "candle-maker"}]
+    "output": "[{\"PROFESSION\": \"candle-maker\"}]"
   },
   {
     "id": 130046,
     "instruction": "At 32 I discovered that reading glasses stronger than my willpower are now non-negotiable accessories.",
-    "output": [{"AGE": "32"}]
+    "output": "[{\"AGE\": \"32\"}]"
   },
   {
     "id": 130047,
-    "instruction": "As a stunt double I crash cars I can’t afford and bounce back before the lunch bell rings—adrenaline is my pension.",
-    "output": [{"PROFESSION": "stunt double"}]
+    "instruction": "As a stunt double I crash cars I can\u2019t afford and bounce back before the lunch bell rings\u2014adrenaline is my pension.",
+    "output": "[{\"PROFESSION\": \"stunt double\"}]"
   },
   {
     "id": 130048,
-    "instruction": "Fifty arrived with a complimentary soundtrack of knee creaks louder than morning alarms, and I didn’t ask for encores.",
-    "output": [{"AGE": "50"}]
+    "instruction": "Fifty arrived with a complimentary soundtrack of knee creaks louder than morning alarms, and I didn\u2019t ask for encores.",
+    "output": "[{\"AGE\": \"50\"}]"
   },
   {
     "id": 130049,
     "instruction": "As a UX designer I translate sighs into buttons and hope users forgive my color choices by version 2.0.",
-    "output": [{"PROFESSION": "UX designer"}]
+    "output": "[{\"PROFESSION\": \"UX designer\"}]"
   },
   {
     "id": 130050,
-    "instruction": "At 70 I replaced jogging playlists with power-walking podcasts; the scenery stayed, the shin splints didn’t. My doctor calls that strategic downsizing.",
-    "output": [{"AGE": "70"}]
+    "instruction": "At 70 I replaced jogging playlists with power-walking podcasts; the scenery stayed, the shin splints didn\u2019t. My doctor calls that strategic downsizing.",
+    "output": "[{\"AGE\": \"70\"}]"
   },
   {
     "id": 130051,
     "instruction": "Being an opera singer means carrying insurance on vocal cords pricier than my laptop and warming up with noises that scare neighbor cats.",
-    "output": [{"PROFESSION": "opera singer"}]
+    "output": "[{\"PROFESSION\": \"opera singer\"}]"
   },
   {
     "id": 130052,
     "instruction": "Thirty-five feels like a software patch nobody asked for but everyone must install, complete with mysterious muscle glitches.",
-    "output": [{"AGE": "35"}]
+    "output": "[{\"AGE\": \"35\"}]"
   },
   {
     "id": 130053,
     "instruction": "As a glassblower I wrestle molten soda-lime into art before gravity steals the show. My arms smell faintly of campfire year-round.",
-    "output": [{"PROFESSION": "glassblower"}]
+    "output": "[{\"PROFESSION\": \"glassblower\"}]"
   },
   {
     "id": 130054,
     "instruction": "At 61 my favorite cardio is scanning grocery ads for coupons that outrun inflation, which counts as financial aerobics.",
-    "output": [{"AGE": "61"}]
+    "output": "[{\"AGE\": \"61\"}]"
   },
   {
     "id": 130055,
     "instruction": "Being a game developer taught me that every bug has a cousin, and they all RSVP uninvited to release day.",
-    "output": [{"PROFESSION": "game developer"}]
+    "output": "[{\"PROFESSION\": \"game developer\"}]"
   },
   {
     "id": 130056,
-    "instruction": "Only 24 and already collecting back-pain stories like souvenir magnets—who knew adulthood shipped early?",
-    "output": [{"AGE": "24"}]
+    "instruction": "Only 24 and already collecting back-pain stories like souvenir magnets\u2014who knew adulthood shipped early?",
+    "output": "[{\"AGE\": \"24\"}]"
   },
   {
     "id": 130057,
     "instruction": "As a symphony conductor I command an orchestra with a glorified chopstick and get applause for perfect timing. Not bad for cardio.",
-    "output": [{"PROFESSION": "symphony conductor"}]
+    "output": "[{\"PROFESSION\": \"symphony conductor\"}]"
   },
   {
     "id": 130058,
     "instruction": "Fifty-four convinced me caffeine after noon is an all-nighter invite, yet I RSVP regardless.",
-    "output": [{"AGE": "54"}]
+    "output": "[{\"AGE\": \"54\"}]"
   },
   {
     "id": 130059,
-    "instruction": "I’m an auctioneer—my daily cardio is talking at 400 words per minute while bids try to keep up.",
-    "output": [{"PROFESSION": "auctioneer"}]
+    "instruction": "I\u2019m an auctioneer\u2014my daily cardio is talking at 400 words per minute while bids try to keep up.",
+    "output": "[{\"PROFESSION\": \"auctioneer\"}]"
   },
   {
     "id": 130060,
     "instruction": "Sixty-eight taught me naps are body software updates; skip one and everything glitches like an old browser.",
-    "output": [{"AGE": "68"}]
+    "output": "[{\"AGE\": \"68\"}]"
   },
   {
     "id": 130061,
     "instruction": "As a ship captain I navigate oceans and paperwork with equal amounts of swear words. One has more water, the other more red tape.",
-    "output": [{"PROFESSION": "ship captain"}]
+    "output": "[{\"PROFESSION\": \"ship captain\"}]"
   },
   {
     "id": 130062,
     "instruction": "At 26 my metabolism is a reckless friend who shows up to pizza nights and vanishes at salad bars.",
-    "output": [{"AGE": "26"}]
+    "output": "[{\"AGE\": \"26\"}]"
   },
   {
     "id": 130063,
-    "instruction": "I’m a perfume chemist who speaks fluent top-notes and base-notes, though my lab coat permanently smells like homework.",
-    "output": [{"PROFESSION": "perfume chemist"}]
+    "instruction": "I\u2019m a perfume chemist who speaks fluent top-notes and base-notes, though my lab coat permanently smells like homework.",
+    "output": "[{\"PROFESSION\": \"perfume chemist\"}]"
   },
   {
     "id": 130064,
     "instruction": "Forty-nine hits differently when your grocery list has a probiotic section longer than the snack aisle.",
-    "output": [{"AGE": "49"}]
+    "output": "[{\"AGE\": \"49\"}]"
   },
   {
     "id": 130065,
     "instruction": "Being an esports commentator means hyping fictional dragons while ignoring real-life laundry dragons at home.",
-    "output": [{"PROFESSION": "esports commentator"}]
+    "output": "[{\"PROFESSION\": \"esports commentator\"}]"
   },
   {
     "id": 130066,
     "instruction": "Sixty-four brings hearing aids that double as futuristic earrings. They amplify compliments and politely muffle bad advice.",
-    "output": [{"AGE": "64"}]
+    "output": "[{\"AGE\": \"64\"}]"
   },
   {
     "id": 130067,
     "instruction": "As a vintage-car restorer I turn rust into road-ready art; my hands smell of engine grease and nostalgia.",
-    "output": [{"PROFESSION": "vintage-car restorer"}]
+    "output": "[{\"PROFESSION\": \"vintage-car restorer\"}]"
   },
   {
     "id": 130068,
     "instruction": "At 36 I realized calendars move faster than treadmills, yet both make me sweat deadlines.",
-    "output": [{"AGE": "36"}]
+    "output": "[{\"AGE\": \"36\"}]"
   },
   {
     "id": 130069,
-    "instruction": "Being a tongue-twister champion gets me free drinks at parties—after guests hear me recite one without stalling once.",
-    "output": [{"PROFESSION": "tongue-twister champion"}]
+    "instruction": "Being a tongue-twister champion gets me free drinks at parties\u2014after guests hear me recite one without stalling once.",
+    "output": "[{\"PROFESSION\": \"tongue-twister champion\"}]"
   },
   {
     "id": 130070,
     "instruction": "Seventy-three gifts me the superpower of ignoring trends until they become retro and profitable again.",
-    "output": [{"AGE": "73"}]
+    "output": "[{\"AGE\": \"73\"}]"
   },
   {
     "id": 130071,
     "instruction": "I edit crosswords, so my brain hoards five-letter trivia nobody asked for, yet everyone requests at 7 a.m.",
-    "output": [{"PROFESSION": "crossword editor"}]
+    "output": "[{\"PROFESSION\": \"crossword editor\"}]"
   },
   {
     "id": 130072,
-    "instruction": "Thirty now comes with complimentary knee pops whenever I crouch to tie a shoe—the soundtrack of grown-up life.",
-    "output": [{"AGE": "30"}]
+    "instruction": "Thirty now comes with complimentary knee pops whenever I crouch to tie a shoe\u2014the soundtrack of grown-up life.",
+    "output": "[{\"AGE\": \"30\"}]"
   },
   {
     "id": 130073,
     "instruction": "As a tour bus driver I parallel-park forty feet of steel without spilling passenger gossip or coffee.",
-    "output": [{"PROFESSION": "tour bus driver"}]
+    "output": "[{\"PROFESSION\": \"tour bus driver\"}]"
   },
   {
     "id": 130074,
-    "instruction": "Fifty-seven reminded me salt-and-pepper hair is nature’s gradient tool, no salon appointment needed.",
-    "output": [{"AGE": "57"}]
+    "instruction": "Fifty-seven reminded me salt-and-pepper hair is nature\u2019s gradient tool, no salon appointment needed.",
+    "output": "[{\"AGE\": \"57\"}]"
   },
   {
     "id": 130075,
     "instruction": "As an app developer I fix tiny bugs that cause colossal user meltdowns, then celebrate with bug-free coffee.",
-    "output": [{"PROFESSION": "app developer"}]
+    "output": "[{\"PROFESSION\": \"app developer\"}]"
   },
   {
     "id": 130076,
     "instruction": "Sixty-six means the stories get louder as my hearing softens; balance is everything.",
-    "output": [{"AGE": "66"}]
+    "output": "[{\"AGE\": \"66\"}]"
   },
   {
     "id": 130077,
     "instruction": "Being a nightclub DJ flips my circadian rhythm like a vinyl record; sunrise is my cool-down track.",
-    "output": [{"PROFESSION": "nightclub DJ"}]
+    "output": "[{\"PROFESSION\": \"nightclub DJ\"}]"
   },
   {
     "id": 130078,
-    "instruction": "Forty-three feels like the midpoint of a TV series—plot twists pending, cliffhangers frequent. Stay tuned.",
-    "output": [{"AGE": "43"}]
+    "instruction": "Forty-three feels like the midpoint of a TV series\u2014plot twists pending, cliffhangers frequent. Stay tuned.",
+    "output": "[{\"AGE\": \"43\"}]"
   },
   {
     "id": 130079,
-    "instruction": "I’m a gardener who talks to plants more than to people before coffee, and frankly the plants seem more supportive.",
-    "output": [{"PROFESSION": "gardener"}]
+    "instruction": "I\u2019m a gardener who talks to plants more than to people before coffee, and frankly the plants seem more supportive.",
+    "output": "[{\"PROFESSION\": \"gardener\"}]"
   },
   {
     "id": 130080,
     "instruction": "Twenty-nine convinced me sleeping in on weekends is a tax write-off for sanity; no accountant agrees, but my pillow does.",
-    "output": [{"AGE": "29"}]
+    "output": "[{\"AGE\": \"29\"}]"
   },
   {
     "id": 130081,
     "instruction": "As a radio host I smile so wide into the mic that listeners swear they can hear my teeth sparkling.",
-    "output": [{"PROFESSION": "radio host"}]
+    "output": "[{\"PROFESSION\": \"radio host\"}]"
   },
   {
     "id": 130082,
     "instruction": "Fifty-one taught me each new joint crack deserves its own Yelp review, preferably five stars for volume.",
-    "output": [{"AGE": "51"}]
+    "output": "[{\"AGE\": \"51\"}]"
   },
   {
     "id": 130083,
     "instruction": "Choreographing salsa routines means every grocery aisle is a potential dance floor; canned-goods rhythm section included.",
-    "output": [{"PROFESSION": "salsa choreographer"}]
+    "output": "[{\"PROFESSION\": \"salsa choreographer\"}]"
   },
   {
     "id": 130084,
     "instruction": "Sixty-two convinced me silence and comfortable shoes are priceless vintage items nobody can replicate.",
-    "output": [{"AGE": "62"}]
+    "output": "[{\"AGE\": \"62\"}]"
   },
   {
     "id": 130085,
-    "instruction": "I’m a chemist who insists lab goggles are haute couture for safety enthusiasts. Fashion week, meet titration.",
-    "output": [{"PROFESSION": "chemist"}]
+    "instruction": "I\u2019m a chemist who insists lab goggles are haute couture for safety enthusiasts. Fashion week, meet titration.",
+    "output": "[{\"PROFESSION\": \"chemist\"}]"
   },
   {
     "id": 130086,
     "instruction": "Forty-eight welcomes me with bubble-wrap knee creaks that apparently ship free with middle age.",
-    "output": [{"AGE": "48"}]
+    "output": "[{\"AGE\": \"48\"}]"
   },
   {
     "id": 130087,
-    "instruction": "As a puppeteer I give wooden characters livelier dialogue than most conference calls—no offense, quarterly reports.",
-    "output": [{"PROFESSION": "puppeteer"}]
+    "instruction": "As a puppeteer I give wooden characters livelier dialogue than most conference calls\u2014no offense, quarterly reports.",
+    "output": "[{\"PROFESSION\": \"puppeteer\"}]"
   },
   {
     "id": 130088,
-    "instruction": "Thirty-four means realizing ‘later’ is often code for ‘never,’ especially with squats and savings plans.",
-    "output": [{"AGE": "34"}]
+    "instruction": "Thirty-four means realizing \u2018later\u2019 is often code for \u2018never,\u2019 especially with squats and savings plans.",
+    "output": "[{\"AGE\": \"34\"}]"
   },
   {
     "id": 130089,
-    "instruction": "I’m a perfume reviewer whose keyboard smells faintly of sandalwood because words and fragrances share the same apartment.",
-    "output": [{"PROFESSION": "perfume reviewer"}]
+    "instruction": "I\u2019m a perfume reviewer whose keyboard smells faintly of sandalwood because words and fragrances share the same apartment.",
+    "output": "[{\"PROFESSION\": \"perfume reviewer\"}]"
   },
   {
     "id": 130090,
     "instruction": "At 59 I greet sunrise with a committee of joints that vote on whether stairs are a good idea today.",
-    "output": [{"AGE": "59"}]
+    "output": "[{\"AGE\": \"59\"}]"
   },
   {
     "id": 130091,
     "instruction": "As a mountain guide I measure success in blister-free hikers and sunrise selfies above the clouds.",
-    "output": [{"PROFESSION": "mountain guide"}]
+    "output": "[{\"PROFESSION\": \"mountain guide\"}]"
   },
   {
     "id": 130092,
-    "instruction": "Twenty-seven still feels like a demo version of adulthood—bugs pending, updates frequent.",
-    "output": [{"AGE": "27"}]
+    "instruction": "Twenty-seven still feels like a demo version of adulthood\u2014bugs pending, updates frequent.",
+    "output": "[{\"AGE\": \"27\"}]"
   },
   {
     "id": 130093,
     "instruction": "Designing jigsaw puzzles means I break pictures for a living, then sell people the solution in a box. Job security is missing pieces.",
-    "output": [{"PROFESSION": "puzzle designer"}]
+    "output": "[{\"PROFESSION\": \"puzzle designer\"}]"
   },
   {
     "id": 130094,
     "instruction": "Seventy-one finally taught me slowing down is just an extreme sport played at half speed, with more tea breaks.",
-    "output": [{"AGE": "71"}]
+    "output": "[{\"AGE\": \"71\"}]"
   },
   {
     "id": 130095,
-    "instruction": "As a voice-over artist I talk to myself in different accents for money while the neighbors wonder who’s visiting.",
-    "output": [{"PROFESSION": "voice-over artist"}]
+    "instruction": "As a voice-over artist I talk to myself in different accents for money while the neighbors wonder who\u2019s visiting.",
+    "output": "[{\"PROFESSION\": \"voice-over artist\"}]"
   },
   {
     "id": 130096,
     "instruction": "Forty-five introduced me to vitamins with names longer than my passwords; compliance is questionable.",
-    "output": [{"AGE": "45"}]
+    "output": "[{\"AGE\": \"45\"}]"
   },
   {
     "id": 130097,
-    "instruction": "I’m a park ranger who uses sunscreen like currency and speaks fluent bird call before coffee.",
-    "output": [{"PROFESSION": "park ranger"}]
+    "instruction": "I\u2019m a park ranger who uses sunscreen like currency and speaks fluent bird call before coffee.",
+    "output": "[{\"PROFESSION\": \"park ranger\"}]"
   },
   {
     "id": 130098,
-    "instruction": "Sixty comes with a pop-up reminder titled ‘Stretch Before Standing’; I keep hitting snooze.",
-    "output": [{"AGE": "60"}]
+    "instruction": "Sixty comes with a pop-up reminder titled \u2018Stretch Before Standing\u2019; I keep hitting snooze.",
+    "output": "[{\"AGE\": \"60\"}]"
   },
   {
     "id": 130099,
-    "instruction": "Being a shoemaker means friends expect custom insoles instead of birthday cards, and I’m oddly okay with that trade-off.",
-    "output": [{"PROFESSION": "shoemaker"}]
+    "instruction": "Being a shoemaker means friends expect custom insoles instead of birthday cards, and I\u2019m oddly okay with that trade-off.",
+    "output": "[{\"PROFESSION\": \"shoemaker\"}]"
   }
 ]
