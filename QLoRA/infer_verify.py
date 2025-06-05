@@ -24,7 +24,9 @@ bnb_config = BitsAndBytesConfig(
           load_in_4bit = True,
           bnb_4bit_compute_dtype = torch.bfloat16
      )
-
+# bnb_config = BitsAndBytesConfig(
+#      load_in_8bit=True
+# )
 #model 1 setup
 if args.m1_base_model_path:
      model1 = AutoModelForCausalLM.from_pretrained(
@@ -136,7 +138,7 @@ for i in tqdm(range(len(data))):
           response = tokenizer1.decode(output_ids[0], skip_special_tokens=True)
           response_text = response[len(instructions[i]):].strip()
 
-          accepted = verify_output(model2, tokenizer2, prompt, response_text)
+          accepted = verify_output(model2, tokenizer2, instructions[i], response_text)
           if accepted:
                break
           else:
