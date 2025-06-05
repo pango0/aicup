@@ -47,7 +47,7 @@ else:
 if tokenizer1.pad_token_id is None:
     tokenizer1.pad_token_id = tokenizer1.eos_token_id
 
-model1 = PeftModel.from_pretrained(model1, args.peft_path).to("cuda")
+model1 = PeftModel.from_pretrained(model1, args.m1_peft_path).to("cuda")
 model1.eval()
 
 # model 2 setup
@@ -72,7 +72,7 @@ else:
 if tokenizer2.pad_token_id is None:
     tokenizer2.pad_token_id = tokenizer2.eos_token_id
 
-model2 = PeftModel.from_pretrained(model2, args.peft_path).to("cuda")
+model2 = PeftModel.from_pretrained(model2, args.m2_peft_path).to("cuda")
 model2.eval()
 
 with open(args.test_data_path, "r") as f:
