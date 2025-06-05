@@ -130,7 +130,7 @@ for i in tqdm(range(len(data))):
                     input_ids=input_ids,
                     attention_mask=attention_mask,
                     max_new_tokens=256,
-                    pad_token_id=tokenizer.eos_token_id
+                    pad_token_id=tokenizer1.eos_token_id
                )
 
           response = tokenizer1.decode(output_ids[0], skip_special_tokens=True)
