@@ -126,7 +126,7 @@ for i in tqdm(range(len(data))):
      attention_mask = tokenized["attention_mask"][i].unsqueeze(0).to("cuda")
      for attempt in range(max_retries):
           with torch.no_grad():
-               output_ids = model.generate(
+               output_ids = model1.generate(
                     input_ids=input_ids,
                     attention_mask=attention_mask,
                     max_new_tokens=256,
