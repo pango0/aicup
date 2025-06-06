@@ -1,0 +1,3102 @@
+[
+  {
+    "id": "271",
+    "outputs": "[{\"DATE\": \"now\"}]"
+  },
+  {
+    "id": "278",
+    "outputs": "[{\"DURATION\": \"two hours\"}, {\"DURATION\": \"three hours\"}, {\"DURATION\": \"two\"}]"
+  },
+  {
+    "id": "315",
+    "outputs": "[{\"DURATION\": \" 15 minutes\"}, {\"TIME\": \"morning\"}]"
+  },
+  {
+    "id": "2423",
+    "outputs": "[{\"FAMILYNAME\": \"Ivan\"}]"
+  },
+  {
+    "id": "2465",
+    "outputs": "[{\"PERSONALNAME\": \"Genevieve\"}]"
+  },
+  {
+    "id": "2487",
+    "outputs": "[{\"DATE\": \"Friday\"}, {\"DATE\": \"this weekend\"}, {\"DATE\": \"Monday\"}, {\"DATE\": \"today\"}]"
+  },
+  {
+    "id": "2494",
+    "outputs": "[]"
+  },
+  {
+    "id": "2505",
+    "outputs": "[{\"DURATION\": \"10 minutes\"}, {\"TIME\": \"last night\"}, {\"DATE\": \"today\"}, {\"PERSONALNAME\": \"James\"}]"
+  },
+  {
+    "id": "2515",
+    "outputs": "[]"
+  },
+  {
+    "id": "2553",
+    "outputs": "[]"
+  },
+  {
+    "id": "2561",
+    "outputs": "[{\"DATE\": \"today\"}, {\"DATE\": \"tomorrow\"}]"
+  },
+  {
+    "id": "2582",
+    "outputs": "[{\"TIME\": \"morning\"}, {\"TIME\": \"morning\"}, {\"DATE\": \"yesterday\"}]"
+  },
+  {
+    "id": "2583",
+    "outputs": "[{\"DATE\": \"weekend\"}]"
+  },
+  {
+    "id": "2584",
+    "outputs": "[{\"FAMILYNAME\": \"Tonya\"}]"
+  },
+  {
+    "id": "2644",
+    "outputs": "[{\"FAMILYNAME\": \"Tanya\"}]"
+  },
+  {
+    "id": "2695",
+    "outputs": "[]"
+  },
+  {
+    "id": "2712",
+    "outputs": "[{\"FAMILYNAME\": \"Jess\"}, {\"FAMILYNAME\": \"Jess\"}]"
+  },
+  {
+    "id": "2723",
+    "outputs": "[{\"DATE\": \"now\"}]"
+  },
+  {
+    "id": "2777",
+    "outputs": "[{\"DATE\": \"now\"}]"
+  },
+  {
+    "id": "2812",
+    "outputs": "[]"
+  },
+  {
+    "id": "2836",
+    "outputs": "[]"
+  },
+  {
+    "id": "2842",
+    "outputs": "[{\"DATE\": \"now\"}, {\"DATE\": \"now\"}]"
+  },
+  {
+    "id": "2877",
+    "outputs": "[]"
+  },
+  {
+    "id": "2942",
+    "outputs": "[]"
+  },
+  {
+    "id": "2943",
+    "outputs": "[{\"DATE\": \"Friday\"}, {\"DATE\": \"Saturday\"}, {\"DATE\": \"Tuesday\"}, {\"DATE\": \"yesterday\"}]"
+  },
+  {
+    "id": "2952",
+    "outputs": "[]"
+  },
+  {
+    "id": "2955",
+    "outputs": "[]"
+  },
+  {
+    "id": "2970",
+    "outputs": "[]"
+  },
+  {
+    "id": "2978",
+    "outputs": "[]"
+  },
+  {
+    "id": "2983",
+    "outputs": "[{\"PERSONALNAME\": \"James\"}]"
+  },
+  {
+    "id": "3010",
+    "outputs": "[]"
+  },
+  {
+    "id": "3027",
+    "outputs": "[{\"SET\": \"every day\"}]"
+  },
+  {
+    "id": "3059",
+    "outputs": "[]"
+  },
+  {
+    "id": "3094",
+    "outputs": "[]"
+  },
+  {
+    "id": "3104",
+    "outputs": "[{\"PERSONALNAME\": \"Stefan\"}]"
+  },
+  {
+    "id": "3108",
+    "outputs": "[{\"BANK\": \"Bank of America\"}, {\"DURATION\": \"10 days\"}, {\"BANK\": \"Bank of America\"}]"
+  },
+  {
+    "id": "3113",
+    "outputs": "[{\"DATE\": \"Monday\"}, {\"DURATION\": \"five hours\"}]"
+  },
+  {
+    "id": "3137",
+    "outputs": "[]"
+  },
+  {
+    "id": "3142",
+    "outputs": "[{\"DATE\": \"yesterday\"}]"
+  },
+  {
+    "id": "3176",
+    "outputs": "[{\"TIME\": \"this morning\"}, {\"DATE\": \"this year\"}, {\"DATE\": \"next year\"}]"
+  },
+  {
+    "id": "3199",
+    "outputs": "[]"
+  },
+  {
+    "id": "3214",
+    "outputs": "[{\"FAMILYNAME\": \"Ivan\"}, {\"DATE\": \"now\"}]"
+  },
+  {
+    "id": "3217",
+    "outputs": "[{\"PERSONALNAME\": \"Kelly\"}, {\"DATE\": \"Sunday\"}, {\"LOCATION-OTHER\": \"Mystic\"}, {\"PERSONALNAME\": \"Kelly\"}, {\"DATE\": \"now\"}, {\"TIME\": \"earlier today\"}, {\"DATE\": \"now\"}]"
+  },
+  {
+    "id": "3230",
+    "outputs": "[{\"DATE\": \"now\"}, {\"PATIENT\": \"Ramona\"}]"
+  },
+  {
+    "id": "3243",
+    "outputs": "[{\"DATE\": \"now\"}, {\"DATE\": \"now\"}, {\"DURATION\": \"a week\"}, {\"DURATION\": \"about a week\"}]"
+  },
+  {
+    "id": "4808",
+    "outputs": "[{\"DATE\": \"now\"}]"
+  },
+  {
+    "id": "24016",
+    "outputs": "[]"
+  },
+  {
+    "id": "24018",
+    "outputs": "[{\"DURATION\": \"20 years\"}]"
+  },
+  {
+    "id": "24023",
+    "outputs": "[]"
+  },
+  {
+    "id": "24055",
+    "outputs": "[]"
+  },
+  {
+    "id": "24063",
+    "outputs": "[]"
+  },
+  {
+    "id": "24081",
+    "outputs": "[]"
+  },
+  {
+    "id": "24098",
+    "outputs": "[]"
+  },
+  {
+    "id": "24198",
+    "outputs": "[]"
+  },
+  {
+    "id": "24224",
+    "outputs": "[{\"DURATION\": \"last several months\"}]"
+  },
+  {
+    "id": "24244",
+    "outputs": "[{\"TIME\": \"night\"}]"
+  },
+  {
+    "id": "24264",
+    "outputs": "[]"
+  },
+  {
+    "id": "24274",
+    "outputs": "[]"
+  },
+  {
+    "id": "24290",
+    "outputs": "[]"
+  },
+  {
+    "id": "24293",
+    "outputs": "[]"
+  },
+  {
+    "id": "24304",
+    "outputs": "[]"
+  },
+  {
+    "id": "24333",
+    "outputs": "[]"
+  },
+  {
+    "id": "24342",
+    "outputs": "[{\"DURATION\": \"a couple of minutes\"}, {\"DATE\": \"Friday\"}]"
+  },
+  {
+    "id": "24346",
+    "outputs": "[]"
+  },
+  {
+    "id": "24361",
+    "outputs": "[]"
+  },
+  {
+    "id": "24366",
+    "outputs": "[{\"DATE\": \"now\"}]"
+  },
+  {
+    "id": "24382",
+    "outputs": "[]"
+  },
+  {
+    "id": "24387",
+    "outputs": "[{\"FAMILYNAME\": \"Tanya\"}, {\"FAMILYNAME\": \"Tanya\"}]"
+  },
+  {
+    "id": "24404",
+    "outputs": "[{\"DURATION\": \"10 minutes\"}]"
+  },
+  {
+    "id": "24428",
+    "outputs": "[]"
+  },
+  {
+    "id": "24444",
+    "outputs": "[{\"PERSONALNAME\": \"Franco\"}, {\"PERSONALNAME\": \"Franco\"}, {\"LOCATION-OTHER\": \"Andover\"}]"
+  },
+  {
+    "id": "24460",
+    "outputs": "[]"
+  },
+  {
+    "id": "24462",
+    "outputs": "[{\"AGE\": \"40s\"}, {\"AGE\": \"18\"}, {\"STREET\": \"Victor Street\"}]"
+  },
+  {
+    "id": "24542",
+    "outputs": "[]"
+  },
+  {
+    "id": "24552",
+    "outputs": "[]"
+  },
+  {
+    "id": "24597",
+    "outputs": "[]"
+  },
+  {
+    "id": "24602",
+    "outputs": "[{\"AGE\": \"29\"}, {\"FAMILYNAME\": \"Ivan\"}, {\"DURATION\": \"a long day\"}]"
+  },
+  {
+    "id": "24613",
+    "outputs": "[{\"SET\": \"once a week\"}]"
+  },
+  {
+    "id": "24644",
+    "outputs": "[]"
+  },
+  {
+    "id": "24653",
+    "outputs": "[{\"DATE\": \"this weekend\"}]"
+  },
+  {
+    "id": "24675",
+    "outputs": "[{\"DATE\": \"now\"}, {\"DATE\": \"now\"}]"
+  },
+  {
+    "id": "24691",
+    "outputs": "[{\"DURATION\": \"10 hours\"}, {\"DURATION\": \"six hours\"}, {\"STATE\": \"Ohio\"}, {\"DATE\": \"last couple of days\"}, {\"DATE\": \"Wednesday\"}]"
+  },
+  {
+    "id": "24760",
+    "outputs": "[{\"DOCTOR\": \"Anne\"}, {\"TIME\": \"morning\"}]"
+  },
+  {
+    "id": "24770",
+    "outputs": "[]"
+  },
+  {
+    "id": "24772",
+    "outputs": "[]"
+  },
+  {
+    "id": "24782",
+    "outputs": "[{\"TIME\": \"three o'clock\"}, {\"DURATION\": \"three hours\"}, {\"DATE\": \"now\"}, {\"DURATION\": \"three hours\"}]"
+  },
+  {
+    "id": "24823",
+    "outputs": "[{\"TIME\": \"tonight\"}, {\"DATE\": \"last week\"}, {\"TIME\": \"weekend\"}, {\"TIME\": \"tonight\"}]"
+  },
+  {
+    "id": "24847",
+    "outputs": "[{\"DOCTOR\": \"Micah\"}, {\"DATE\": \"Tuesday\"}]"
+  },
+  {
+    "id": "24850",
+    "outputs": "[]"
+  },
+  {
+    "id": "24899",
+    "outputs": "[]"
+  },
+  {
+    "id": "24909",
+    "outputs": "[]"
+  },
+  {
+    "id": "24912",
+    "outputs": "[]"
+  },
+  {
+    "id": "24947",
+    "outputs": "[{\"TIME\": \"day\"}, {\"SET\": \"one per day\"}, {\"TIME\": \"morning\"}]"
+  },
+  {
+    "id": "24961",
+    "outputs": "[]"
+  },
+  {
+    "id": "24976",
+    "outputs": "[]"
+  },
+  {
+    "id": "25002",
+    "outputs": "[{\"DATE\": \"Sunday\"}, {\"DURATION\": \"weekend\"}]"
+  },
+  {
+    "id": "25010",
+    "outputs": "[{\"DATE\": \"now\"}, {\"DURATION\": \"an hour\"}]"
+  },
+  {
+    "id": "25023",
+    "outputs": "[{\"PERSONALNAME\": \"Riley\"}, {\"DATE\": \"Tuesday\"}, {\"TIME\": \"morning\"}, {\"DATE\": \"Tuesday\"}]"
+  },
+  {
+    "id": "25024",
+    "outputs": "[{\"DATE\": \"Friday\"}, {\"DATE\": \"Tuesday\"}, {\"DATE\": \"yesterday\"}, {\"DURATION\": \"a week\"}, {\"DATE\": \"now\"}]"
+  },
+  {
+    "id": "25028",
+    "outputs": "[]"
+  },
+  {
+    "id": "25069",
+    "outputs": "[]"
+  },
+  {
+    "id": "25077",
+    "outputs": "[{\"DATE\": \"Sunday\"}, {\"TIME\": \"noontime\"}]"
+  },
+  {
+    "id": "25097",
+    "outputs": "[{\"DATE\": \"tomorrow\"}, {\"TIME\": \"1250\"}]"
+  },
+  {
+    "id": "25115",
+    "outputs": "[]"
+  },
+  {
+    "id": "25123",
+    "outputs": "[]"
+  },
+  {
+    "id": "25165",
+    "outputs": "[{\"DATE\": \"now\"}]"
+  },
+  {
+    "id": "25176",
+    "outputs": "[{\"FAMILYNAME\": \"James\"}]"
+  },
+  {
+    "id": "25225",
+    "outputs": "[{\"DURATION\": \"two weeks\"}]"
+  },
+  {
+    "id": "25237",
+    "outputs": "[{\"FAMILYNAME\": \"Tanya\"}]"
+  },
+  {
+    "id": "25256",
+    "outputs": "[{\"TIME\": \"eight p.m.\"}, {\"DATE\": \"Monday\"}, {\"DATE\": \"tomorrow\"}]"
+  },
+  {
+    "id": "25273",
+    "outputs": "[]"
+  },
+  {
+    "id": "25274",
+    "outputs": "[{\"DATE\": \"now\"}, {\"DURATION\": \"weekend\"}, {\"DURATION\": \"a week\"}]"
+  },
+  {
+    "id": "25286",
+    "outputs": "[]"
+  },
+  {
+    "id": "25306",
+    "outputs": "[{\"FAMILYNAME\": \"Emma\"}]"
+  },
+  {
+    "id": "25309",
+    "outputs": "[]"
+  },
+  {
+    "id": "25330",
+    "outputs": "[{\"PERSONALNAME\": \"David\"}]"
+  },
+  {
+    "id": "25344",
+    "outputs": "[{\"PERSONALNAME\": \"Jess\"}]"
+  },
+  {
+    "id": "25367",
+    "outputs": "[]"
+  },
+  {
+    "id": "25369",
+    "outputs": "[]"
+  },
+  {
+    "id": "25377",
+    "outputs": "[]"
+  },
+  {
+    "id": "25390",
+    "outputs": "[{\"DURATION\": \"10 years\"}, {\"DATE\": \"now\"}, {\"DATE\": \"tomorrow\"}, {\"DATE\": \"tomorrow\"}]"
+  },
+  {
+    "id": "25434",
+    "outputs": "[]"
+  },
+  {
+    "id": "25457",
+    "outputs": "[]"
+  },
+  {
+    "id": "25507",
+    "outputs": "[]"
+  },
+  {
+    "id": "25516",
+    "outputs": "[{\"TIME\": \"30\"}]"
+  },
+  {
+    "id": "25520",
+    "outputs": "[{\"TIME\": \"this weekend\"}, {\"DURATION\": \"week\"}, {\"SET\": \"five\"}, {\"SET\": \"10 minutes\"}]"
+  },
+  {
+    "id": "25527",
+    "outputs": "[]"
+  },
+  {
+    "id": "25533",
+    "outputs": "[{\"DURATION\": \"six\"}, {\"DURATION\": \"eight\"}, {\"DURATION\": \"six\"}, {\"DURATION\": \"15\"}]"
+  },
+  {
+    "id": "25557",
+    "outputs": "[{\"DATE\": \"now\"}, {\"DATE\": \"now\"}]"
+  },
+  {
+    "id": "25581",
+    "outputs": "[{\"DURATION\": \"five days\"}]"
+  },
+  {
+    "id": "25588",
+    "outputs": "[]"
+  },
+  {
+    "id": "25598",
+    "outputs": "[{\"FAMILYNAME\": \"Francio\"}]"
+  },
+  {
+    "id": "25685",
+    "outputs": "[{\"PERSONALNAME\": \"James\"}, {\"DURATION\": \"three\"}, {\"DURATION\": \"four hours\"}, {\"TIME\": \"this evening\"}]"
+  },
+  {
+    "id": "25714",
+    "outputs": "[{\"DATE\": \"now\"}]"
+  },
+  {
+    "id": "25724",
+    "outputs": "[{\"DURATION\": \"13 hours\"}, {\"SET\": \"40 a week\"}]"
+  },
+  {
+    "id": "25745",
+    "outputs": "[]"
+  },
+  {
+    "id": "25770",
+    "outputs": "[]"
+  },
+  {
+    "id": "25785",
+    "outputs": "[]"
+  },
+  {
+    "id": "25790",
+    "outputs": "[{\"CITY\": \"Chicago\"}, {\"STATE\": \"Montana\"}, {\"CITY\": \"Chicago\"}, {\"CITY\": \"Chicago\"}, {\"DATE\": \"night\"}, {\"COUNTRY\": \"Madagascar\"}]"
+  },
+  {
+    "id": "25803",
+    "outputs": "[{\"DATE\": \"now\"}, {\"TIME\": \"other night\"}]"
+  },
+  {
+    "id": "25837",
+    "outputs": "[]"
+  },
+  {
+    "id": "25853",
+    "outputs": "[]"
+  },
+  {
+    "id": "25860",
+    "outputs": "[{\"DATE\": \"today\"}, {\"FAMILYNAME\": \"Ivan\"}]"
+  },
+  {
+    "id": "25864",
+    "outputs": "[{\"DATE\": \"all day\"}, {\"DURATION\": \"last couple of days\"}, {\"DURATION\": \"the past week and a half\"}, {\"DURATION\": \"two weeks\"}]"
+  },
+  {
+    "id": "25874",
+    "outputs": "[{\"TIME\": \"Friday morning\"}, {\"DOCTOR\": \"Barnes\"}, {\"STATE\": \"Rhode Island\"}]"
+  },
+  {
+    "id": "25909",
+    "outputs": "[{\"DATE\": \"today\"}, {\"DURATION\": \"30 years\"}]"
+  },
+  {
+    "id": "25945",
+    "outputs": "[{\"DATE\": \"yesterday\"}, {\"DOCTOR\": \"Carlton\"}]"
+  },
+  {
+    "id": "25952",
+    "outputs": "[{\"DURATION\": \"this weekend long\"}, {\"DATE\": \"each day\"}, {\"DATE\": \"every day\"}, {\"TIME\": \"morning\"}, {\"TIME\": \"noon\"}, {\"TIME\": \"afternoon\"}]"
+  },
+  {
+    "id": "25961",
+    "outputs": "[{\"DURATION\": \"longer than a week\"}, {\"DATE\": \"this week\"}]"
+  },
+  {
+    "id": "26021",
+    "outputs": "[{\"DATE\": \"now\"}, {\"DURATION\": \"two weeks\"}]"
+  },
+  {
+    "id": "26035",
+    "outputs": "[]"
+  },
+  {
+    "id": "26041",
+    "outputs": "[{\"DATE\": \"now\"}]"
+  },
+  {
+    "id": "26053",
+    "outputs": "[{\"DATE\": \"now\"}]"
+  },
+  {
+    "id": "26054",
+    "outputs": "[{\"DURATION\": \"two\"}, {\"DURATION\": \"three minutes\"}, {\"DURATION\": \"two\"}, {\"DURATION\": \"three minutes\"}]"
+  },
+  {
+    "id": "26092",
+    "outputs": "[{\"FAMILYNAME\": \"Tanya\"}]"
+  },
+  {
+    "id": "26095",
+    "outputs": "[{\"DATE\": \"now\"}]"
+  },
+  {
+    "id": "26121",
+    "outputs": "[]"
+  },
+  {
+    "id": "26151",
+    "outputs": "[{\"TIME\": \"this morning\"}, {\"DATE\": \"today\"}, {\"DURATION\": \"two weeks\"}, {\"DATE\": \"today\"}]"
+  },
+  {
+    "id": "26193",
+    "outputs": "[{\"PERSONALNAME\": \"Sydney\"}, {\"DURATION\": \"days\"}]"
+  },
+  {
+    "id": "26197",
+    "outputs": "[{\"DURATION\": \"day\"}, {\"DURATION\": \"day\"}]"
+  },
+  {
+    "id": "26239",
+    "outputs": "[{\"DURATION\": \"a few hours\"}]"
+  },
+  {
+    "id": "26248",
+    "outputs": "[]"
+  },
+  {
+    "id": "26251",
+    "outputs": "[]"
+  },
+  {
+    "id": "26273",
+    "outputs": "[]"
+  },
+  {
+    "id": "26286",
+    "outputs": "[{\"DURATION\": \"a day\"}]"
+  },
+  {
+    "id": "26290",
+    "outputs": "[{\"DURATION\": \"20 minutes\"}, {\"TIME\": \"last night\"}, {\"DURATION\": \"20 minutes\"}, {\"TIME\": \"last night\"}, {\"DURATION\": \"couple of weeks\"}, {\"PERSONALNAME\": \"Sidney\"}, {\"DURATION\": \"past few weeks\"}]"
+  },
+  {
+    "id": "26304",
+    "outputs": "[]"
+  },
+  {
+    "id": "26305",
+    "outputs": "[{\"DATE\": \"now\"}]"
+  },
+  {
+    "id": "26315",
+    "outputs": "[{\"PERSONALNAME\": \"Audrey\"}, {\"PERSONALNAME\": \"Audrey\"}]"
+  },
+  {
+    "id": "26359",
+    "outputs": "[{\"DATE\": \"now\"}]"
+  },
+  {
+    "id": "26362",
+    "outputs": "[{\"DATE\": \"yesterday\"}, {\"DURATION\": \"all day\"}, {\"TIME\": \"this morning\"}]"
+  },
+  {
+    "id": "26392",
+    "outputs": "[{\"PERSONALNAME\": \"Sydney\"}, {\"TIME\": \"night\"}]"
+  },
+  {
+    "id": "26404",
+    "outputs": "[]"
+  },
+  {
+    "id": "26406",
+    "outputs": "[{\"PERSONALNAME\": \"Kelly\"}, {\"PERSONALNAME\": \"Kelly\"}]"
+  },
+  {
+    "id": "26414",
+    "outputs": "[]"
+  },
+  {
+    "id": "26432",
+    "outputs": "[]"
+  },
+  {
+    "id": "26523",
+    "outputs": "[{\"DATE\": \"Friday\"}, {\"TIME\": \"tonight\"}, {\"DATE\": \"tomorrow\"}, {\"TIME\": \"tomorrow morning\"}, {\"TIME\": \"tonight\"}, {\"DURATION\": \"week\"}, {\"LOCATION-OTHER\": \"Hamden\"}]"
+  },
+  {
+    "id": "26604",
+    "outputs": "[{\"DATE\": \"now\"}]"
+  },
+  {
+    "id": "26631",
+    "outputs": "[{\"DURATION\": \"a week\"}]"
+  },
+  {
+    "id": "26664",
+    "outputs": "[{\"DATE\": \"last week\"}]"
+  },
+  {
+    "id": "26665",
+    "outputs": "[]"
+  },
+  {
+    "id": "26671",
+    "outputs": "[]"
+  },
+  {
+    "id": "26698",
+    "outputs": "[{\"DATE\": \"now\"}, {\"DURATION\": \"six weeks\"}]"
+  },
+  {
+    "id": "26708",
+    "outputs": "[]"
+  },
+  {
+    "id": "26725",
+    "outputs": "[{\"DURATION\": \"five minutes\"}, {\"TIME\": \"nighttime\"}]"
+  },
+  {
+    "id": "26732",
+    "outputs": "[{\"PERSONALNAME\": \"James\"}]"
+  },
+  {
+    "id": "26754",
+    "outputs": "[{\"FAMILYNAME\": \"Ivan\"}]"
+  },
+  {
+    "id": "26811",
+    "outputs": "[]"
+  },
+  {
+    "id": "26830",
+    "outputs": "[]"
+  },
+  {
+    "id": "26838",
+    "outputs": "[]"
+  },
+  {
+    "id": "26845",
+    "outputs": "[{\"DATE\": \"now\"}, {\"DOCTOR\": \"chérèse le choud\"}, {\"DOCTOR\": \"Sound\"}]"
+  },
+  {
+    "id": "26859",
+    "outputs": "[{\"FAMILYNAME\": \"Josh\"}]"
+  },
+  {
+    "id": "26860",
+    "outputs": "[{\"PERSONALNAME\": \"Emma\"}, {\"PERSONALNAME\": \"Damien\"}]"
+  },
+  {
+    "id": "26876",
+    "outputs": "[{\"DURATION\": \"a year\"}, {\"DURATION\": \"a year\"}, {\"SET\": \"a couple of times a week\"}]"
+  },
+  {
+    "id": "26877",
+    "outputs": "[]"
+  },
+  {
+    "id": "26889",
+    "outputs": "[]"
+  },
+  {
+    "id": "26946",
+    "outputs": "[{\"DATE\": \"today\"}, {\"PERSONALNAME\": \"Sidney\"}]"
+  },
+  {
+    "id": "26965",
+    "outputs": "[]"
+  },
+  {
+    "id": "26968",
+    "outputs": "[]"
+  },
+  {
+    "id": "26998",
+    "outputs": "[]"
+  },
+  {
+    "id": "27001",
+    "outputs": "[]"
+  },
+  {
+    "id": "27057",
+    "outputs": "[{\"DOCTOR\": \"Psychological Medicine\"}, {\"DATE\": \"today\"}, {\"TIME\": \"last night\"}, {\"DATE\": \"today\"}, {\"PERSONALNAME\": \"Carl\"}, {\"PERSONALNAME\": \"Carl\"}]"
+  },
+  {
+    "id": "27058",
+    "outputs": "[]"
+  },
+  {
+    "id": "27089",
+    "outputs": "[]"
+  },
+  {
+    "id": "27098",
+    "outputs": "[]"
+  },
+  {
+    "id": "27112",
+    "outputs": "[{\"DATE\": \"spring break\"}, {\"SET\": \"every day\"}, {\"TIME\": \"this morning\"}, {\"DURATION\": \"next couple days\"}, {\"TIME\": \"evenings\"}]"
+  },
+  {
+    "id": "27144",
+    "outputs": "[]"
+  },
+  {
+    "id": "27164",
+    "outputs": "[{\"PROFESSION\": \"hair\"}, {\"SET\": \"four times a year\"}]"
+  },
+  {
+    "id": "27172",
+    "outputs": "[{\"DATE\": \"Friday\"}]"
+  },
+  {
+    "id": "27240",
+    "outputs": "[{\"DATE\": \"today\"}, {\"DURATION\": \"a week\"}, {\"DURATION\": \"two\"}]"
+  },
+  {
+    "id": "27262",
+    "outputs": "[]"
+  },
+  {
+    "id": "27269",
+    "outputs": "[{\"PERSONALNAME\": \"Emma\"}]"
+  },
+  {
+    "id": "27285",
+    "outputs": "[{\"DURATION\": \"periods of time\"}, {\"DURATION\": \"years\"}]"
+  },
+  {
+    "id": "27305",
+    "outputs": "[]"
+  },
+  {
+    "id": "27340",
+    "outputs": "[]"
+  },
+  {
+    "id": "27350",
+    "outputs": "[{\"DATE\": \"now\"}, {\"DURATION\": \"a month\"}, {\"DATE\": \"spring break\"}, {\"DATE\": \"February\"}, {\"DATE\": \"March\"}, {\"DATE\": \"February\"}, {\"DATE\": \"March\"}]"
+  },
+  {
+    "id": "27351",
+    "outputs": "[{\"SET\": \"one job per week\"}]"
+  },
+  {
+    "id": "27362",
+    "outputs": "[]"
+  },
+  {
+    "id": "27368",
+    "outputs": "[{\"TIME\": \"last night\"}, {\"FAMILYNAME\": \"Carl\"}]"
+  },
+  {
+    "id": "27375",
+    "outputs": "[{\"DATE\": \"last week\"}]"
+  },
+  {
+    "id": "27417",
+    "outputs": "[{\"DATE\": \"today\"}, {\"DURATION\": \"several months\"}]"
+  },
+  {
+    "id": "27422",
+    "outputs": "[]"
+  },
+  {
+    "id": "27439",
+    "outputs": "[]"
+  },
+  {
+    "id": "27472",
+    "outputs": "[{\"DURATION\": \"10 years\"}]"
+  },
+  {
+    "id": "27489",
+    "outputs": "[]"
+  },
+  {
+    "id": "27492",
+    "outputs": "[]"
+  },
+  {
+    "id": "27501",
+    "outputs": "[{\"FAMILYNAME\": \"Tanya\"}]"
+  },
+  {
+    "id": "27536",
+    "outputs": "[]"
+  },
+  {
+    "id": "27541",
+    "outputs": "[{\"DATE\": \"last week\"}, {\"DURATION\": \"several days\"}, {\"DURATION\": \"last several days\"}]"
+  },
+  {
+    "id": "27554",
+    "outputs": "[]"
+  },
+  {
+    "id": "27558",
+    "outputs": "[{\"PATIENT\": \"Jessa\"}]"
+  },
+  {
+    "id": "27560",
+    "outputs": "[]"
+  },
+  {
+    "id": "27581",
+    "outputs": "[{\"DURATION\": \"a few minutes\"}]"
+  },
+  {
+    "id": "27626",
+    "outputs": "[{\"FAMILYNAME\": \"Josh\"}, {\"DURATION\": \"an hour\"}]"
+  },
+  {
+    "id": "27649",
+    "outputs": "[]"
+  },
+  {
+    "id": "27655",
+    "outputs": "[{\"TIME\": \"evenings\"}, {\"DATE\": \"Sunday\"}, {\"DATE\": \"Monday\"}, {\"TIME\": \"morning\"}, {\"TIME\": \"night\"}]"
+  },
+  {
+    "id": "27657",
+    "outputs": "[]"
+  },
+  {
+    "id": "27688",
+    "outputs": "[]"
+  },
+  {
+    "id": "27702",
+    "outputs": "[]"
+  },
+  {
+    "id": "27791",
+    "outputs": "[]"
+  },
+  {
+    "id": "27805",
+    "outputs": "[{\"TIME\": \"morning\"}, {\"TIME\": \"morning\"}, {\"DATE\": \"this week\"}, {\"DATE\": \"this week\"}, {\"DURATION\": \"couple of weeks\"}]"
+  },
+  {
+    "id": "27826",
+    "outputs": "[{\"TIME\": \"morning\"}]"
+  },
+  {
+    "id": "27879",
+    "outputs": "[{\"DURATION\": \"this past week\"}]"
+  },
+  {
+    "id": "27883",
+    "outputs": "[]"
+  },
+  {
+    "id": "27896",
+    "outputs": "[]"
+  },
+  {
+    "id": "28030",
+    "outputs": "[{\"TIME\": \"five in the morning\"}, {\"TIME\": \"day\"}, {\"TIME\": \"day\"}]"
+  },
+  {
+    "id": "28031",
+    "outputs": "[]"
+  },
+  {
+    "id": "28104",
+    "outputs": "[]"
+  },
+  {
+    "id": "28137",
+    "outputs": "[{\"DATE\": \"now\"}]"
+  },
+  {
+    "id": "28148",
+    "outputs": "[{\"TIME\": \"morning\"}, {\"DURATION\": \"15 minutes\"}]"
+  },
+  {
+    "id": "28185",
+    "outputs": "[]"
+  },
+  {
+    "id": "28244",
+    "outputs": "[{\"DATE\": \"today\"}]"
+  },
+  {
+    "id": "28311",
+    "outputs": "[{\"FAMILYNAME\": \"Tanya\"}, {\"FAMILYNAME\": \"Tanya\"}, {\"DATE\": \"last year\"}, {\"FAMILYNAME\": \"Tanya\"}]"
+  },
+  {
+    "id": "28343",
+    "outputs": "[]"
+  },
+  {
+    "id": "28350",
+    "outputs": "[{\"ORGANIZATION\": \"Cambridge Business Review\"}]"
+  },
+  {
+    "id": "28400",
+    "outputs": "[]"
+  },
+  {
+    "id": "28426",
+    "outputs": "[{\"DATE\": \"Thursday\"}, {\"DURATION\": \"20 hours\"}]"
+  },
+  {
+    "id": "28430",
+    "outputs": "[{\"DATE\": \"this week\"}]"
+  },
+  {
+    "id": "28434",
+    "outputs": "[]"
+  },
+  {
+    "id": "28438",
+    "outputs": "[]"
+  },
+  {
+    "id": "28443",
+    "outputs": "[{\"PERSONALNAME\": \"Sidney\"}, {\"PERSONALNAME\": \"Sidney\"}]"
+  },
+  {
+    "id": "28457",
+    "outputs": "[{\"FAMILYNAME\": \"Tanya\"}, {\"DATE\": \"now\"}, {\"DURATION\": \"years\"}]"
+  },
+  {
+    "id": "28460",
+    "outputs": "[{\"TIME\": \"morning\"}, {\"DURATION\": \"all day\"}]"
+  },
+  {
+    "id": "28462",
+    "outputs": "[]"
+  },
+  {
+    "id": "28591",
+    "outputs": "[{\"DATE\": \"today\"}]"
+  },
+  {
+    "id": "28605",
+    "outputs": "[{\"TIME\": \"morning\"}]"
+  },
+  {
+    "id": "28673",
+    "outputs": "[{\"PERSONALNAME\": \"Vanessa\"}, {\"PERSONALNAME\": \"Lucy\"}, {\"PERSONALNAME\": \"Vanessa\"}, {\"PERSONALNAME\": \"Yvonne\"}]"
+  },
+  {
+    "id": "28684",
+    "outputs": "[]"
+  },
+  {
+    "id": "28693",
+    "outputs": "[{\"DATE\": \"yesterday\"}]"
+  },
+  {
+    "id": "28713",
+    "outputs": "[{\"FAMILYNAME\": \"Tanya\"}, {\"FAMILYNAME\": \"Tanya\"}, {\"FAMILYNAME\": \"Tanya\"}]"
+  },
+  {
+    "id": "28758",
+    "outputs": "[]"
+  },
+  {
+    "id": "28782",
+    "outputs": "[]"
+  },
+  {
+    "id": "28825",
+    "outputs": "[{\"DATE\": \"May\"}, {\"PERSONALNAME\": \"Jess\"}]"
+  },
+  {
+    "id": "28874",
+    "outputs": "[]"
+  },
+  {
+    "id": "28883",
+    "outputs": "[]"
+  },
+  {
+    "id": "28914",
+    "outputs": "[{\"DURATION\": \"three\"}, {\"DURATION\": \"four minutes\"}]"
+  },
+  {
+    "id": "28935",
+    "outputs": "[]"
+  },
+  {
+    "id": "29005",
+    "outputs": "[]"
+  },
+  {
+    "id": "29048",
+    "outputs": "[]"
+  },
+  {
+    "id": "29116",
+    "outputs": "[]"
+  },
+  {
+    "id": "29150",
+    "outputs": "[{\"PERSONALNAME\": \"Wesley\"}, {\"DATE\": \"Tuesday\"}]"
+  },
+  {
+    "id": "29160",
+    "outputs": "[]"
+  },
+  {
+    "id": "29162",
+    "outputs": "[]"
+  },
+  {
+    "id": "29163",
+    "outputs": "[{\"TIME\": \"evening\"}]"
+  },
+  {
+    "id": "29203",
+    "outputs": "[{\"STATE\": \"California\"}]"
+  },
+  {
+    "id": "29210",
+    "outputs": "[]"
+  },
+  {
+    "id": "29286",
+    "outputs": "[]"
+  },
+  {
+    "id": "29294",
+    "outputs": "[]"
+  },
+  {
+    "id": "29305",
+    "outputs": "[{\"FAMILYNAME\": \"Tanya\"}]"
+  },
+  {
+    "id": "29342",
+    "outputs": "[]"
+  },
+  {
+    "id": "29347",
+    "outputs": "[{\"DURATION\": \"two weeks\"}, {\"DURATION\": \"two week\"}, {\"DURATION\": \"two and a half week\"}]"
+  },
+  {
+    "id": "29379",
+    "outputs": "[]"
+  },
+  {
+    "id": "29385",
+    "outputs": "[]"
+  },
+  {
+    "id": "29401",
+    "outputs": "[{\"DURATION\": \"last several months\"}]"
+  },
+  {
+    "id": "29409",
+    "outputs": "[]"
+  },
+  {
+    "id": "29424",
+    "outputs": "[]"
+  },
+  {
+    "id": "29461",
+    "outputs": "[]"
+  },
+  {
+    "id": "29469",
+    "outputs": "[{\"TIME\": \"Monday morning\"}]"
+  },
+  {
+    "id": "29508",
+    "outputs": "[]"
+  },
+  {
+    "id": "29524",
+    "outputs": "[]"
+  },
+  {
+    "id": "29555",
+    "outputs": "[]"
+  },
+  {
+    "id": "29562",
+    "outputs": "[]"
+  },
+  {
+    "id": "29569",
+    "outputs": "[{\"DOCTOR\": \"Debbie\"}]"
+  },
+  {
+    "id": "29584",
+    "outputs": "[{\"DURATION\": \" 15 minutes\"}, {\"TIME\": \"in the morning\"}, {\"TIME\": \"evening\"}, {\"DATE\": \"tomorrow\"}, {\"DATE\": \"tonight\"}]"
+  },
+  {
+    "id": "29627",
+    "outputs": "[{\"DURATION\": \"an hour\"}]"
+  },
+  {
+    "id": "29680",
+    "outputs": "[]"
+  },
+  {
+    "id": "29690",
+    "outputs": "[{\"PATIENT\": \"Ramona\"}, {\"DOCTOR\": \"Farrow\"}]"
+  },
+  {
+    "id": "29768",
+    "outputs": "[{\"DATE\": \"now\"}]"
+  },
+  {
+    "id": "29771",
+    "outputs": "[{\"DURATION\": \"last couple of days\"}]"
+  },
+  {
+    "id": "29781",
+    "outputs": "[{\"DATE\": \"Wednesdays\"}]"
+  },
+  {
+    "id": "29784",
+    "outputs": "[]"
+  },
+  {
+    "id": "29790",
+    "outputs": "[{\"PATIENT\": \"Ramona\"}, {\"PROFESSION\": \"manager\"}]"
+  },
+  {
+    "id": "29805",
+    "outputs": "[{\"DATE\": \"now\"}, {\"TIME\": \"last night\"}, {\"DATE\": \"every day\"}, {\"FAMILYNAME\": \"Harold\"}, {\"DATE\": \"every day\"}]"
+  },
+  {
+    "id": "29842",
+    "outputs": "[]"
+  },
+  {
+    "id": "29846",
+    "outputs": "[]"
+  },
+  {
+    "id": "29910",
+    "outputs": "[]"
+  },
+  {
+    "id": "29912",
+    "outputs": "[{\"DURATION\": \"five minutes\"}, {\"DOCTOR\": \"Board\"}]"
+  },
+  {
+    "id": "29918",
+    "outputs": "[]"
+  },
+  {
+    "id": "29928",
+    "outputs": "[{\"MEDICATION\": \"desipiramine\"}, {\"TIME\": \"morning\"}, {\"MEDICATION\": \"Vitamin D\"}, {\"MEDICATION\": \"Vitamin B complex\"}, {\"TIME\": \"evening\"}, {\"MEDICATION\": \"Cerakol\"}, {\"MEDICATION\": \"Klonopin\"}]"
+  },
+  {
+    "id": "29946",
+    "outputs": "[]"
+  },
+  {
+    "id": "29965",
+    "outputs": "[]"
+  },
+  {
+    "id": "29975",
+    "outputs": "[{\"FAMILYNAME\": \"Tanya\"}]"
+  },
+  {
+    "id": "29977",
+    "outputs": "[{\"DATE\": \"yesterday\"}, {\"PERSONALNAME\": \"Graham\"}, {\"PERSONALNAME\": \"Graham\"}, {\"PROFESSION\": \"woman\"}, {\"COUNTRY\": \"London\"}]"
+  },
+  {
+    "id": "30015",
+    "outputs": "[]"
+  },
+  {
+    "id": "30036",
+    "outputs": "[]"
+  },
+  {
+    "id": "30061",
+    "outputs": "[]"
+  },
+  {
+    "id": "30082",
+    "outputs": "[{\"PERSONALNAME\": \"Ian\"}, {\"TIME\": \"Sunday morning\"}]"
+  },
+  {
+    "id": "30122",
+    "outputs": "[{\"FAMILYNAME\": \"Ivan\"}, {\"FAMILYNAME\": \"Ivan\"}]"
+  },
+  {
+    "id": "30157",
+    "outputs": "[]"
+  },
+  {
+    "id": "30159",
+    "outputs": "[{\"TIME\": \"day\"}, {\"LOCATION-OTHER\": \"Greenwich\"}]"
+  },
+  {
+    "id": "30182",
+    "outputs": "[]"
+  },
+  {
+    "id": "30219",
+    "outputs": "[{\"TIME\": \"tonight\"}, {\"DATE\": \"tomorrow\"}, {\"DURATION\": \"long time\"}, {\"DATE\": \"tomorrow\"}, {\"TIME\": \"10\"}]"
+  },
+  {
+    "id": "30226",
+    "outputs": "[{\"DATE\": \"day\"}, {\"AGE\": \"10\"}]"
+  },
+  {
+    "id": "30238",
+    "outputs": "[]"
+  },
+  {
+    "id": "30268",
+    "outputs": "[]"
+  },
+  {
+    "id": "30292",
+    "outputs": "[]"
+  },
+  {
+    "id": "30297",
+    "outputs": "[{\"DATE\": \"yesterday\"}, {\"PERSONALNAME\": \"Amelia\"}, {\"DATE\": \"today\"}]"
+  },
+  {
+    "id": "30317",
+    "outputs": "[]"
+  },
+  {
+    "id": "30326",
+    "outputs": "[]"
+  },
+  {
+    "id": "30336",
+    "outputs": "[]"
+  },
+  {
+    "id": "30356",
+    "outputs": "[]"
+  },
+  {
+    "id": "30381",
+    "outputs": "[]"
+  },
+  {
+    "id": "30391",
+    "outputs": "[{\"DATE\": \"December\"}, {\"DATE\": \"September\"}, {\"DATE\": \"October\"}, {\"DATE\": \"yesterday\"}, {\"DATE\": \"today\"}, {\"DURATION\": \"summer\"}]"
+  },
+  {
+    "id": "30430",
+    "outputs": "[]"
+  },
+  {
+    "id": "30477",
+    "outputs": "[{\"AGE\": \"two years\"}, {\"ORGANIZATION\": \"Subway\"}]"
+  },
+  {
+    "id": "30538",
+    "outputs": "[]"
+  },
+  {
+    "id": "30539",
+    "outputs": "[]"
+  },
+  {
+    "id": "30566",
+    "outputs": "[]"
+  },
+  {
+    "id": "30571",
+    "outputs": "[]"
+  },
+  {
+    "id": "30588",
+    "outputs": "[{\"DATE\": \"January\"}, {\"DURATION\": \"a long time\"}, {\"DATE\": \"this past week\"}, {\"DURATION\": \"a few days\"}, {\"DATE\": \"Sunday\"}, {\"DATE\": \"Monday\"}, {\"DATE\": \"now\"}]"
+  },
+  {
+    "id": "30590",
+    "outputs": "[]"
+  },
+  {
+    "id": "30646",
+    "outputs": "[{\"DATE\": \"now\"}]"
+  },
+  {
+    "id": "30662",
+    "outputs": "[]"
+  },
+  {
+    "id": "30672",
+    "outputs": "[]"
+  },
+  {
+    "id": "30684",
+    "outputs": "[]"
+  },
+  {
+    "id": "30714",
+    "outputs": "[{\"DURATION\": \"night\"}, {\"DATE\": \"Monday\"}]"
+  },
+  {
+    "id": "30719",
+    "outputs": "[{\"DURATION\": \"few weeks\"}, {\"DATE\": \"now\"}]"
+  },
+  {
+    "id": "30720",
+    "outputs": "[]"
+  },
+  {
+    "id": "30728",
+    "outputs": "[]"
+  },
+  {
+    "id": "30774",
+    "outputs": "[]"
+  },
+  {
+    "id": "30781",
+    "outputs": "[{\"PERSONALNAME\": \"Victor\"}, {\"DATE\": \"yesterday\"}]"
+  },
+  {
+    "id": "30802",
+    "outputs": "[]"
+  },
+  {
+    "id": "30816",
+    "outputs": "[]"
+  },
+  {
+    "id": "30831",
+    "outputs": "[]"
+  },
+  {
+    "id": "30848",
+    "outputs": "[]"
+  },
+  {
+    "id": "30893",
+    "outputs": "[]"
+  },
+  {
+    "id": "30895",
+    "outputs": "[]"
+  },
+  {
+    "id": "30904",
+    "outputs": "[{\"TIME\": \"evening\"}]"
+  },
+  {
+    "id": "30934",
+    "outputs": "[{\"SET\": \"one day a week\"}, {\"DATE\": \"Sundays\"}, {\"TIME\": \"evening\"}]"
+  },
+  {
+    "id": "30935",
+    "outputs": "[]"
+  },
+  {
+    "id": "30958",
+    "outputs": "[]"
+  },
+  {
+    "id": "30971",
+    "outputs": "[{\"PERSONALNAME\": \"David\"}, {\"TIME\": \"night\"}]"
+  },
+  {
+    "id": "30986",
+    "outputs": "[{\"DURATION\": \"five hours\"}, {\"DURATION\": \"day\"}]"
+  },
+  {
+    "id": "30992",
+    "outputs": "[{\"DURATION\": \"last several months\"}]"
+  },
+  {
+    "id": "30995",
+    "outputs": "[]"
+  },
+  {
+    "id": "31006",
+    "outputs": "[{\"DATE\": \"yesterday\"}, {\"DURATION\": \"all day\"}]"
+  },
+  {
+    "id": "31016",
+    "outputs": "[{\"AGE\": \"35\"}, {\"DATE\": \"now\"}, {\"DURATION\": \"a year\"}]"
+  },
+  {
+    "id": "31081",
+    "outputs": "[{\"DURATION\": \"few days\"}, {\"FAMILYNAME\": \"Josh\"}, {\"DURATION\": \"a few hours\"}]"
+  },
+  {
+    "id": "31087",
+    "outputs": "[{\"PERSONALNAME\": \" Sydney\"}, {\"DATE\": \"now\"}, {\"DURATION\": \"nine weeks\"}]"
+  },
+  {
+    "id": "31108",
+    "outputs": "[]"
+  },
+  {
+    "id": "31132",
+    "outputs": "[{\"DATE\": \"today\"}, {\"DATE\": \"now\"}, {\"SET\": \"once a week\"}, {\"SET\": \"every week\"}, {\"DATE\": \"last week\"}]"
+  },
+  {
+    "id": "31133",
+    "outputs": "[]"
+  },
+  {
+    "id": "31179",
+    "outputs": "[]"
+  },
+  {
+    "id": "31247",
+    "outputs": "[{\"CITY\": \"Denver\"}, {\"CITY\": \"Denver\"}]"
+  },
+  {
+    "id": "31325",
+    "outputs": "[{\"TIME\": \"night\"}, {\"TIME\": \"night\"}]"
+  },
+  {
+    "id": "31353",
+    "outputs": "[]"
+  },
+  {
+    "id": "31367",
+    "outputs": "[{\"PERSONALNAME\": \"Susan\"}, {\"DATE\": \" 14th\"}, {\"DATE\": \"now\"}, {\"PERSONALNAME\": \"Sydney\"}, {\"PERSONALNAME\": \"Sydney\"}, {\"PERSONALNAME\": \"susan\"}, {\"PERSONALNAME\": \"Sydney\"}]"
+  },
+  {
+    "id": "31394",
+    "outputs": "[{\"FAMILYNAME\": \"Tanya\"}]"
+  },
+  {
+    "id": "31398",
+    "outputs": "[]"
+  },
+  {
+    "id": "31402",
+    "outputs": "[]"
+  },
+  {
+    "id": "31412",
+    "outputs": "[]"
+  },
+  {
+    "id": "31414",
+    "outputs": "[]"
+  },
+  {
+    "id": "31462",
+    "outputs": "[]"
+  },
+  {
+    "id": "31471",
+    "outputs": "[]"
+  },
+  {
+    "id": "31537",
+    "outputs": "[{\"DURATION\": \"all week\"}, {\"DURATION\": \"one week\"}]"
+  },
+  {
+    "id": "31538",
+    "outputs": "[]"
+  },
+  {
+    "id": "31542",
+    "outputs": "[{\"DURATION\": \"two months\"}]"
+  },
+  {
+    "id": "31554",
+    "outputs": "[]"
+  },
+  {
+    "id": "31588",
+    "outputs": "[]"
+  },
+  {
+    "id": "31600",
+    "outputs": "[{\"DATE\": \"two\"}, {\"DATE\": \"three years\"}, {\"DATE\": \"days\"}]"
+  },
+  {
+    "id": "31626",
+    "outputs": "[]"
+  },
+  {
+    "id": "31639",
+    "outputs": "[]"
+  },
+  {
+    "id": "31652",
+    "outputs": "[]"
+  },
+  {
+    "id": "31680",
+    "outputs": "[{\"DATE\": \"yesterday\"}, {\"DATE\": \"today\"}, {\"DATE\": \"yesterday\"}, {\"DATE\": \"other day\"}, {\"DATE\": \"today\"}]"
+  },
+  {
+    "id": "31697",
+    "outputs": "[{\"DATE\": \"next month\"}, {\"DATE\": \"another week and a half\"}, {\"DURATION\": \"days\"}]"
+  },
+  {
+    "id": "31702",
+    "outputs": "[]"
+  },
+  {
+    "id": "31738",
+    "outputs": "[{\"AGE\": \"70\"}]"
+  },
+  {
+    "id": "31867",
+    "outputs": "[]"
+  },
+  {
+    "id": "31876",
+    "outputs": "[]"
+  },
+  {
+    "id": "31902",
+    "outputs": "[]"
+  },
+  {
+    "id": "31905",
+    "outputs": "[]"
+  },
+  {
+    "id": "31965",
+    "outputs": "[]"
+  },
+  {
+    "id": "31981",
+    "outputs": "[{\"TIME\": \"11\"}, {\"DURATION\": \"several hours\"}, {\"TIME\": \"Sunday morning\"}, {\"PERSONALNAME\": \"Ian\"}, {\"PERSONALNAME\": \"Jess\"}]"
+  },
+  {
+    "id": "31985",
+    "outputs": "[]"
+  },
+  {
+    "id": "31992",
+    "outputs": "[{\"TIME\": \"630\"}, {\"DATE\": \"Sunday\"}]"
+  },
+  {
+    "id": "32034",
+    "outputs": "[{\"DOCTOR\": \"Debbie\"}]"
+  },
+  {
+    "id": "32068",
+    "outputs": "[]"
+  },
+  {
+    "id": "32086",
+    "outputs": "[]"
+  },
+  {
+    "id": "32106",
+    "outputs": "[{\"DURATION\": \"many years\"}]"
+  },
+  {
+    "id": "32127",
+    "outputs": "[{\"PERSONALNAME\": \"Paul\"}]"
+  },
+  {
+    "id": "32129",
+    "outputs": "[]"
+  },
+  {
+    "id": "32140",
+    "outputs": "[{\"DATE\": \"yesterday\"}]"
+  },
+  {
+    "id": "32164",
+    "outputs": "[]"
+  },
+  {
+    "id": "32166",
+    "outputs": "[{\"DATE\": \"March\"}, {\"DATE\": \"April\"}]"
+  },
+  {
+    "id": "32205",
+    "outputs": "[{\"TIME\": \"morning\"}, {\"DATE\": \"last week\"}]"
+  },
+  {
+    "id": "32207",
+    "outputs": "[{\"DATE\": \"now\"}, {\"DATE\": \"today\"}, {\"PATIENT\": \"Ramona\"}]"
+  },
+  {
+    "id": "32232",
+    "outputs": "[{\"COUNTY\": \"Sheshire\"}, {\"FAMILYNAME\": \"Freddie\"}]"
+  },
+  {
+    "id": "32238",
+    "outputs": "[{\"DATE\": \"Now\"}]"
+  },
+  {
+    "id": "32246",
+    "outputs": "[]"
+  },
+  {
+    "id": "32280",
+    "outputs": "[{\"FAMILYNAME\": \"Tanya\"}]"
+  },
+  {
+    "id": "32317",
+    "outputs": "[{\"PATIENT\": \"Ramona\"}, {\"DATE\": \"now\"}, {\"SET\": \"every day\"}, {\"SET\": \"every day\"}]"
+  },
+  {
+    "id": "32348",
+    "outputs": "[]"
+  },
+  {
+    "id": "32354",
+    "outputs": "[]"
+  },
+  {
+    "id": "32365",
+    "outputs": "[{\"TIME\": \"eight 30\"}]"
+  },
+  {
+    "id": "32369",
+    "outputs": "[]"
+  },
+  {
+    "id": "32384",
+    "outputs": "[]"
+  },
+  {
+    "id": "32434",
+    "outputs": "[]"
+  },
+  {
+    "id": "32475",
+    "outputs": "[]"
+  },
+  {
+    "id": "32494",
+    "outputs": "[]"
+  },
+  {
+    "id": "32519",
+    "outputs": "[]"
+  },
+  {
+    "id": "33446",
+    "outputs": "[{\"DATE\": \"now\"}]"
+  },
+  {
+    "id": "40142",
+    "outputs": "[{\"DATE\": \"now\"}]"
+  },
+  {
+    "id": "50004",
+    "outputs": "[{\"DATE\": \"June 26, 2064\"}]"
+  },
+  {
+    "id": "50017",
+    "outputs": "[{\"DATE\": \"August 21, 2062\"}, {\"LOCATION-OTHER\": \"Darling Point\"}, {\"HOSPITAL\": \"Gippsland Southern Health Service Lingaza campus\"}, {\"DOCTOR\": \"Sander\"}]"
+  },
+  {
+    "id": "50027",
+    "outputs": "[{\"PATIENT\": \"Susan Duren\"}, {\"MEDICAL_RECORD_NUMBER\": \"7301067.DAE\"}, {\"ID_NUMBER\": \"73C10671\"}]"
+  },
+  {
+    "id": "50030",
+    "outputs": "[{\"DOCTOR\": \"W. Obstow\"}, {\"DATE\": \"October 19, 2062\"}]"
+  },
+  {
+    "id": "50035",
+    "outputs": "[{\"PATIENT\": \"Connie resides\"}, {\"STREET\": \"Blue Cow Street\"}, {\"CITY\": \"Camden Haven\"}, {\"STATE\": \"Northern Territory\"}, {\"ZIP\": \"5067\"}, {\"MEDICAL_RECORD_NUMBER\": \"4402074.wne\"}, {\"ID_NUMBER\": \"44B20748\"}]"
+  },
+  {
+    "id": "50040",
+    "outputs": "[{\"STREET\": \"Moneter Street\"}, {\"CITY\": \"Kyabram\"}, {\"STATE\": \"Victoria\"}, {\"ZIP\": \"7000\"}, {\"DATE\": \"November 1, 2012\"}, {\"TIME\": \"9.11 a.m.\"}, {\"DEPARTMENT\": \"West Department\"}, {\"HOSPITAL\": \"Nambo General Hospital\"}, {\"DOCTOR\": \"Donald Jeremiah Berg\"}, {\"DOCTOR\": \"Harvey\"}]"
+  },
+  {
+    "id": "50048",
+    "outputs": "[{\"DOCTOR\": \"K. Grasso\"}, {\"ID_NUMBER\": \"42Z36336\"}]"
+  },
+  {
+    "id": "50049",
+    "outputs": "[{\"PATIENT\": \"Steve Malek\"}, {\"MEDICAL_RECORD_NUMBER\": \"0554355.jch\"}, {\"ID_NUMBER\": \"05043553\"}, {\"DATE\": \"September 27, 2062\"}]"
+  },
+  {
+    "id": "50060",
+    "outputs": "[]"
+  },
+  {
+    "id": "50063",
+    "outputs": "[{\"STATE\": \"Northern Territory\"}, {\"ZIP\": \"3137\"}, {\"DATE\": \"August 30, 2012\"}, {\"TIME\": \"nine nineteen\"}, {\"STREET\": \"Jabiru Place, East\"}, {\"HOSPITAL\": \"Wimera Health Service Wichiproof\"}]"
+  },
+  {
+    "id": "50067",
+    "outputs": "[{\"MEDICAL_RECORD_NUMBER\": \"306911.QFF\"}, {\"PATIENT\": \"toy unicorn hoop\"}, {\"ID_NUMBER\": \"329116121\"}, {\"ID_NUMBER\": \"3291161\"}]"
+  },
+  {
+    "id": "50070",
+    "outputs": "[{\"FAMILYNAME\": \"Mike\"}]"
+  },
+  {
+    "id": "50072",
+    "outputs": "[{\"PATIENT\": \"Mason resides\"}, {\"STREET\": \"Willowbrook Street\"}, {\"CITY\": \"Devampore\"}, {\"STATE\": \"Victoria\"}, {\"ZIP\": \"8003\"}, {\"DATE\": \"July 22, 1980\"}]"
+  },
+  {
+    "id": "50084",
+    "outputs": "[{\"DOCTOR\": \"Yale\"}, {\"DATE\": \"September 13, 2062\"}, {\"DOCTOR\": \"Hauser\"}, {\"DATE\": \"September 12, 2062\"}, {\"DOCTOR\": \"Mannion\"}, {\"DOCTOR\": \"Nance\"}, {\"PATIENT\": \"Jeremy\"}]"
+  },
+  {
+    "id": "50117",
+    "outputs": "[{\"DOCTOR\": \"A. Duncantail\"}, {\"DOCTOR\": \"A. Royce Coey\"}, {\"DATE\": \"September 3, 2062\"}, {\"DOCTOR\": \"Jamie\"}, {\"DOCTOR\": \"Ken Turian\"}]"
+  },
+  {
+    "id": "50119",
+    "outputs": "[{\"DATE\": \" 2020\"}, {\"DOCTOR\": \"Goldstein\"}, {\"PATIENT\": \"Jalene\"}, {\"PATIENT\": \"Jalene\"}]"
+  },
+  {
+    "id": "50122",
+    "outputs": "[{\"STATE\": \"Virginia\"}, {\"DATE\": \"July 1st, 2062\"}, {\"DOCTOR\": \"Vassel\"}, {\"DOCTOR\": \"Whiteside\"}]"
+  },
+  {
+    "id": "50123",
+    "outputs": "[{\"DEPARTMENT\": \"tissue pathology and diagnostic oncology department\"}, {\"HOSPITAL\": \"West Coast District Hospital\"}, {\"DATE\": \"July 25, 2012\"}, {\"TIME\": \"1.05 p.m.\"}, {\"DOCTOR\": \"Deary Harris-Burks\"}, {\"DOCTOR\": \"NJ\"}, {\"DATE\": \"September 28, 2062\"}, {\"DOCTOR\": \"V. Dotterey\"}]"
+  },
+  {
+    "id": "50132",
+    "outputs": "[{\"PATIENT\": \"Elvarez-Divi\"}, {\"ID_NUMBER\": \"92Q668799U\"}, {\"MEDICAL_RECORD_NUMBER\": \"926687.YXU\"}, {\"DEPARTMENT\": \"Waste Department\"}, {\"HOSPITAL\": \"Morawa Hospital\"}, {\"DATE\": \"April 10, 2014\"}, {\"TIME\": \"12.30pm\"}]"
+  },
+  {
+    "id": "50137",
+    "outputs": "[{\"PATIENT\": \"Dora\"}]"
+  },
+  {
+    "id": "50144",
+    "outputs": "[{\"PATIENT\": \"Zahara Hamburger\"}, {\"DATE\": \"October 15, 1996\"}, {\"ADDRESS\": \"Stratford House, Nambuka Heads\"}, {\"CITY\": \"Nambuka Heads\"}, {\"STATE\": \"Western Australia\"}]"
+  },
+  {
+    "id": "50149",
+    "outputs": "[{\"PHONE\": \"440-59224\"}, {\"HOSPITAL\": \"Injun Hospital\"}, {\"STREET\": \"Cabin Street\"}, {\"CITY\": \"Kiyama\"}, {\"STATE\": \"South Australia\"}, {\"ZIP\": \"5134\"}, {\"DEPARTMENT\": \"Dickinson III South Department\"}]"
+  },
+  {
+    "id": "50153",
+    "outputs": "[{\"ID_NUMBER\": \"502570T\"}, {\"DATE\": \"June 18, 2064\"}, {\"DEPARTMENT\": \"Anatomical Department\"}, {\"HOSPITAL\": \"Fitzroy Crossing Hospital\"}, {\"DOCTOR\": \"Bernardo Reggio-Vanish\"}, {\"DOCTOR\": \"Waikou\"}, {\"DATE\": \"June 19\"}]"
+  },
+  {
+    "id": "50171",
+    "outputs": "[{\"MEDICAL_RECORD_NUMBER\": \"1778502.STZ\"}, {\"ID_NUMBER\": \"17T850261Z\"}, {\"DATE\": \"September 17th, 2063\"}, {\"PATIENT\": \"Oliva\"}, {\"ID_NUMBER\": \"17T85026\"}, {\"ID_NUMBER\": \"17T85026\"}]"
+  },
+  {
+    "id": "50201",
+    "outputs": "[{\"DATE\": \"September 11, 2063\"}, {\"PATIENT\": \"George\"}]"
+  },
+  {
+    "id": "50207",
+    "outputs": "[{\"PATIENT\": \"Thomas\"}, {\"ID_NUMBER\": \"06X93654\"}, {\"DATE\": \"August 21, 2063\"}, {\"DATE\": \"September 6, 2063\"}]"
+  },
+  {
+    "id": "50211",
+    "outputs": "[]"
+  },
+  {
+    "id": "50216",
+    "outputs": "[{\"MEDICAL_RECORD_NUMBER\": \"1706458.VTX\"}, {\"EPSO_NOTE\": \"17C645887X\"}, {\"PATIENT\": \"Rudolf Ruhmann\"}, {\"LAB_NOTE\": \"17C64588\"}, {\"STREET\": \"Human Street\"}, {\"LOCATION-OTHER\": \"Mount Elisa\"}]"
+  },
+  {
+    "id": "50257",
+    "outputs": "[{\"DOCTOR\": \"Curry\"}, {\"DOCTOR\": \"Arthur\"}, {\"DOCTOR\": \"Richardson\"}, {\"DATE\": \"September 11, 2062\"}]"
+  },
+  {
+    "id": "50261",
+    "outputs": "[{\"AGE\": \"69\"}, {\"DOCTOR\": \"Davidson\"}, {\"DATE\": \"September 12, 2063\"}, {\"DOCTOR\": \"Tatum\"}, {\"DOCTOR\": \"Hayward\"}, {\"DOCTOR\": \"Loughton\"}, {\"DOCTOR\": \"Brooks\"}]"
+  },
+  {
+    "id": "50265",
+    "outputs": "[{\"DATE\": \"September 26, 2062\"}, {\"DOCTOR\": \"Q. Furtis\"}, {\"DOCTOR\": \"I.P.\"}]"
+  },
+  {
+    "id": "50280",
+    "outputs": "[{\"PATIENT\": \"Taylor\"}, {\"DOCTOR\": \"Leonard\"}, {\"DATE\": \"March 17th, 2063\"}, {\"DOCTOR\": \"Austin\"}, {\"DOCTOR\": \"River\"}]"
+  },
+  {
+    "id": "50284",
+    "outputs": "[{\"ZIP\": \"2388\"}, {\"MEDICAL_RECORD_NUMBER\": \"7533626.bkf\"}, {\"ID_NUMBER\": \"75J36260\"}, {\"ID_NUMBER\": \"75J36260\"}, {\"DATE\": \"February 26, 2063\"}]"
+  },
+  {
+    "id": "50303",
+    "outputs": "[{\"DATE\": \"Today\"}, {\"PATIENT\": \"Gary Wagner\"}, {\"ID_NUMBER\": \"55W935357X\"}, {\"MEDICAL_RECORD_NUMBER\": \"558935KOT\"}, {\"ID_NUMBER\": \"55W93535\"}]"
+  },
+  {
+    "id": "50311",
+    "outputs": "[{\"PATIENT\": \"Carter-Leboeuf\"}, {\"ID_NUMBER\": \"81S903812V\"}, {\"MEDICAL_RECORD_NUMBER\": \"817903VDH\"}, {\"DATE\": \"October 10, 2062\"}, {\"DURATION\": \"2.23 hour\"}, {\"HOSPITAL\": \"Corrigent Hospital\"}]"
+  },
+  {
+    "id": "50315",
+    "outputs": "[{\"PATIENT\": \"Gordon\"}, {\"DOCTOR\": \"Charles\"}, {\"DOCTOR\": \"Kuzma\"}, {\"DOCTOR\": \"Terry\"}, {\"DOCTOR\": \"Aries\"}, {\"DATE\": \"June 9, 2064\"}]"
+  },
+  {
+    "id": "50316",
+    "outputs": "[{\"DOCTOR\": \"Oliva\"}, {\"TIME\": \"330am\"}, {\"DATE\": \"July 15, 2013\"}, {\"DOCTOR\": \"Oliva\"}]"
+  },
+  {
+    "id": "50318",
+    "outputs": "[{\"DOCTOR\": \"P. Westendorf\"}]"
+  },
+  {
+    "id": "50349",
+    "outputs": "[{\"DOCTOR\": \"Shoder\"}, {\"DOCTOR\": \"Moody\"}, {\"PATIENT\": \"Kathy\"}]"
+  },
+  {
+    "id": "50361",
+    "outputs": "[{\"PATIENT\": \"Annie\"}, {\"DATE\": \"January 15, 2063\"}]"
+  },
+  {
+    "id": "50369",
+    "outputs": "[{\"ID_NUMBER\": \"50J65173\"}, {\"ID_NUMBER\": \"50J65173\"}]"
+  },
+  {
+    "id": "50381",
+    "outputs": "[{\"PATIENT\": \"Mark resides\"}, {\"STREET\": \"Rocky Springs Bowen\"}, {\"CITY\": \"Bowen\"}, {\"STATE\": \"Western Australia\"}, {\"ZIP\": \"7022\"}, {\"DATE\": \"January 16, 1991\"}, {\"DATE\": \"June 28\"}]"
+  },
+  {
+    "id": "50389",
+    "outputs": "[{\"DOCTOR\": \"D. Schledsch\"}]"
+  },
+  {
+    "id": "50392",
+    "outputs": "[{\"DATE\": \"2063\"}, {\"DATE\": \" November 8, 2062\"}, {\"AGE\": \"78\"}, {\"PATIENT\": \"Teresa\"}, {\"DATE\": \"July 30, 2065\"}]"
+  },
+  {
+    "id": "50395",
+    "outputs": "[{\"TIME\": \"8.19 am\"}, {\"ID_NUMBER\": \"19.503.4545\"}]"
+  },
+  {
+    "id": "50404",
+    "outputs": "[{\"STREET\": \"Tandora Street\"}, {\"CITY\": \"Bonny Hills\"}, {\"STATE\": \"ACT\"}, {\"ZIP\": \"1169\"}, {\"PATIENT\": \"Thomas\"}, {\"DEPARTMENT\": \"3HR State Surgical Unit\"}, {\"DOCTOR\": \"Dirk\"}]"
+  },
+  {
+    "id": "50412",
+    "outputs": "[{\"DATE\": \"Today\"}, {\"PATIENT\": \"Stacey House\"}, {\"ID_NUMBER\": \"888D941303B\"}, {\"MEDICAL_RECORD_NUMBER\": \"88819413.civ\"}, {\"PATIENT\": \"Stacey\"}, {\"ID_NUMBER\": \"888D94130\"}]"
+  },
+  {
+    "id": "50423",
+    "outputs": "[{\"ID_NUMBER\": \"61B09485\"}]"
+  },
+  {
+    "id": "50427",
+    "outputs": "[{\"PATIENT\": \"Thomas Booker\"}, {\"MEDICAL_RECORD_NUMBER\": \"069-9365.lvj\"}, {\"ID_NUMBER\": \"06x936-548j\"}]"
+  },
+  {
+    "id": "50435",
+    "outputs": "[{\"DOCTOR\": \"Stevenson\"}, {\"DATE\": \"August 20, 2062\"}, {\"DOCTOR\": \"Washington\"}, {\"DOCTOR\": \"Clinton\"}]"
+  },
+  {
+    "id": "50453",
+    "outputs": "[{\"PATIENT\": \"Sarah\"}, {\"HOSPITAL\": \"East Bowl Multipurpose Health Service\"}, {\"DEPARTMENT\": \"Pocket 9 East Department\"}, {\"DATE\": \"April 7, 2014\"}, {\"TIME\": \"5.40 p.m.\"}, {\"PATIENT\": \"Sarah\"}, {\"DOCTOR\": \"Rayleigh\"}, {\"DOCTOR\": \"Fisk\"}, {\"DOCTOR\": \"Stockton\"}, {\"DOCTOR\": \"Barrio\"}]"
+  },
+  {
+    "id": "50454",
+    "outputs": "[{\"ID_NUMBER\": \"17H87865\"}, {\"ID_NUMBER\": \"17H87865\"}, {\"STREET\": \"Rossi Street\"}, {\"CITY\": \"Port Adelaide\"}, {\"DISTRICT\": \"Enfield\"}, {\"STATE\": \"Tasmania\"}, {\"ZIP\": \"4486\"}]"
+  },
+  {
+    "id": "50455",
+    "outputs": "[{\"DATE\": \"August 22, 2062\"}, {\"PATIENT\": \"Jeline\"}, {\"DEPARTMENT\": \" Anatomical Pathology Department\"}, {\"HOSPITAL\": \"All-Mail Dhistory Health\"}, {\"DOCTOR\": \"Thompson\"}, {\"DOCTOR\": \"Stemmler\"}, {\"DOCTOR\": \"Weissman\"}]"
+  },
+  {
+    "id": "50470",
+    "outputs": "[{\"DOCTOR\": \"Morris\"}, {\"DOCTOR\": \"Thornburg\"}, {\"DOCTOR\": \"Edwards\"}, {\"DOCTOR\": \"Bowen\"}, {\"DOCTOR\": \"Howard\"}, {\"DATE\": \"September 19, 2063\"}, {\"DATE\": \"March 11, 2064\"}]"
+  },
+  {
+    "id": "50503",
+    "outputs": "[{\"ORGANIZATION\": \"NOSA mental\"}, {\"ID_NUMBER\": \"4800\"}, {\"ID_NUMBER\": \"ARTG ID.535778\"}]"
+  },
+  {
+    "id": "50517",
+    "outputs": "[{\"PATIENT\": \"Gail Jamie Dickel\"}, {\"MEDICAL_RECORD_NUMBER\": \"2795187.SJQ\"}, {\"ID_NUMBER\": \"27Y5187.SJQ\"}]"
+  },
+  {
+    "id": "50524",
+    "outputs": "[{\"DATE\": \"May 24th, 2012\"}, {\"TIME\": \"2.58pm\"}]"
+  },
+  {
+    "id": "50543",
+    "outputs": "[{\"EPSO_NUMBER\": \"75J362603F\"}, {\"PATIENT\": \"Fleury Menion\"}, {\"HOSPITAL\": \"Kangaroo Island Health Service\"}, {\"DEPARTMENT\": \"Peter Mack\"}, {\"PATIENT\": \"Fleury\"}, {\"DATE\": \"June 24, 2015\"}, {\"STREET\": \"Obost\"}, {\"STATE\": \"Victoria\"}, {\"PO_BOX\": \"15\"}]"
+  },
+  {
+    "id": "50559",
+    "outputs": "[{\"ORGANIZATION\": \"Sealed Air Corporation\"}]"
+  },
+  {
+    "id": "50570",
+    "outputs": "[{\"TIME\": \"nine o'clock\"}, {\"DATE\": \"August 9, 2012\"}, {\"DATE\": \"October 11, 2062\"}]"
+  },
+  {
+    "id": "50576",
+    "outputs": "[{\"DATE\": \"2012\"}, {\"TIME\": \"night\"}, {\"DEPARTMENT\": \"Radiation Oncology Department\"}, {\"HOSPITAL\": \"Royal Darwin Hospital\"}, {\"DOCTOR\": \"Margaret A. Z. Wendross\"}, {\"DOCTOR\": \"R. Petolsky\"}, {\"DOCTOR\": \"R. Mellers\"}, {\"DOCTOR\": \"R. Schiebel\"}]"
+  },
+  {
+    "id": "50578",
+    "outputs": "[{\"PATIENT\": \"Leon Porter\"}, {\"MEDICAL_RECORD_NUMBER\": \"48091-54.WAA\"}, {\"ID_NUMBER\": \"48B91-5480A\"}, {\"DATE\": \"June 20, 1989\"}, {\"AGE\": \"65\"}]"
+  },
+  {
+    "id": "50584",
+    "outputs": "[{\"DOCTOR\": \"Surek\"}, {\"DOCTOR\": \"Ai-Hugim\"}, {\"TIME\": \"3.50 p.m.\"}, {\"DATE\": \"April 10, 2014\"}]"
+  },
+  {
+    "id": "50592",
+    "outputs": "[{\"HOSPITAL\": \"St. George Private\"}, {\"DEPARTMENT\": \"Hunter New England Mental Health Service\"}, {\"STREET\": \"Prairie Hill, Davenport\"}, {\"CITY\": \"Davenport\"}, {\"STATE\": \"Northern Territory\"}, {\"ZIP\": \"2879\"}]"
+  },
+  {
+    "id": "50610",
+    "outputs": "[{\"PERSONALNAME\": \"Ashley\"}, {\"DATE\": \"December 23, 2062\"}, {\"HOSPITAL\": \"Pedology West\"}]"
+  },
+  {
+    "id": "50618",
+    "outputs": "[{\"ID_NUMBER\": \"92Q66879\"}, {\"STREET\": \"Cantelo Nambaka Head\"}, {\"CITY\": \"Head\"}, {\"STATE\": \"NT\"}, {\"ZIP\": \"5222\"}, {\"DATE\": \"November 22, 2002\"}, {\"DOCTOR\": \"Grover Forrest-France\"}, {\"DOCTOR\": \"Marlon\"}, {\"DOCTOR\": \"FC\"}, {\"DOCTOR\": \"X. Horry\"}, {\"DATE\": \"June 18, 2064\"}]"
+  },
+  {
+    "id": "50624",
+    "outputs": "[]"
+  },
+  {
+    "id": "50628",
+    "outputs": "[{\"PATIENT\": \"Carol\"}, {\"DEPARTMENT\": \"St. George's Private Department\"}, {\"HOSPITAL\": \"Beringham River District Hospital\"}, {\"DOCTOR\": \"Brooker\"}, {\"DOCTOR\": \"Holston\"}, {\"DATE\": \"September 14, 2062\"}, {\"DOCTOR\": \"White\"}]"
+  },
+  {
+    "id": "50631",
+    "outputs": "[{\"DATE\": \"August 28, 2063\"}, {\"PATIENT\": \"Leon\"}, {\"HOSPITAL\": \"Roma Hospital\"}, {\"ID_NUMBER\": \"48B91-548\"}, {\"ID_NUMBER\": \"48B91-548\"}, {\"STREET\": \"Legend Manor Street\"}, {\"CITY\": \"Tasmania\"}, {\"ZIP\": \"2207\"}]"
+  },
+  {
+    "id": "50632",
+    "outputs": "[{\"HOSPITAL\": \"Moulton-Orlanda Hospital\"}, {\"PATIENT\": \"Allen\"}, {\"DEPARTMENT\": \"Guler-Gombone Multi-Purpose Service\"}, {\"DOCTOR\": \"Collins\"}, {\"DATE\": \"July 25, 2062\"}, {\"DOCTOR\": \"Sarek\"}, {\"DATE\": \"July 23\"}]"
+  },
+  {
+    "id": "50639",
+    "outputs": "[{\"MEDICAL_RECORD_NUMBER\": \"176664-MDB\"}, {\"ID_NUMBER\": \"17S66441\"}, {\"PATIENT\": \"Allen\"}, {\"DATE\": \"May 21, 2012\"}, {\"TIME\": \"9.21 a.m.\"}]"
+  },
+  {
+    "id": "50658",
+    "outputs": "[{\"DATE\": \"August 29, 2062\"}, {\"PATIENT\": \"Eric\"}, {\"DOCTOR\": \"Milton\"}, {\"DATE\": \"August 13, 2062\"}, {\"DOCTOR\": \"Irving\"}]"
+  },
+  {
+    "id": "50662",
+    "outputs": "[{\"DATE\": \"October 5, 2062\"}, {\"DOCTOR\": \"A. Saylor\"}, {\"DOCTOR\": \"IJ\"}]"
+  },
+  {
+    "id": "50665",
+    "outputs": "[{\"DOCTOR\": \"Ira Irwin-Piggy\"}, {\"DOCTOR\": \"Z. Sterkenberg\"}, {\"DOCTOR\": \"Z. Gugliotti\"}, {\"DOCTOR\": \"UH\"}, {\"DATE\": \"October 2, 2062\"}]"
+  },
+  {
+    "id": "50673",
+    "outputs": "[{\"PATIENT\": \"Jeremy resides\"}, {\"STREET\": \"Boat Street\"}, {\"CITY\": \"Tenterfield\"}, {\"STATE\": \"S.A\"}, {\"ZIP\": \"4493\"}, {\"DATE\": \"February 11, 1988\"}, {\"DATE\": \"July 9, 2012\"}, {\"TIME\": \"3.42 p.m.\"}, {\"HOSPITAL\": \"Paul Peary Hospital\"}, {\"DOCTOR\": \"Bryant\"}]"
+  },
+  {
+    "id": "50676",
+    "outputs": "[{\"DOCTOR\": \"K. Yu\"}, {\"DOCTOR\": \"L. H\"}, {\"DATE\": \"May 21, 2064\"}, {\"DOCTOR\": \"P. Chandelier\"}]"
+  },
+  {
+    "id": "50680",
+    "outputs": "[{\"TIME\": \"3.50 p.m.\"}, {\"DATE\": \"April 10, 2014\"}, {\"DATE\": \"June 13, 2064\"}, {\"DOCTOR\": \"D. Bocchi\"}, {\"DOCTOR\": \"Castiglione\"}, {\"HOSPITAL\": \" Maryborough District Health Service, Denali\"}, {\"DOCTOR\": \"O.D\"}, {\"DOCTOR\": \"XL\"}]"
+  },
+  {
+    "id": "50686",
+    "outputs": "[{\"DATE\": \"January 15, 2063\"}, {\"DOCTOR\": \"Menace\"}, {\"DATE\": \"April 8, 2013\"}, {\"TIME\": \"3.36 p.m.\"}, {\"DOCTOR\": \"Iverson\"}, {\"DOCTOR\": \"Cook\"}]"
+  },
+  {
+    "id": "50706",
+    "outputs": "[{\"PATIENT\": \"Claire Vanessa Crittnan\"}, {\"MEDICAL_RECORD_NUMBER\": \"6112896.BOO\"}, {\"ID_NUMBER\": \"61D2896050\"}, {\"STREET\": \"Hamstrom\"}, {\"CITY\": \"Sterling\"}, {\"STATE\": \"New South Wales\"}, {\"ZIP\": \"2500\"}, {\"DATE\": \"February 8, 2003\"}, {\"ID_NUMBER\": \"61D28960\"}]"
+  },
+  {
+    "id": "50707",
+    "outputs": "[{\"DOCTOR\": \"QA\"}, {\"DATE\": \"September 25, 2062\"}, {\"DOCTOR\": \"Montaigne\"}]"
+  },
+  {
+    "id": "50718",
+    "outputs": "[{\"DATE\": \"September 21st, 2062\"}, {\"DOCTOR\": \"Ceci\"}, {\"DOCTOR\": \"E\"}, {\"DOCTOR\": \"Microscopic\"}, {\"DOCTOR\": \"W. Wagner\"}]"
+  },
+  {
+    "id": "50728",
+    "outputs": "[{\"CIP_CODE\": \"1138\"}, {\"DATE\": \"April 26, 1984\"}, {\"DATE\": \"June 25, 2012\"}, {\"TIME\": \"9.48 a.m.\"}, {\"PATIENT\": \"Betty\"}, {\"HOSPITAL\": \"Seal Central\"}, {\"HOSPITAL\": \"St. Helens District Hospital\"}]"
+  },
+  {
+    "id": "50736",
+    "outputs": "[{\"PATIENT\": \"Flory\"}, {\"DATE\": \"April 20, 2064\"}, {\"DATE\": \" March 4, 2064\"}]"
+  },
+  {
+    "id": "50759",
+    "outputs": "[]"
+  },
+  {
+    "id": "50789",
+    "outputs": "[{\"EPISODE_ID\": \"73H429585J\"}, {\"PATIENT\": \"Gordon Hayward\"}, {\"DATE\": \"January 21st, 1987\"}, {\"HOSPITAL\": \"St. Vincent's\"}, {\"STREET\": \"Armadale\"}, {\"CITY\": \"Victoria\"}, {\"ZIP\": \"3797\"}, {\"MEDICAL_RECORD_NUMBER\": \"7324295.vnj\"}]"
+  },
+  {
+    "id": "50797",
+    "outputs": "[{\"ID_NUMBER\": \"81S90381\"}]"
+  },
+  {
+    "id": "50816",
+    "outputs": "[]"
+  },
+  {
+    "id": "50820",
+    "outputs": "[]"
+  },
+  {
+    "id": "50836",
+    "outputs": "[{\"DATE\": \"October 8, 2062\"}, {\"DOCTOR\": \"Xp\"}, {\"DATE\": \"October 4, 2062\"}, {\"DOCTOR\": \"F. Dennard\"}, {\"DOCTOR\": \"F. Chasity\"}]"
+  },
+  {
+    "id": "50837",
+    "outputs": "[{\"ID_NUMBER\": \"92RA5354\"}, {\"STREET\": \"Pew Street\"}, {\"CITY\": \"Cabocha\"}, {\"STATE\": \"VIC\"}, {\"ZIP\": \"4821\"}, {\"DATE\": \"October 2, 2062\"}, {\"DEPARTMENT\": \"Medic/Surgery Ward\"}, {\"HOSPITAL\": \"Trisillian Family Care Center, Belmore\"}]"
+  },
+  {
+    "id": "50838",
+    "outputs": "[{\"STREET\": \"Old Street\"}, {\"CITY\": \"Cobar\"}, {\"STATE\": \"South Australia\"}, {\"ZIP\": \"2070\"}, {\"DATE\": \"September 20th, 2062\"}, {\"LOCATION-OTHER\": \"39 Janikos Close\"}, {\"DOCTOR\": \"Woodrow Sidney DeRoyne\"}]"
+  },
+  {
+    "id": "50841",
+    "outputs": "[{\"PATIENT\": \"Isa\"}, {\"DATE\": \"June 13, 2064\"}, {\"DOCTOR\": \"Swift\"}, {\"DATE\": \"June 12, 2064\"}]"
+  },
+  {
+    "id": "50844",
+    "outputs": "[{\"DOCTOR\": \"Thies\"}, {\"DOCTOR\": \"Radish\"}]"
+  },
+  {
+    "id": "50849",
+    "outputs": "[{\"DOCTOR\": \"F. Phillips\"}]"
+  },
+  {
+    "id": "50875",
+    "outputs": "[{\"PATIENT\": \"Euphemia Chaktenberg\"}, {\"MEDICAL_RECORD_NUMBER\": \"404689.uns\"}, {\"ID_NUMBER\": \"40M68985\"}, {\"AGE\": \"62\"}]"
+  },
+  {
+    "id": "50887",
+    "outputs": "[{\"DOCTOR\": \"Delta Airlines\"}, {\"HOSPITAL\": \"Bootsalander Community Hospital\"}]"
+  },
+  {
+    "id": "50915",
+    "outputs": "[{\"MEDICAL_RECORD_NUMBER\": \"9246317.UNN\"}, {\"PATIENT\": \"Sean\"}, {\"DATE\": \"November 26, 1997\"}, {\"ID_NUMBER\": \"92M631785N\"}, {\"ID_NUMBER\": \"92M63178\"}]"
+  },
+  {
+    "id": "50916",
+    "outputs": "[{\"PATIENT\": \"Billy Fleshead\"}, {\"DATE\": \"March 25, 2001\"}, {\"STREET\": \"Upper Mount Glen Lake\"}, {\"CITY\": \"Penguin\"}, {\"STATE\": \"QLD\"}, {\"ZIP\": \"4155\"}, {\"MEDICAL_RECORD_NUMBER\": \"3082344.wrm\"}]"
+  },
+  {
+    "id": "50918",
+    "outputs": "[{\"PATIENT\": \"Mason Heald\"}, {\"ID_NUMBER\": \"76I313441D\"}]"
+  },
+  {
+    "id": "50920",
+    "outputs": "[{\"DOCTOR\": \"Candid\"}]"
+  },
+  {
+    "id": "50935",
+    "outputs": "[{\"DATE\": \"August 14, 2062\"}, {\"DOCTOR\": \"Iverson\"}, {\"DOCTOR\": \"Butler\"}]"
+  },
+  {
+    "id": "50953",
+    "outputs": "[]"
+  },
+  {
+    "id": "50955",
+    "outputs": "[{\"DOCTOR\": \"M.Y.\"}, {\"DOCTOR\": \"E. Fenadurin\"}, {\"DATE\": \"November 6, 2062\"}, {\"DOCTOR\": \"E. Penzis\"}, {\"HOSPITAL\": \"Medrota Hospital\"}, {\"DATE\": \"November 6, 2062\"}]"
+  },
+  {
+    "id": "50972",
+    "outputs": "[]"
+  },
+  {
+    "id": "50973",
+    "outputs": "[{\"DEPARTMENT\": \"Parkes 8\"}, {\"DOCTOR\": \"Wallace\"}, {\"DATE\": \"August 29, 2063\"}, {\"DATE\": \"September 3, 2063\"}]"
+  },
+  {
+    "id": "50983",
+    "outputs": "[]"
+  },
+  {
+    "id": "50992",
+    "outputs": "[{\"DOCTOR\": \"Zara Persha\"}, {\"DOCTOR\": \"P. Zamatis\"}, {\"TIME\": \"4.26 p.m.\"}, {\"DATE\": \"April 16, 2014\"}]"
+  },
+  {
+    "id": "51017",
+    "outputs": "[{\"TIME\": \"two three p.m.\"}, {\"DOCTOR\": \"Mark\"}, {\"HOSPITAL\": \"St. Vincent Department of Karen District Health\"}, {\"DOCTOR\": \"Pierce\"}, {\"DATE\": \"August 1, 2062\"}, {\"DOCTOR\": \"Mark\"}]"
+  },
+  {
+    "id": "51019",
+    "outputs": "[{\"MEDICAL_RECORD_NUMBER\": \"867599.pqw\"}, {\"PATIENT\": \"Ovidia Dishon\"}, {\"ID_NUMBER\": \"86U59966\"}, {\"DATE\": \"October 23, 2062\"}]"
+  },
+  {
+    "id": "51023",
+    "outputs": "[{\"PATIENT\": \"Ella\"}, {\"HOSPITAL\": \"Vigenton Multipurpose Health Service\"}, {\"HOSPITAL\": \"Northwest Regional Hospital\"}, {\"DATE\": \"August 22, 2062\"}, {\"DATE\": \"August 27, 2062\"}]"
+  },
+  {
+    "id": "51039",
+    "outputs": "[]"
+  },
+  {
+    "id": "51041",
+    "outputs": "[{\"PATIENT\": \"Nora Malvin-Mauriel\"}, {\"ID_NUMBER\": \"48Q219621B\"}, {\"ID_NUMBER\": \"48Q21962\"}, {\"MEDICAL_RECORD_NUMBER\": \"486196.GEB\"}, {\"STREET\": \"N. Kumnar\"}, {\"CITY\": \"Kunabarbran\"}, {\"STATE\": \"Northern Territory\"}, {\"ZIP\": \"4505\"}, {\"DATE\": \"September 21, 2002\"}]"
+  },
+  {
+    "id": "51043",
+    "outputs": "[{\"ID_NUMBER\": \"98Y62854\"}, {\"PATIENT\": \"Eric\"}, {\"STREET\": \"Shiping Street\"}, {\"CITY\": \"Arrawin\"}, {\"STATE\": \"New South Wales\"}, {\"ZIP\": \"2559\"}, {\"DATE\": \"September 23, 1974\"}, {\"DATE\": \"June 26, 2012\"}]"
+  },
+  {
+    "id": "51051",
+    "outputs": "[{\"PATIENT\": \"Josue Danilo Nascimento\"}, {\"ID_NUMBER\": \"53P778463B\"}, {\"MEDICAL_RECORD_NUMBER\": \"535778.LQK\"}, {\"ID_NUMBER\": \"53P77846\"}, {\"DATE\": \"January 18, 1987\"}, {\"STREET\": \"Mainline Mora\"}, {\"CITY\": \"Australian Capital\"}, {\"ZIP\": \"6910\"}]"
+  },
+  {
+    "id": "51057",
+    "outputs": "[{\"PATIENT\": \"Kathy lives\"}, {\"STREET\": \"Sirickley Street\"}, {\"CITY\": \"Key Abram\"}, {\"STATE\": \"WA\"}, {\"ZIP\": \"6970\"}, {\"DATE\": \"January 26, 2004\"}]"
+  },
+  {
+    "id": "51062",
+    "outputs": "[{\"ID_NUMBER\": \"78G07A32\"}, {\"PATIENT\": \"Hunter\"}]"
+  },
+  {
+    "id": "51067",
+    "outputs": "[{\"DOCTOR\": \"Robinson\"}, {\"DOCTOR\": \"Mann\"}, {\"HOSPITAL\": \"Hess Rural Health Service\"}, {\"PATIENT\": \"Ariel\"}, {\"HOSPITAL\": \"Serena Hospital\"}]"
+  },
+  {
+    "id": "51081",
+    "outputs": "[{\"DOCTOR\": \"Jerome Andres Yeren-Sanyorio\"}, {\"DOCTOR\": \"Xe\"}, {\"DOCTOR\": \"A. Amphi\"}, {\"HOSPITAL\": \"Calia Hospital\"}, {\"DOCTOR\": \"A. Grismore\"}, {\"HOSPITAL\": \"Quingbean District Hospital\"}, {\"DATE\": \"September 27, 2062\"}]"
+  },
+  {
+    "id": "51094",
+    "outputs": "[{\"STREET\": \"Sandorin Street\"}, {\"CITY\": \"Bowenhead\"}, {\"STATE\": \"Western Australia\"}, {\"ZIP\": \"6906\"}, {\"ID_NUMBER\": \"270-53740\"}, {\"ID_NUMBER\": \"270-53740\"}]"
+  },
+  {
+    "id": "51131",
+    "outputs": "[{\"EPISODE_NUMBER\": \"94T80766AP\"}, {\"PATIENT\": \"Chris Hunter\"}, {\"STREET\": \"Goosewell Street\"}, {\"CITY\": \"Bonora Point\"}, {\"STATE\": \"South Australia\"}, {\"ZIP\": \"6220\"}]"
+  },
+  {
+    "id": "51154",
+    "outputs": "[{\"DATE\": \"today\"}, {\"PATIENT\": \"Carol Porter\"}, {\"ID_NUMBER\": \"31A412629K\"}, {\"MEDICAL_RECORD_NUMBER\": \"3104126.hyk\"}, {\"ID_NUMBER\": \"31A41262\"}]"
+  },
+  {
+    "id": "51185",
+    "outputs": "[{\"STREET\": \"Kernan Street\"}, {\"CITY\": \"Gundwindi\"}, {\"STATE\": \"Western Australia\"}]"
+  },
+  {
+    "id": "51190",
+    "outputs": "[]"
+  },
+  {
+    "id": "51201",
+    "outputs": "[{\"DOCTOR\": \"S. Emler\"}, {\"HOSPITAL\": \"Gibsland Southern Health Service Angatha campus\"}, {\"DATE\": \"November 10, 2062\"}, {\"DATE\": \"October 30, 2062\"}]"
+  },
+  {
+    "id": "51221",
+    "outputs": "[]"
+  },
+  {
+    "id": "51277",
+    "outputs": "[{\"PATIENT\": \"Jerome Shuba\"}, {\"DATE\": \"June 1st, 1990\"}, {\"ID_NUMBER\": \"848834.RVG\"}, {\"ID_NUMBER\": \"848834.RVG\"}]"
+  },
+  {
+    "id": "51278",
+    "outputs": "[{\"ID_NUMBER\": \"08V69142\"}, {\"DOCTOR\": \"Wesley\"}, {\"DATE\": \"July 3, 2062\"}, {\"DOCTOR\": \"Spade\"}]"
+  },
+  {
+    "id": "51310",
+    "outputs": "[{\"DATE\": \"Today\"}, {\"PATIENT\": \"Betty Cook\"}, {\"ID_NUMBER\": \"77G-028680F\"}, {\"MEDICAL_RECORD_NUMBER\": \"772028.QWA\"}, {\"ID_NUMBER\": \"77G-02868\"}, {\"PATIENT\": \"Betty resides\"}, {\"STREET\": \"Fort Foot\"}, {\"STREET\": \"Guo Wa\"}, {\"STATE\": \"WA\"}]"
+  },
+  {
+    "id": "51316",
+    "outputs": "[{\"DATE\": \"September 28, 2062\"}]"
+  },
+  {
+    "id": "51338",
+    "outputs": "[]"
+  },
+  {
+    "id": "51354",
+    "outputs": "[{\"DATE\": \"Today\"}, {\"PATIENT\": \"Brendan Sarge\"}, {\"ID_NUMBER\": \"34G-529-3503\"}, {\"DATE\": \"March 27, 1998\"}, {\"MEDICAL_RECORD_NUMBER\": \"342-529-3.OAJ\"}]"
+  },
+  {
+    "id": "51358",
+    "outputs": "[{\"DATE\": \"September 6, 2063\"}, {\"DATE\": \"same date\"}, {\"DOCTOR\": \"West\"}, {\"PATIENT\": \"Derek\"}]"
+  },
+  {
+    "id": "51392",
+    "outputs": "[{\"PATIENT\": \"Haywood McCoyle\"}, {\"ID_NUMBER\": \"17I16340\"}, {\"ID_NUMBER\": \"17I163403A\"}, {\"MEDICAL_RECORD_NUMBER\": \"173163MBI\"}, {\"DATE\": \"October 9, 2062\"}]"
+  },
+  {
+    "id": "51406",
+    "outputs": "[{\"PATIENT\": \"Brendan\"}, {\"DOCTOR\": \"Morant\"}, {\"DOCTOR\": \"Cook\"}, {\"DOCTOR\": \"Hauser\"}, {\"PATIENT\": \"Brendan\"}, {\"DATE\": \"July 27, 2062\"}]"
+  },
+  {
+    "id": "51413",
+    "outputs": "[{\"MEDICAL_RECORD_NUMBER\": \"6556855.swk\"}, {\"ID_NUMBER\": \"65068557\"}, {\"PATIENT\": \"Taylor\"}, {\"DATE\": \"January 14th, 2013\"}, {\"TIME\": \"9.03 am\"}]"
+  },
+  {
+    "id": "51415",
+    "outputs": "[{\"PATIENT\": \"Jesus Forfalla\"}, {\"ID_NUMBER\": \"06M240780K\"}, {\"ID_NUMBER\": \"06M24078\"}, {\"MEDICAL_RECORD_NUMBER\": \"064240.TVA\"}]"
+  },
+  {
+    "id": "51447",
+    "outputs": "[{\"PATIENT\": \"Flory\"}, {\"DOCTOR\": \"Stevenson\"}, {\"DATE\": \"February 4, 2063\"}, {\"DATE\": \"February 5, 2063\"}, {\"DOCTOR\": \"Park\"}]"
+  },
+  {
+    "id": "51478",
+    "outputs": "[{\"DATE\": \"June 10, 1987\"}, {\"DATE\": \"April 8, 2014\"}, {\"TIME\": \"3.50 p.m.\"}, {\"DOCTOR\": \"Nguya Adafatrice\"}, {\"DOCTOR\": \"G.F.\"}, {\"DOCTOR\": \"S. Lubel\"}, {\"DATE\": \"June 13, 2064\"}]"
+  },
+  {
+    "id": "51480",
+    "outputs": "[{\"EPISODE_NUMBER\": \"86F2\"}, {\"MEDICAL_RECORD_NUMBER\": \"864278\"}, {\"PATIENT\": \"Dylan Murray\"}, {\"DATE\": \"January 30, 2007\"}, {\"STREET\": \"C. Chase Street\"}, {\"CITY\": \"Smithton\"}, {\"STATE\": \"South Australia\"}, {\"ZIP\": \"7307\"}, {\"MEDICAL_RECORD_NUMBER\": \"8622864.HSV\"}]"
+  },
+  {
+    "id": "51487",
+    "outputs": "[{\"DATE\": \"April 27, 1999\"}, {\"PATIENT\": \"Kathy\"}, {\"DEPARTMENT\": \"Prince of Wales' private department\"}, {\"HOSPITAL\": \"Charleyville Hospital\"}, {\"DOCTOR\": \"Hansen\"}]"
+  },
+  {
+    "id": "51488",
+    "outputs": "[{\"PERSONALNAME\": \" Ashley\"}, {\"DOCTOR\": \"Kud\"}, {\"DOCTOR\": \"Liu A\"}, {\"DOCTOR\": \"Gong\"}, {\"DATE\": \"May 23, 2064\"}, {\"DOCTOR\": \"Kud\"}]"
+  },
+  {
+    "id": "51489",
+    "outputs": "[{\"PATIENT\": \"Jasper\"}]"
+  },
+  {
+    "id": "51496",
+    "outputs": "[{\"PATIENT\": \"George Hill\"}, {\"DATE\": \"January 17, 2003\"}, {\"HOSPITAL\": \"Berlaba Hospital\"}, {\"MEDICAL_RECORD_NUMBER\": \"9602593.dio\"}, {\"ID_NUMBER\": \"96C2593130\"}]"
+  },
+  {
+    "id": "51506",
+    "outputs": "[{\"MEDICAL_RECORD_NUMBER\": \"9600635.pfq\"}, {\"LAB_NUMBER\": \"96A06355\"}, {\"PATIENT\": \"Ariel\"}, {\"DATE\": \"June 14th, 2062\"}]"
+  },
+  {
+    "id": "51511",
+    "outputs": "[]"
+  },
+  {
+    "id": "51514",
+    "outputs": "[{\"DATE\": \"July 8, 2019\"}, {\"PATIENT\": \"Thomas\"}, {\"HOSPITAL\": \"Ipswich Hospital\"}, {\"DATE\": \"August 21, 2063\"}, {\"ID_NUMBER\": \"06X93654\"}, {\"ID_NUMBER\": \"06X93654\"}]"
+  },
+  {
+    "id": "51515",
+    "outputs": "[{\"ZIP\": \"6987\"}, {\"ID_NUMBER\": \"04F073896I\"}, {\"MEDICAL_RECORD_NUMBER\": \"0420738.YQI\"}, {\"ID_NUMBER\": \"04F07389\"}]"
+  },
+  {
+    "id": "51543",
+    "outputs": "[{\"PATIENT\": \"Leon\"}]"
+  },
+  {
+    "id": "51562",
+    "outputs": "[{\"ID_NUMBER\": \"17N342645X\"}, {\"PATIENT\": \"Mindy Nielsen\"}, {\"DATE\": \"February 2, 1972\"}, {\"STREET\": \"Capite Gold Coast\"}, {\"STATE\": \"Western Australia\"}, {\"ZIP\": \"2842\"}, {\"MEDICAL_RECORD_NUMBER\": \"1753426.LOX\"}]"
+  },
+  {
+    "id": "51565",
+    "outputs": "[{\"DATE\": \"October 3, 2062\"}, {\"DOCTOR\": \"Lemuel Ulysses Fanzler\"}, {\"DOCTOR\": \"Yu DiRenzo\"}, {\"DATE\": \"October 5, 2062\"}]"
+  },
+  {
+    "id": "51571",
+    "outputs": "[{\"MEDICAL_RECORD_NUMBER\": \"3895795.BBN\"}, {\"ID_NUMBER\": \"38Y57950\"}]"
+  },
+  {
+    "id": "51604",
+    "outputs": "[{\"DOCTOR\": \"Sharla Carithers\"}, {\"DOCTOR\": \"Jans Mishanko\"}, {\"DATE\": \"October 10, 2062\"}]"
+  },
+  {
+    "id": "51617",
+    "outputs": "[{\"DOCTOR\": \"Piojano\"}, {\"ORGANIZATION\": \"American Corporation\"}, {\"ID_NUMBER\": \"59K847594\"}]"
+  },
+  {
+    "id": "51620",
+    "outputs": "[]"
+  },
+  {
+    "id": "51628",
+    "outputs": "[{\"DATE\": \"May 29, 2064\"}, {\"DATE\": \"May 27, 2064\"}, {\"DOCTOR\": \"L. Carrot\"}, {\"DOCTOR\": \"L. Lumadu\"}]"
+  },
+  {
+    "id": "51636",
+    "outputs": "[{\"DATE\": \"September 6, 2063\"}, {\"DOCTOR\": \"Ben\"}, {\"DOCTOR\": \"Sabonis\"}]"
+  },
+  {
+    "id": "51649",
+    "outputs": "[{\"PATIENT\": \"Katrina\"}, {\"ID_NUMBER\": \"49Z72063\"}, {\"ID_NUMBER\": \"49Z72063\"}, {\"DATE\": \"October 14th, 2063\"}, {\"PATIENT\": \"Katrina\"}]"
+  },
+  {
+    "id": "51690",
+    "outputs": "[{\"DOCTOR\": \"X. Fei\"}, {\"TIME\": \"3.40pm\"}, {\"DATE\": \"August 8, 2012\"}, {\"DOCTOR\": \"X. Chi Lo\"}, {\"DATE\": \"November 10, 2062\"}]"
+  },
+  {
+    "id": "51691",
+    "outputs": "[]"
+  },
+  {
+    "id": "51705",
+    "outputs": "[{\"DOCTOR\": \"Jamie Branton Hilton\"}, {\"DOCTOR\": \"G. Hilton\"}, {\"DOCTOR\": \"D. Goodner\"}, {\"DATE\": \"September 15, 2062\"}]"
+  },
+  {
+    "id": "51706",
+    "outputs": "[{\"DOCTOR\": \"H. Derisu\"}, {\"DOCTOR\": \"H. Woodfolk\"}]"
+  },
+  {
+    "id": "51711",
+    "outputs": "[{\"ID_NUMBER\": \"65T90734\"}, {\"DOCTOR\": \"Irving\"}]"
+  },
+  {
+    "id": "51732",
+    "outputs": "[{\"DATE\": \"Today\"}, {\"PATIENT\": \"Danny Smith\"}, {\"ID_NUMBER\": \"08B691424J\"}, {\"MEDICAL_RECORD_NUMBER\": \"0886914HLJ\"}, {\"ID_NUMBER\": \"08B69142\"}]"
+  },
+  {
+    "id": "51734",
+    "outputs": "[{\"PHONE\": \"1 12\"}, {\"DATE\": \"July 26, 2012\"}]"
+  },
+  {
+    "id": "51739",
+    "outputs": "[{\"DATE\": \"September 30, 2005\"}, {\"STREET\": \"Focum\"}, {\"CITY\": \"Howlong\"}, {\"STATE\": \"Victoria\"}, {\"ZIP\": \"4012\"}, {\"DATE\": \"September 14, 2062\"}, {\"HOSPITAL\": \"Seals Central\"}, {\"DOCTOR\": \"Ted Burney S. Postal\"}, {\"DATE\": \"September 15, 2062\"}, {\"DOCTOR\": \"XW\"}]"
+  },
+  {
+    "id": "51750",
+    "outputs": "[{\"DOCTOR\": \"Lowry\"}, {\"DOCTOR\": \"Doughty\"}, {\"DOCTOR\": \"Lin\"}, {\"DOCTOR\": \"Iverson\"}, {\"DOCTOR\": \"Cook\"}, {\"DOCTOR\": \"Maness\"}, {\"DATE\": \"November 6, 2063\"}, {\"DOCTOR\": \"Lowry\"}, {\"DATE\": \"November 7, 2063\"}, {\"DOCTOR\": \"Iverson\"}, {\"DOCTOR\": \"Cook\"}]"
+  },
+  {
+    "id": "51759",
+    "outputs": "[{\"STREET\": \"Burnside Street\"}, {\"CITY\": \"Beaconfield\"}, {\"STATE\": \"Upper Northern Territory\"}, {\"ZIP\": \"3933\"}, {\"DATE\": \"August 13, 2012\"}, {\"TIME\": \"9.20 a.m.\"}]"
+  },
+  {
+    "id": "51762",
+    "outputs": "[{\"PATIENT\": \"Katrina\"}, {\"DATE\": \"May 28th, 2064\"}, {\"PATIENT\": \"Katrina\"}]"
+  },
+  {
+    "id": "51763",
+    "outputs": "[{\"DATE\": \"April 2064\"}, {\"DATE\": \"April 15, 2064\"}]"
+  },
+  {
+    "id": "51766",
+    "outputs": "[{\"ID_NUMBER\": \"71V93082\"}, {\"STREET\": \" North Columbine Street\"}, {\"STATE\": \"QLD\"}, {\"ZIP\": \"2623\"}, {\"DATE\": \"October 24, 2062\"}]"
+  },
+  {
+    "id": "51767",
+    "outputs": "[{\"PATIENT\": \"Yangba Taubren\"}, {\"ZIP\": \"3158\"}, {\"DATE\": \"October 5, 2029\"}, {\"ID_NUMBER\": \"95w78541\"}]"
+  },
+  {
+    "id": "51771",
+    "outputs": "[{\"PATIENT\": \"Michael Linwood\"}, {\"DATE\": \"October 11, 1991\"}, {\"STREET\": \"Loeffler Street\"}, {\"CITY\": \"Casino\"}, {\"STATE\": \"New South Wales\"}, {\"ZIP\": \"2224\"}, {\"MEDICAL_RECORD_NUMBER\": \"5135025.tbt\"}, {\"ID_NUMBER\": \"51I50257\"}, {\"ID_NUMBER\": \"51I\"}]"
+  },
+  {
+    "id": "51786",
+    "outputs": "[]"
+  },
+  {
+    "id": "51789",
+    "outputs": "[]"
+  },
+  {
+    "id": "51792",
+    "outputs": "[]"
+  },
+  {
+    "id": "51793",
+    "outputs": "[{\"DATE\": \"December 23, 2063\"}, {\"DOCTOR\": \"Lenz\"}, {\"DATE\": \"following day, December 24, 2063\"}, {\"DOCTOR\": \"Delmond\"}, {\"DOCTOR\": \"Ellington\"}]"
+  },
+  {
+    "id": "51794",
+    "outputs": "[{\"HOSPITAL\": \"Mothman Hospital\"}, {\"DOCTOR\": \"Schoen\"}, {\"DEPARTMENT\": \"Hunter Area Department\"}, {\"DEPARTMENT\": \"Intense Care Unit\"}, {\"DOCTOR\": \"Daniels\"}, {\"DATE\": \"March 21, 2014\"}]"
+  },
+  {
+    "id": "51817",
+    "outputs": "[{\"DATE\": \"Today\"}, {\"PATIENT\": \"Jeremy Reeves\"}, {\"ID_NUMBER\": \"29F784757R\"}, {\"MEDICAL_RECORD_NUMBER\": \"292784.SPS\"}, {\"ID_NUMBER\": \"29F78475\"}, {\"ID_NUMBER\": \"29F78475\"}, {\"PATIENT\": \"Jeremy resides\"}, {\"STREET\": \"Richland Valley\"}, {\"CITY\": \"Richmond\"}, {\"STATE\": \"Australian Capital Territory\"}]"
+  },
+  {
+    "id": "51822",
+    "outputs": "[{\"PATIENT\": \"Roy\"}, {\"DATE\": \"June 9, 2064\"}, {\"ID_NUMBER\": \"78207832\"}, {\"PATIENT\": \"Roy\"}]"
+  },
+  {
+    "id": "51826",
+    "outputs": "[{\"PATIENT\": \"Ruben Micky-Puschard\"}, {\"ID_NUMBER\": \"16J102766C\"}, {\"MEDICAL_RECORD_NUMBER\": \"163102.ssp\"}, {\"ID_NUMBER\": \"16J10276\"}]"
+  },
+  {
+    "id": "51832",
+    "outputs": "[{\"DATE\": \"2012\"}, {\"TIME\": \"9.21 am\"}, {\"DEPARTMENT\": \"SIGPAS Department, Tinhua Multi-Purpose Service\"}, {\"DOCTOR\": \"Roe Aero-Pathos\"}, {\"DOCTOR\": \"Ge\"}, {\"DOCTOR\": \"Fr\"}]"
+  },
+  {
+    "id": "51842",
+    "outputs": "[{\"DATE\": \"September 28, 2062\"}, {\"DEPARTMENT\": \"Medic Surgery Ward\"}, {\"HOSPITAL\": \"West Wimera Health Service\"}, {\"CITY\": \"Caniva\"}, {\"DOCTOR\": \"Quad Edison Janus\"}, {\"DOCTOR\": \"LV\"}, {\"DATE\": \"September 29, 2062\"}]"
+  },
+  {
+    "id": "51866",
+    "outputs": "[{\"DOCTOR\": \"Brown\"}, {\"DATE\": \"January 15th, 2063\"}, {\"DOCTOR\": \"Porter\"}, {\"DOCTOR\": \"Hero\"}, {\"DOCTOR\": \"Grattan\"}, {\"PATIENT\": \"Denton\"}]"
+  },
+  {
+    "id": "51867",
+    "outputs": "[{\"TIME\": \"8.52 p.m.\"}, {\"DEPARTMENT\": \"Street Vincent department\"}, {\"HOSPITAL\": \"Fronsick Hospital\"}, {\"DOCTOR\": \"Grouch\"}, {\"DATE\": \"May 17, 2064\"}, {\"DATE\": \"May 17, 2064\"}]"
+  },
+  {
+    "id": "51876",
+    "outputs": "[{\"PATIENT\": \"Rayna Jagans-Briggs\"}, {\"ID_NUMBER\": \"17H878652C\"}, {\"MEDICAL_RECORD_NUMBER\": \"1728786.NGC\"}]"
+  },
+  {
+    "id": "51900",
+    "outputs": "[{\"PATIENT\": \"Sabrina\"}, {\"PATIENT\": \"Sabrina\"}]"
+  },
+  {
+    "id": "51913",
+    "outputs": "[{\"DATE\": \"June 18, 2064\"}]"
+  },
+  {
+    "id": "51918",
+    "outputs": "[{\"PATIENT\": \"Isha Smith\"}, {\"MEDICAL_RECORD_NUMBER\": \"2027354.YLP\"}, {\"PATIENT\": \"Isha\"}, {\"DATE\": \"June 2064\"}]"
+  },
+  {
+    "id": "51931",
+    "outputs": "[{\"PATIENT\": \"Laura Crawford\"}, {\"MEDICAL_RECORD_NUMBER\": \"3076815.ASC\"}, {\"ID_NUMBER\": \"30T681507C\"}, {\"DATE\": \"October 17, 2007\"}, {\"HOSPITAL\": \"Rockingham General Hospital\"}]"
+  },
+  {
+    "id": "51949",
+    "outputs": "[{\"DATE\": \"September 21, 2062\"}]"
+  },
+  {
+    "id": "51967",
+    "outputs": "[{\"DOCTOR\": \"Rose\"}, {\"PATIENT\": \"Issa\"}]"
+  },
+  {
+    "id": "51976",
+    "outputs": "[{\"DATE\": \"2060\"}, {\"MEDICAL_RECORD_NUMBER\": \"95w78541\"}]"
+  },
+  {
+    "id": "51984",
+    "outputs": "[{\"DATE\": \"November 21, 1986\"}, {\"DATE\": \"September 13, 2062\"}, {\"HOSPITAL\": \"Seals Central Redland Hospital\"}, {\"DOCTOR\": \"Taka Williams-Crown\"}, {\"DATE\": \"September 14, 2062\"}, {\"DATE\": \"September 15, 2062\"}, {\"DATE\": \"December 1, 2062\"}]"
+  },
+  {
+    "id": "51987",
+    "outputs": "[{\"DOCTOR\": \"G. Caldillo\"}, {\"DATE\": \"June 13, 2064\"}, {\"DEPARTMENT\": \"Seed Pass Department\"}, {\"HOSPITAL\": \"Waller Hill Hospital\"}]"
+  },
+  {
+    "id": "51998",
+    "outputs": "[{\"DOCTOR\": \"Oli Lowell-Grobrach\"}, {\"DOCTOR\": \"XO\"}, {\"DOCTOR\": \"Jaycee\"}, {\"DOCTOR\": \"H. Watt\"}, {\"DATE\": \"October 3, 2062\"}, {\"DATE\": \"December 3, 2062\"}]"
+  },
+  {
+    "id": "52015",
+    "outputs": "[{\"DOCTOR\": \"Glenville\"}, {\"DOCTOR\": \"Newcastle\"}, {\"STATE\": \"Northern Territory\"}, {\"ZIP\": \"4372\"}, {\"DATE\": \"December 2nd, 1994\"}, {\"DATE\": \"July 16th\"}]"
+  },
+  {
+    "id": "52018",
+    "outputs": "[{\"PATIENT\": \"Kendo Sorley\"}, {\"ID_NUMBER\": \"21I76240AW\"}, {\"MEDICAL_RECORD_NUMBER\": \"213762.MCV\"}, {\"ID_NUMBER\": \"21I76240\"}, {\"STREET\": \"Lower Magroponics, Washobe\"}, {\"CITY\": \"Washobe\"}, {\"STATE\": \"Tasmania\"}, {\"ZIP\": \"7305\"}]"
+  },
+  {
+    "id": "52037",
+    "outputs": "[]"
+  },
+  {
+    "id": "52040",
+    "outputs": "[]"
+  },
+  {
+    "id": "52062",
+    "outputs": "[]"
+  },
+  {
+    "id": "52114",
+    "outputs": "[{\"DATE\": \"October 1, 2062\"}]"
+  },
+  {
+    "id": "52124",
+    "outputs": "[{\"ID_NUMBER\": \"34G-52935\"}, {\"PATIENT\": \"Brendan resides\"}, {\"STREET\": \"Platte House Street\"}, {\"CITY\": \"Curricuri\"}, {\"STATE\": \"Victoria\"}, {\"ZIP\": \"3166\"}, {\"HOSPITAL\": \"Ballarat Health Services Base Hospital\"}, {\"DEPARTMENT\": \"SEALs Central Department\"}]"
+  },
+  {
+    "id": "52154",
+    "outputs": "[{\"ID_NUMBER\": \"21I76240\"}]"
+  },
+  {
+    "id": "52172",
+    "outputs": "[{\"DOCTOR\": \"Reuben Wong-Eldridge\"}, {\"DOCTOR\": \"Duane\"}, {\"DOCTOR\": \"Q. Overbay\"}]"
+  },
+  {
+    "id": "52175",
+    "outputs": "[{\"ID_NUMBER\": \"5014\"}, {\"DATE\": \"May 30, 2025\"}, {\"HOSPITAL\": \"Peter Mac\"}, {\"DOCTOR\": \"Keith Wesley Landkammer\"}, {\"DATE\": \"2060\"}, {\"SET\": \"20 cycles\"}]"
+  },
+  {
+    "id": "52176",
+    "outputs": "[{\"DOCTOR\": \"Wiseman\"}, {\"DOCTOR\": \"Musk\"}, {\"DOCTOR\": \"Moody\"}, {\"DOCTOR\": \"Knight\"}, {\"DOCTOR\": \"Porter\"}, {\"DOCTOR\": \"Hayes\"}]"
+  },
+  {
+    "id": "52178",
+    "outputs": "[{\"MEDICAL_RECORD_NUMBER\": \"763313.LKC\"}, {\"ID_NUMBER\": \"76I31344\"}]"
+  },
+  {
+    "id": "52182",
+    "outputs": "[{\"DATE\": \"February 18, 2014\"}, {\"TIME\": \"1.49pm\"}, {\"PATIENT\": \"Laura\"}, {\"ID_NUMBER\": \"30T68150\"}, {\"ID_NUMBER\": \"30T68150\"}, {\"STREET\": \"Stone Mill Street\"}, {\"CITY\": \"Gosford\"}, {\"STATE\": \"NT\"}, {\"ZIP\": \"1224\"}]"
+  },
+  {
+    "id": "52195",
+    "outputs": "[{\"DATE\": \"September 18, 2063\"}, {\"DATE\": \"September 2, 2063\"}, {\"PATIENT\": \"George\"}, {\"TIME\": \"3.40 p.m.\"}]"
+  },
+  {
+    "id": "52217",
+    "outputs": "[]"
+  },
+  {
+    "id": "52230",
+    "outputs": "[{\"DOCTOR\": \"Ellis\"}, {\"DURATION\": \"days\"}, {\"DATE\": \"April 19, 2064\"}, {\"DOCTOR\": \"Porter\"}, {\"PATIENT\": \"Mike\"}]"
+  },
+  {
+    "id": "52237",
+    "outputs": "[]"
+  },
+  {
+    "id": "52279",
+    "outputs": "[{\"TIME\": \"12.44 p.m.\"}, {\"PATIENT\": \"Jenna\"}, {\"DEPARTMENT\": \"PESWAS\"}, {\"HOSPITAL\": \"World Memorial Hospital\"}, {\"DOCTOR\": \"Porter\"}, {\"DATE\": \"August 27, 2062\"}, {\"DOCTOR\": \"Leonard\"}, {\"DOCTOR\": \"Rubio\"}, {\"PATIENT\": \"Jenna\"}]"
+  },
+  {
+    "id": "52290",
+    "outputs": "[{\"PATIENT\": \"Virginia James\"}, {\"MEDICAL_RECORD_NUMBER\": \"664499.seu\"}, {\"ID_NUMBER\": \"66M49971\"}, {\"DATE\": \"July 3, 2062\"}]"
+  },
+  {
+    "id": "52301",
+    "outputs": "[{\"DOCTOR\": \"Gracia\"}, {\"DOCTOR\": \"Butler\"}, {\"DOCTOR\": \"Martin\"}, {\"DOCTOR\": \"Joseph\"}, {\"DOCTOR\": \"Brandon\"}, {\"DOCTOR\": \"Towns\"}, {\"DATE\": \"September 2, 2063\"}, {\"DATE\": \"September 11, 2063\"}]"
+  },
+  {
+    "id": "52308",
+    "outputs": "[]"
+  },
+  {
+    "id": "52311",
+    "outputs": "[{\"DEPARTMENT\": \"Parkes-9 East Department\"}, {\"DATE\": \"May 28, 2012\"}, {\"TIME\": \"8-12\"}, {\"TIME\": \"9-35\"}, {\"TIME\": \"that same morning\"}]"
+  },
+  {
+    "id": "52327",
+    "outputs": "[{\"PATIENT\": \"Tom Barry\"}, {\"ID_NUMBER\": \"62M-791-612Q\"}, {\"MEDICAL_RECORD_NUMBER\": \"624791.rdh\"}, {\"ID_NUMBER\": \"62M-612-612-612-612-612-612-612-612-612-612-612-612-612-612-612-612-612-612-612-612-612-612-612-612-612-612-612-612-612-612-612-612-612-612-612-612-612-612-612-612-612-612-612-612-612-612-612-612-612-612-"
+  },
+  {
+    "id": "52329",
+    "outputs": "[{\"HOSPITAL\": \"Springwood Hospital\"}, {\"DATE\": \"November 10, 2062\"}, {\"DOCTOR\": \"Okossofsky\"}, {\"DATE\": \"September 27, 2062\"}, {\"DATE\": \"May 10, 2062\"}, {\"ID_NUMBER\": \"53P77846A5\"}, {\"DOCTOR\": \"Weikert\"}]"
+  },
+  {
+    "id": "52338",
+    "outputs": "[{\"DOCTOR\": \"Ella\"}, {\"DEPARTMENT\": \"Hunter Area Pathology Department\"}, {\"HOSPITAL\": \"Kalankuri Multipurpose Health Service\"}, {\"DOCTOR\": \"Valland\"}, {\"DOCTOR\": \"Jackson\"}, {\"DOCTOR\": \"Fischel\"}, {\"DATE\": \"May 21st\"}]"
+  },
+  {
+    "id": "52343",
+    "outputs": "[]"
+  },
+  {
+    "id": "52351",
+    "outputs": "[{\"DATE\": \"Today\"}, {\"PATIENT\": \"Sarah Scott\"}, {\"ID_NUMBER\": \"512-013-587-V\"}, {\"MEDICAL_RECORD_NUMBER\": \"516-0135.buv\"}]"
+  },
+  {
+    "id": "52356",
+    "outputs": "[{\"PATIENT\": \"Gary resides\"}, {\"STREET\": \"West Portal Street\"}, {\"CITY\": \"Bega\"}, {\"STATE\": \"Vick\"}, {\"DATE\": \"May 19, 1998\"}, {\"TIME\": \"June 16, 2012, at 7.48 p.m.\"}, {\"PATIENT\": \"Hunter Area Pathology\"}, {\"HOSPITAL\": \"Kuna Barabran District Hospital\"}]"
+  },
+  {
+    "id": "52372",
+    "outputs": "[{\"PATIENT\": \"Danny resides\"}, {\"STREET\": \" Bramston Street\"}, {\"CITY\": \"Theromere\"}, {\"DISTRICT\": \"Tosh\"}, {\"ZIP\": \"5273\"}, {\"DATE\": \"July 23, 2004\"}]"
+  },
+  {
+    "id": "52375",
+    "outputs": "[{\"DATE\": \"Today\"}, {\"PATIENT\": \"Jolene Parker\"}, {\"ID_NUMBER\": \"98T406673L\"}, {\"MEDICAL_RECORD_NUMBER\": \"9874066.SJL\"}, {\"PATIENT\": \"Jolene\"}, {\"ID_NUMBER\": \"98T40667\"}, {\"ID_NUMBER\": \"98T40667\"}]"
+  },
+  {
+    "id": "52379",
+    "outputs": "[{\"STATE\": \"QLD\"}, {\"ZIP\": \"2419\"}, {\"DATE\": \"March 21, 1994\"}]"
+  },
+  {
+    "id": "52384",
+    "outputs": "[{\"PATIENT\": \"Addison Dado\"}, {\"ID_NUMBER\": \"63M7414500\"}, {\"MEDICAL_RECORD_NUMBER\": \"634741.LNA\"}]"
+  },
+  {
+    "id": "52408",
+    "outputs": "[{\"DOCTOR\": \"Terry\"}, {\"DOCTOR\": \"Temples\"}]"
+  },
+  {
+    "id": "52432",
+    "outputs": "[{\"PATIENT\": \"Jalen Nielsen\"}, {\"ID_NUMBER\": \"19K007521W\"}, {\"MEDICAL_RECORD_NUMBER\": \"1940075.HFW\"}, {\"ID_NUMBER\": \"19K00752\"}]"
+  },
+  {
+    "id": "52435",
+    "outputs": "[{\"MEDICAL_RECORD_NUMBER\": \"9268535.MZS\"}, {\"PATIENT\": \"Liz Leher\"}, {\"DATE\": \"October 18, 2010\"}, {\"ID_NUMBER\": \"92RA53549S\"}]"
+  },
+  {
+    "id": "52448",
+    "outputs": "[{\"DOCTOR\": \"Van Vliet\"}, {\"DATE\": \"July 27, 2062\"}, {\"PATIENT\": \"Dora\"}, {\"DOCTOR\": \"Gasol\"}, {\"PATIENT\": \"Dora\"}]"
+  },
+  {
+    "id": "52451",
+    "outputs": "[{\"PATIENT\": \"Harley Rader\"}, {\"MEDICAL_RECORD_NUMBER\": \"057758.kbp\"}, {\"ID_NUMBER\": \"05T758305M\"}, {\"DATE\": \"March 3rd, 1997\"}, {\"STREET\": \"N. Caspar Street\"}, {\"CITY\": \"Goula\"}, {\"ZIP\": \"6705\"}]"
+  },
+  {
+    "id": "52464",
+    "outputs": "[{\"ID_NUMBER\": \"44B207485E\"}, {\"PATIENT\": \"Connie Dinwiddie\"}, {\"DATE\": \"April 9th, 1983\"}]"
+  },
+  {
+    "id": "52479",
+    "outputs": "[{\"ID_NUMBER\": \"5101358\"}, {\"ID_NUMBER\": \"5101358\"}, {\"PATIENT\": \"Sarah\"}, {\"ADDRESS\": \"Mention Hall\"}, {\"CITY\": \"Newcastle\"}, {\"STATE\": \"WA\"}, {\"ZIP\": \"2316\"}, {\"DATE\": \"April 24, 1997\"}]"
+  },
+  {
+    "id": "52481",
+    "outputs": "[{\"DATE\": \"June 18, 2012\"}, {\"TIME\": \"12.06 p.m.\"}, {\"PATIENT\": \"Jeremy\"}, {\"HOSPITAL\": \"Douglas Haley Moore\"}, {\"HOSPITAL\": \"Taysman Multipurpose Century\"}, {\"DOCTOR\": \"Nurse\"}, {\"DATE\": \"August 21, 2062\"}, {\"DOCTOR\": \"Robinson\"}]"
+  },
+  {
+    "id": "52488",
+    "outputs": "[{\"PATIENT\": \"Ashley resides\"}, {\"STREET\": \"Armin Street\"}, {\"CITY\": \"Waterford\"}, {\"STATE\": \"Australian Capital Territory\"}, {\"ZIP\": \"3758\"}, {\"DATE\": \"October 3, 2012\"}]"
+  },
+  {
+    "id": "52538",
+    "outputs": "[{\"DATE\": \"June 10, 2012\"}, {\"TIME\": \"6.48 a.m.\"}, {\"PATIENT\": \"Calvin\"}, {\"DEPARTMENT\": \"CPC Pathology\"}, {\"HOSPITAL\": \"Anglis Hospital\"}, {\"DOCTOR\": \"Duncan\"}]"
+  },
+  {
+    "id": "52540",
+    "outputs": "[{\"PATIENT\": \"Connie\"}, {\"DEPARTMENT\": \"laboratory department\"}, {\"HOSPITAL\": \"Mercy Health O'Connell Family Center\"}]"
+  },
+  {
+    "id": "52548",
+    "outputs": "[{\"DOCTOR\": \"J. Yu\"}, {\"DATE\": \"September 28, 2062\"}, {\"DOCTOR\": \"Obersard\"}]"
+  },
+  {
+    "id": "52554",
+    "outputs": "[]"
+  },
+  {
+    "id": "52564",
+    "outputs": "[{\"EPISODE_ID\": \"65T9073436\"}, {\"PATIENT\": \"Ella Walton\"}, {\"DATE\": \"November 12, 2004\"}, {\"STREET\": \"East Oliveira Street\"}, {\"CITY\": \"Oribos\"}, {\"STATE\": \"Tasmania\"}, {\"ZIP\": \"6221\"}, {\"MEDICAL_RECORD_NUMBER\": \"657907\"}]"
+  },
+  {
+    "id": "52569",
+    "outputs": "[{\"DOCTOR\": \"Stesenzel\"}]"
+  },
+  {
+    "id": "52574",
+    "outputs": "[{\"DATE\": \"February 4, 2063\"}]"
+  },
+  {
+    "id": "52579",
+    "outputs": "[{\"DOCTOR\": \"Holt\"}, {\"DOCTOR\": \"Russell\"}, {\"HOSPITAL\": \"Midlands Multi-Purpose Health Center\"}, {\"HOSPITAL\": \"Wimora Health Care Group, Horsham\"}]"
+  },
+  {
+    "id": "52580",
+    "outputs": "[]"
+  },
+  {
+    "id": "52589",
+    "outputs": "[{\"PATIENT\": \"Lyra Jemi Shilareth\"}, {\"ID_NUMBER\": \"38WiFi7950\"}]"
+  },
+  {
+    "id": "52591",
+    "outputs": "[{\"PATIENT\": \"Kohen Lauchon\"}, {\"ID_NUMBER\": \"71Y067830J\"}, {\"MEDICAL_RECORD_NUMBER\": \"7190678.JBJ\"}, {\"HOSPITAL\": \"West Wimmera Health Service, Carnival\"}, {\"ID_NUMBER\": \"71Y06783\"}, {\"STREET\": \"New Jefferson\"}, {\"CITY\": \"Vincentia\"}, {\"STATE\": \"New South Wales\"}, {\"ZIP\": \"4076\"}]"
+  },
+  {
+    "id": "52596",
+    "outputs": "[{\"TIME\": \"4.35 p.m.\"}, {\"DATE\": \"July 23, 2062\"}, {\"DATE\": \"July 24, 2062\"}]"
+  },
+  {
+    "id": "52620",
+    "outputs": "[{\"STREET\": \"Juniper Point, Marimba\"}, {\"CITY\": \"Marimba, Western Australia\"}, {\"STATE\": \"Western Australia\"}, {\"ZIP\": \"6181\"}, {\"DATE\": \"February 6, 1989\"}, {\"TIME\": \"April 4, 2014 at 10.17 a.m.\"}, {\"HOSPITAL\": \"Mater Mothers Hospital\"}, {\"DEPARTMENT\": \"Anatomical Pathology Department\"}]"
+  },
+  {
+    "id": "52662",
+    "outputs": "[{\"DOCTOR\": \"Slinwood\"}, {\"DOCTOR\": \"Donny\"}, {\"DOCTOR\": \"DeMell\"}, {\"DOCTOR\": \"Panshaw\"}, {\"DOCTOR\": \"X Men\"}, {\"DOCTOR\": \"X Nally\"}, {\"ID_NUMBER\": \"95W78441\"}]"
+  },
+  {
+    "id": "52666",
+    "outputs": "[{\"PATIENT\": \"Sabrina Tatum\"}, {\"MEDICAL_RECORD_NUMBER\": \"4183363.NGA\"}, {\"PATIENT\": \"Sabrina\"}, {\"DATE\": \"April 2064\"}]"
+  },
+  {
+    "id": "52718",
+    "outputs": "[{\"DATE\": \"September 4, 2062\"}, {\"PATIENT\": \"Nikola\"}, {\"DOCTOR\": \"Nelson\"}, {\"DOCTOR\": \"Pitcher\"}]"
+  },
+  {
+    "id": "52754",
+    "outputs": "[{\"ORGANIZATION\": \"Boston Scientific\"}, {\"HOSPITAL\": \"Wentworth District Hospital\"}, {\"DATE\": \"June 12, 2064\"}, {\"DOCTOR\": \"B. Crawford\"}]"
+  },
+  {
+    "id": "52762",
+    "outputs": "[{\"DATE\": \"October 20, 2062\"}, {\"DOCTOR\": \"I. Majerski\"}]"
+  },
+  {
+    "id": "52764",
+    "outputs": "[]"
+  },
+  {
+    "id": "52783",
+    "outputs": "[]"
+  },
+  {
+    "id": "52784",
+    "outputs": "[{\"DOCTOR\": \"B. Gutowski\"}, {\"TIME\": \"230\"}, {\"DATE\": \"June 19, 2013\"}, {\"DOCTOR\": \"A. L\"}, {\"DATE\": \"August 22, 2063\"}]"
+  },
+  {
+    "id": "52806",
+    "outputs": "[{\"DATE\": \"October 26, 1983\"}, {\"AGE\": \"85\"}, {\"DATE\": \"June 11, 2064\"}, {\"DOCTOR\": \"Bradley Armand Ruffer\"}, {\"DOCTOR\": \"TD\"}, {\"DOCTOR\": \"AL\"}, {\"DOCTOR\": \"NX\"}, {\"DOCTOR\": \"SG\"}, {\"DATE\": \"June 12, 2064\"}]"
+  },
+  {
+    "id": "52814",
+    "outputs": "[{\"STREET\": \"Upper Montagu Street\"}, {\"CITY\": \"Rockhampton\"}, {\"STATE\": \"South Australia\"}, {\"ZIP\": \"6338\"}, {\"DATE\": \"August 29, 2012\"}, {\"TIME\": \"2.31pm\"}, {\"DEPARTMENT\": \"Urology Day-Only Department\"}, {\"HOSPITAL\": \"Calvary Public Hospital ACT\"}]"
+  },
+  {
+    "id": "52874",
+    "outputs": "[{\"DOCTOR\": \"Ellington\"}, {\"DATE\": \"May 17, 2064\"}, {\"DATE\": \"May 24, 2061\"}]"
+  },
+  {
+    "id": "52884",
+    "outputs": "[{\"MEDICAL_RECORD_NUMBER\": \"074190.MFAs\"}, {\"PATIENT\": \"Kelly\"}, {\"DATE\": \"May 3, 2011\"}, {\"ID_NUMBER\": \"07L190417H\"}, {\"ID_NUMBER\": \"07L19041\"}]"
+  },
+  {
+    "id": "52905",
+    "outputs": "[{\"DEPARTMENT\": \"Obstetrics Department\"}, {\"HOSPITAL\": \"Western District Health Services Pantress\"}, {\"DOCTOR\": \"Tobias\"}, {\"DOCTOR\": \"Andy Grosz\"}, {\"DOCTOR\": \"SZ\"}, {\"DOCTOR\": \"L-Y\"}, {\"DOCTOR\": \"Altipera\"}]"
+  },
+  {
+    "id": "52917",
+    "outputs": "[{\"DOCTOR\": \"H. Neihardt\"}, {\"DOCTOR\": \"Bruno Bout\"}, {\"DOCTOR\": \"Ian Kipling\"}, {\"DOCTOR\": \"Barry Denwood\"}, {\"DATE\": \"December 3, 2062\"}]"
+  },
+  {
+    "id": "52933",
+    "outputs": "[{\"DATE\": \"June 11, 2064\"}, {\"HOSPITAL\": \"Purology West\"}, {\"HOSPITAL\": \"Southern Land Hospital\"}, {\"DOCTOR\": \"Joseph Fonsec Spiro\"}, {\"DATE\": \"June 12, 2064\"}, {\"DOCTOR\": \"K. Marsec\"}]"
+  },
+  {
+    "id": "52963",
+    "outputs": "[]"
+  },
+  {
+    "id": "52966",
+    "outputs": "[{\"DATE\": \"September 27th\"}, {\"DATE\": \"26th\"}, {\"DOCTOR\": \"Alphonze Raleigh-Picone\"}]"
+  },
+  {
+    "id": "52978",
+    "outputs": "[{\"MEDICAL_RECORD_NUMBER\": \"503651.UJI\"}, {\"PATIENT\": \"Hank Lindemann\"}, {\"DATE\": \"December 28, 2003\"}, {\"ID_NUMBER\": \"50J651733W\"}, {\"ID_NUMBER\": \"50J65173\"}]"
+  },
+  {
+    "id": "52987",
+    "outputs": "[]"
+  },
+  {
+    "id": "53000",
+    "outputs": "[{\"STREET\": \"Pleasant Chase\"}, {\"CITY\": \"Camden Haven\"}, {\"STATE\": \"South Australia\"}, {\"ZIP\": \"4492\"}, {\"PATIENT\": \"Derek\"}, {\"ID_NUMBER\": \"48G-13835\"}, {\"ID_NUMBER\": \"48G-13835\"}, {\"DATE\": \"June 25th, 2013\"}, {\"TIME\": \"6.9pm\"}]"
+  },
+  {
+    "id": "53012",
+    "outputs": "[{\"DATE\": \"next day\"}, {\"DATE\": \"August 22, 2062\"}, {\"DOCTOR\": \"Williams\"}, {\"DOCTOR\": \"Gabriel\"}]"
+  },
+  {
+    "id": "53017",
+    "outputs": "[{\"DOCTOR\": \"Harris Ismail Clyde\"}, {\"DATE\": \"October 15, 2062\"}, {\"DOCTOR\": \"M. Y.\"}, {\"DOCTOR\": \"J. Progres\"}]"
+  },
+  {
+    "id": "53020",
+    "outputs": "[{\"PROFESSION\": \"CIP\"}, {\"DATE\": \"October 26, 2006\"}]"
+  },
+  {
+    "id": "53068",
+    "outputs": "[{\"DOCTOR\": \"Simran Charissa Hagabe\"}, {\"DOCTOR\": \"Jackie\"}, {\"DOCTOR\": \"Beck\"}, {\"DOCTOR\": \"Kirk\"}, {\"DOCTOR\": \"N.J.\"}, {\"DOCTOR\": \"T.G.\"}, {\"DATE\": \"October 30, 2062\"}]"
+  },
+  {
+    "id": "53072",
+    "outputs": "[{\"ID_NUMBER\": \"6997\"}, {\"DATE\": \"November 9, 1994\"}, {\"DATE\": \"August 1, 2012\"}, {\"TIME\": \"7.33pm from\"}, {\"DEPARTMENT\": \"Coronary Care Unit\"}, {\"HOSPITAL\": \"Tottenham Hospital\"}, {\"DOCTOR\": \"Buranga Brad Omlund\"}]"
+  },
+  {
+    "id": "53075",
+    "outputs": "[{\"EPISODE_NUMBER\": \"96A063552Q\"}, {\"PATIENT\": \"Ariel Whitman\"}, {\"HOSPITAL\": \"Hess Rural Health Service\"}, {\"DEPARTMENT\": \"day surgery unit\"}, {\"PATIENT\": \"Ariel\"}, {\"DATE\": \"October 5, 1989\"}, {\"STREET\": \"Kamino Street\"}, {\"CITY\": \"Wild Hope\"}, {\"STATE\": \"Tasmania\"}, {\"ZIP\": \"3179\"}]"
+  },
+  {
+    "id": "53089",
+    "outputs": "[]"
+  },
+  {
+    "id": "53103",
+    "outputs": "[{\"DATE\": \"April 10, 2014\"}, {\"TIME\": \"2.40 p.m.\"}, {\"DEPARTMENT\": \"POW-L7 Consulting Rooms\"}, {\"HOSPITAL\": \"Carotene Hospital\"}, {\"DOCTOR\": \"Winston Leilani Ricotta\"}]"
+  },
+  {
+    "id": "53111",
+    "outputs": "[{\"MEDICAL_RECORD_NUMBER\": \"4378054 UUC\"}, {\"PATIENT\": \"Guy Finn-Lamson\"}, {\"ID_NUMBER\": \"43S80547\"}]"
+  },
+  {
+    "id": "53112",
+    "outputs": "[{\"DATE\": \"July 2, 2005\"}, {\"ID_NUMBER\": \"75A-86169\"}]"
+  },
+  {
+    "id": "53121",
+    "outputs": "[{\"MEDICAL_RECORD_NUMBER\": \"073905.RQQ\"}, {\"PATIENT\": \"Brigida Loris-Brick\"}, {\"ID_NUMBER\": \"07K90566\"}, {\"DATE\": \"June 16, 2064\"}, {\"DOCTOR\": \"A.R.\"}]"
+  },
+  {
+    "id": "53138",
+    "outputs": "[{\"ID_NUMBER\": \"86F2-8642\"}, {\"PATIENT\": \"Dylan\"}, {\"DATE\": \"March 8th, 2013\"}, {\"TIME\": \"3.54pm\"}, {\"DEPARTMENT\": \"recovery department\"}, {\"HOSPITAL\": \"Blaklava Hospital\"}, {\"PATIENT\": \"Dylan\"}]"
+  },
+  {
+    "id": "53143",
+    "outputs": "[]"
+  },
+  {
+    "id": "53149",
+    "outputs": "[]"
+  },
+  {
+    "id": "53157",
+    "outputs": "[{\"PATIENT\": \"Tommy Hildebrandt\"}, {\"DATE\": \"June 10, 2013\"}, {\"DEPARTMENT\": \"Daly Medicine\"}, {\"STATE\": \"Tasmania\"}, {\"ZIP\": \"2902\"}, {\"MEDICAL_RECORD_NUMBER\": \"3563528.uao\"}, {\"ID_NUMBER\": \"35S35288\"}, {\"ID_NUMBER\": \"35S3528800\"}]"
+  },
+  {
+    "id": "53158",
+    "outputs": "[{\"PATIENT\": \"Quade Hastie\"}, {\"ID_NUMBER\": \"96R56255\"}, {\"MEDICAL_RECORD_NUMBER\": \"966562-ENM\"}]"
+  },
+  {
+    "id": "53169",
+    "outputs": "[{\"DATE\": \"October 17, 2062\"}, {\"DOCTOR\": \"M. Kuramel\"}, {\"DATE\": \"October 15, 2062\"}, {\"DATE\": \"October 17, 2062\"}]"
+  },
+  {
+    "id": "53180",
+    "outputs": "[]"
+  },
+  {
+    "id": "53184",
+    "outputs": "[{\"DATE\": \"July 25, 2012\"}, {\"TIME\": \"7.49 p.m.\"}, {\"HOSPITAL\": \"Exmouth Hospital\"}, {\"DOCTOR\": \"Junior Jason Dice\"}, {\"PROFESSION\": \"pathologist\"}, {\"ORGANIZATION\": \"Envoy Pathology\"}]"
+  },
+  {
+    "id": "53186",
+    "outputs": "[{\"DATE\": \"2061\"}]"
+  },
+  {
+    "id": "53188",
+    "outputs": "[{\"DOCTOR\": \"Bridges\"}, {\"DATE\": \"April 17, 2013\"}, {\"TIME\": \"12.45 p.m.\"}]"
+  },
+  {
+    "id": "53190",
+    "outputs": "[{\"STREET\": \"Selmer\"}, {\"CITY\": \"Howlong\"}, {\"STATE\": \"Western Australia\"}, {\"ZIP\": \"5724\"}, {\"ID_NUMBER\": \"94102043\"}, {\"DATE\": \"March 27, 2014\"}, {\"TIME\": \"6.48pm\"}]"
+  },
+  {
+    "id": "53208",
+    "outputs": "[]"
+  },
+  {
+    "id": "53213",
+    "outputs": "[{\"PATIENT\": \"Thomas Zoe Takayama\"}, {\"ID_NUMBER\": \"27D8306327D83063\"}, {\"MEDICAL_RECORD_NUMBER\": \"271830.QJV\"}]"
+  },
+  {
+    "id": "53217",
+    "outputs": "[{\"PATIENT\": \"Carol\"}]"
+  },
+  {
+    "id": "53218",
+    "outputs": "[]"
+  },
+  {
+    "id": "53229",
+    "outputs": "[{\"PATIENT\": \"Derek Wall\"}, {\"DATE\": \"November 3, 1982\"}, {\"HOSPITAL\": \"Long Ridge Hospital\"}, {\"MEDICAL_RECORD_NUMBER\": \"4821383.OMF\"}, {\"ID_NUMBER\": \"48G138354F\"}]"
+  },
+  {
+    "id": "53238",
+    "outputs": "[{\"ID_NUMBER\": \".52PA2A726X\"}, {\"PATIENT\": \"Roy Goodwin\"}, {\"DATE\": \"October 29, 2032\"}, {\"STREET\": \"Belcourt\"}, {\"STREET\": \"Buniam\"}, {\"STATE\": \"NT\"}, {\"ZIP\": \"4034\"}]"
+  },
+  {
+    "id": "53252",
+    "outputs": "[]"
+  },
+  {
+    "id": "53255",
+    "outputs": "[{\"CITY\": \"Northam\"}, {\"DISTRICT\": \"Tinone\"}, {\"ZIP\": \"6327\"}, {\"DATE\": \"December 29, 1992\"}, {\"DATE\": \"July 11, 2012\"}, {\"TIME\": \"9.10 a.m.\"}, {\"DEPARTMENT\": \"Sidpath Department\"}, {\"HOSPITAL\": \"Ear Hospital\"}]"
+  },
+  {
+    "id": "53267",
+    "outputs": "[{\"PATIENT\": \"Taylor\"}]"
+  },
+  {
+    "id": "53268",
+    "outputs": "[{\"DATE\": \"October 12, 2062\"}, {\"DOCTOR\": \"K. L\"}, {\"DATE\": \"October 10, 2062\"}, {\"DOCTOR\": \"Z. Filtel\"}]"
+  },
+  {
+    "id": "53286",
+    "outputs": "[{\"DATE\": \"Today\"}, {\"PATIENT\": \"Jeremy Kuzma\"}, {\"ID_NUMBER\": \"10J811710\"}, {\"MEDICAL_RECORD_NUMBER\": \"1038117.scz\"}, {\"ID_NUMBER\": \"10J811710J8117\"}]"
+  },
+  {
+    "id": "53294",
+    "outputs": "[{\"ID_NUMBER\": \"27Y518763Q\"}, {\"PATIENT\": \"Gail\"}, {\"DATE\": \"June 27, 1992\"}, {\"ADDRESS\": \"Wakandan-Denman, Tasmania\"}, {\"ZIP\": \"4383\"}]"
+  },
+  {
+    "id": "53335",
+    "outputs": "[{\"DOCTOR\": \"Cloud Button\"}, {\"ID_NUMBER\": \"42Z363366H\"}, {\"MEDICAL_RECORD_NUMBER\": \"429363.KQQ\"}]"
+  },
+  {
+    "id": "53344",
+    "outputs": "[{\"DOCTOR\": \"Hinks\"}, {\"DATE\": \"same days\"}]"
+  },
+  {
+    "id": "53352",
+    "outputs": "[{\"DATE\": \"October 16, 2062\"}, {\"ORGANIZATION\": \"Egilian Crescent\"}, {\"HOSPITAL\": \"Reno Clinic\"}, {\"LOCATION-OTHER\": \"Southwestern Area\"}, {\"HOSPITAL\": \"Timbun and District Healthcare Service\"}]"
+  },
+  {
+    "id": "53363",
+    "outputs": "[{\"ID_NUMBER\": \"83017970\"}, {\"DOCTOR\": \"Nicola lives\"}, {\"STREET\": \"Manoli Street\"}, {\"CITY\": \"Algae\"}, {\"STATE\": \"Tasmania\"}, {\"ZIP\": \"3576\"}, {\"DATE\": \"November 3, 2006\"}]"
+  },
+  {
+    "id": "53364",
+    "outputs": "[{\"MEDICAL_RECORD_NUMBER\": \"3872467.jpi\"}, {\"DEPARTMENT\": \"382-467355\"}, {\"PATIENT\": \"Eldora Shook\"}, {\"DEPARTMENT\": \"382-4673\"}, {\"STREET\": \"Stranger Street\"}, {\"CITY\": \"Lismore\"}, {\"STATE\": \"New South Wales\"}, {\"ZIP\": \"2559\"}, {\"DATE\": \"February 24, 1990\"}]"
+  },
+  {
+    "id": "53374",
+    "outputs": "[{\"DOCTOR\": \"Wu\"}, {\"DOCTOR\": \"Hu\"}, {\"DOCTOR\": \"Chen\"}, {\"DOCTOR\": \"Guo\"}, {\"PATIENT\": \"Connie\"}, {\"DATE\": \"June 20, 2063\"}]"
+  },
+  {
+    "id": "53397",
+    "outputs": "[{\"DATE\": \"September 18, 2062\"}]"
+  },
+  {
+    "id": "53400",
+    "outputs": "[{\"DOCTOR\": \"P. Blavin\"}, {\"DATE\": \"May 3, 2063\"}, {\"HOSPITAL\": \"Chorberg Hospital Cancer Center\"}, {\"STATE\": \"Northern Territory\"}, {\"DATE\": \"March 27, 2063\"}]"
+  },
+  {
+    "id": "53402",
+    "outputs": "[{\"ID_NUMBER\": \"30w234486\"}, {\"ID_NUMBER\": \"30w23448\"}, {\"DATE\": \"April 3, 2014\"}, {\"TIME\": \"2.31 p.m.\"}, {\"HOSPITAL\": \"Dickinson\"}, {\"DEPARTMENT\": \"3-NOS Blue-Wallin-A-Multipurpose Service\"}]"
+  },
+  {
+    "id": "53408",
+    "outputs": "[{\"DOCTOR\": \"Widarji\"}, {\"ID_NUMBER\": \"59K84759.4\"}]"
+  },
+  {
+    "id": "53411",
+    "outputs": "[{\"EPSOL ID\": \"75Q870329I\"}, {\"DATE\": \"September 26, 2063\"}, {\"PATIENT\": \"Kenny\"}, {\"DEPARTMENT\": \"POMS department\"}, {\"ID_NUMBER\": \"75Q87032\"}, {\"PATIENT\": \"Kenny\"}]"
+  },
+  {
+    "id": "53415",
+    "outputs": "[{\"PATIENT\": \"Maria resides\"}, {\"STREET\": \"West Railroad, Williamstown\"}, {\"CITY\": \"Williamstown\"}, {\"STATE\": \"NT\"}, {\"ZIP\": \"1234\"}, {\"DATE\": \"October 11, 2009\"}]"
+  },
+  {
+    "id": "53430",
+    "outputs": "[{\"DOCTOR\": \"Jasper Reddick\"}, {\"DATE\": \"August 12, 1999\"}, {\"DEPARTMENT\": \"Shohevendick Street Memorial Hospital\"}, {\"DATE\": \"September 11, 2063\"}, {\"MEDICAL_RECORD_NUMBER\": \"2755374.ARU\"}, {\"ID_NUMBER\": \"270537406U\"}]"
+  },
+  {
+    "id": "53437",
+    "outputs": "[{\"DATE\": \"October 15th, 2063\"}, {\"DOCTOR\": \"Gasol\"}, {\"DOCTOR\": \"Pinion\"}, {\"PATIENT\": \"Katrina\"}, {\"DATE\": \"May 28th, 2064\"}, {\"DOCTOR\": \"Gordon\"}]"
+  },
+  {
+    "id": "53445",
+    "outputs": "[{\"DATE\": \"October 11, 2062\"}, {\"DEPARTMENT\": \"McQuarrie Ward\"}, {\"HOSPITAL\": \"Coburg District Hospital\"}, {\"DOCTOR\": \"Marron Theolosi\"}, {\"DATE\": \"October 12\"}]"
+  },
+  {
+    "id": "53457",
+    "outputs": "[{\"DEPARTMENT\": \"Envoy Specialist Department\"}, {\"DOCTOR\": \"Landon\"}, {\"DATE\": \"following day\"}, {\"DATE\": \"August 29, 2063\"}, {\"DOCTOR\": \"Vincent\"}]"
+  },
+  {
+    "id": "53466",
+    "outputs": "[{\"YEAR\": \"1988\"}, {\"DATE\": \"October 17, 2062\"}, {\"DEPARTMENT\": \"Medic/Surgery Ward\"}, {\"HOSPITAL\": \"Lake Grace Hospital\"}, {\"DOCTOR\": \"Trevor Jarrett Yochiel\"}, {\"DOCTOR\": \"K.H.\"}]"
+  },
+  {
+    "id": "53478",
+    "outputs": "[{\"PATIENT\": \"Mike\"}, {\"DOCTOR\": \"Porter\"}, {\"DOCTOR\": \"Alice\"}]"
+  },
+  {
+    "id": "53488",
+    "outputs": "[{\"DATE\": \"June 9, 2064\"}, {\"DOCTOR\": \"Stewart\"}, {\"DATE\": \"June 5, 2064\"}, {\"DOCTOR\": \"Stewart\"}, {\"DOCTOR\": \"Hook\"}, {\"PATIENT\": \"Susan\"}]"
+  },
+  {
+    "id": "53489",
+    "outputs": "[{\"DOCTOR\": \"F. Zirmano\"}, {\"DOCTOR\": \"F. Christoph\"}, {\"DOCTOR\": \"F. Maycock\"}, {\"DOCTOR\": \"Somoza\"}, {\"DEPARTMENT\": \"St. Vincent Pathology Department\"}]"
+  },
+  {
+    "id": "53495",
+    "outputs": "[{\"DATE\": \"May 7, 2063\"}, {\"DEPARTMENT\": \"Lewy Pathology\"}, {\"STATE\": \"QLD\"}]"
+  },
+  {
+    "id": "53509",
+    "outputs": "[{\"STREET\": \"Han Street\"}, {\"CITY\": \"Rossi Downs\"}, {\"STATE\": \"SA\"}, {\"ZIP\": \"7268\"}, {\"DATE\": \"August 27\"}]"
+  },
+  {
+    "id": "53510",
+    "outputs": "[{\"ID_NUMBER\": \"92M63178\"}]"
+  },
+  {
+    "id": "53515",
+    "outputs": "[{\"STREET\": \"Brida Bella Street\"}, {\"CITY\": \"Lian Gatha\"}, {\"STATE\": \"NCT\"}, {\"ZIP\": \"5607\"}, {\"DATE\": \"February 27th\"}]"
+  },
+  {
+    "id": "53525",
+    "outputs": "[{\"PATIENT\": \"Stacey\"}, {\"AGE\": \"56\"}, {\"DOCTOR\": \"Fultz\"}, {\"DOCTOR\": \"Linden\"}]"
+  },
+  {
+    "id": "53530",
+    "outputs": "[{\"PATIENT\": \"Rickson Niamarkus\"}, {\"MEDICAL_RECORD_NUMBER\": \"2805065.fmv\"}, {\"ID_NUMBER\": \"28B506514V\"}, {\"ID_NUMBER\": \"28B50651\"}, {\"ID_NUMBER\": \"28B50651\"}, {\"STREET\": \"La Gara\"}, {\"STREET\": \"Moramba\"}, {\"STATE\": \"TAS\"}]"
+  },
+  {
+    "id": "53535",
+    "outputs": "[{\"DOCTOR\": \"Fitz\"}, {\"DOCTOR\": \"Stockton\"}, {\"DATE\": \"June 10, 2064\"}]"
+  },
+  {
+    "id": "53546",
+    "outputs": "[{\"DATE\": \"April 24, 1997\"}, {\"ID_NUMBER\": \"97P22753\"}, {\"DATE\": \"April 7, 2014\"}, {\"TIME\": \" 5.40pm\"}, {\"DEPARTMENT\": \"Palms Department\"}, {\"HOSPITAL\": \"Margaret River Hospital\"}]"
+  },
+  {
+    "id": "53601",
+    "outputs": "[]"
+  },
+  {
+    "id": "53952",
+    "outputs": "[]"
+  }
+]

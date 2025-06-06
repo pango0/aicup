@@ -1,3 +1,5 @@
+# import os
+# os.environ["TRITON_CACHE_DIR"] = "/tmp2/b11902155/triton_cache"
 import torch
 from tqdm import tqdm
 from transformers import AutoModelForCausalLM, AutoTokenizer
@@ -80,7 +82,7 @@ model2.eval()
 with open(args.test_data_path, "r") as f:
     data = json.load(f)
 
-def get_prompt(text):
+def get_prompt(text, validation_result):
     return (
         "Extract all sensitive information spans and indicate their corresponding categories from the following text.\n\n"
         "The available categories are:\n"
@@ -89,6 +91,7 @@ def get_prompt(text):
         "AGE, DATE, TIME, DURATION, SET, \n"
         "PHONE, FAX, EMAIL, URL, IPADDRESS, \n"
         "SOCIAL_SECURITY_NUMBER, MEDICAL_RECORD_NUMBER, HEALTH_PLAN_NUMBER, ACCOUNT_NUMBER, LICENSE_NUMBER, VEHICLE_ID, DEVICE_ID, BIOMETRIC_ID, ID_NUMBER.\n\n"
+        "This is your previous result: {validation_result}, enhance your answer according to it."
         "Return the result as a JSON list of dictionaries, where each dictionary has a 'label' (the category) and a 'text' (the extracted span).\n\n"
         "If there are no sensitive spans, return an empty list: []\n\n"
         f"### Instruction:\n{text}\n\n### Response:"
@@ -113,41 +116,43 @@ def verify_output(model2, tokenizer2, instruction, m1_response, max_new_tokens=6
           )
 
      response = tokenizer2.decode(outputs[0], skip_special_tokens=True).lower()
-     return "yes" in response
-
-# Prepare prompts
-instructions = [get_prompt(x["instruction"]) for x in data]
-ids = [x["id"] for x in data]
-tokenized = tokenizer1(instructions, return_tensors="pt", padding=True, truncation=True, max_length=2048)
+     if "yes" in response:
+          return True, response
+     else :
+          return False, response
 
 results = []
 max_retries = 3
 
 for i in tqdm(range(len(data))):
-     input_ids = tokenized["input_ids"][i].unsqueeze(0).to("cuda")
-     attention_mask = tokenized["attention_mask"][i].unsqueeze(0).to("cuda")
+     instruction_text = data[i]["instruction"]
+     validation_result = "[]"  # Default to empty result for the first attempt
+
      for attempt in range(max_retries):
+          prompt = get_prompt(instruction_text, validation_result)
+          tokenized = tokenizer1(prompt, return_tensors="pt", truncation=True, padding=True, max_length=2048).to("cuda")
+
           with torch.no_grad():
                output_ids = model1.generate(
-                    input_ids=input_ids,
-                    attention_mask=attention_mask,
+                    input_ids=tokenized["input_ids"],
+                    attention_mask=tokenized["attention_mask"],
                     max_new_tokens=256,
                     pad_token_id=tokenizer1.eos_token_id
                )
 
           response = tokenizer1.decode(output_ids[0], skip_special_tokens=True)
-          response_text = response[len(instructions[i]):].strip()
+          response_text = response[len(prompt):].strip()
 
-          accepted = verify_output(model2, tokenizer2, instructions[i], response_text)
+          accepted, validation_result = verify_output(model2, tokenizer2, prompt, response_text)
           if accepted:
                break
           else:
                print(f"[Retry] Model 2 rejected result at index {i}, attempt {attempt + 1}")
-     
+
      print(response_text)
 
      results.append({
-          "id": ids[i],
+          "id": data[i]["id"],
           "outputs": response_text
      })
 
