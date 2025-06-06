@@ -1,0 +1,3190 @@
+[
+  {
+    "id": 351,
+    "spans": "[{\"TIME\": \"afternoon\"}, {\"DATE\": \"Wednesdays\"}, {\"PERSONALNAME\": \"Amelia\"}, {\"TIME\": \"nine o'clock\"}, {\"DATE\": \"Wednesday\"}]"
+  },
+  {
+    "id": 354,
+    "spans": "[]"
+  },
+  {
+    "id": 367,
+    "spans": "[{\"TIME\": \"Friday night\"}, {\"DURATION\": \"a very short time\"}]"
+  },
+  {
+    "id": 391,
+    "spans": "[{\"COUNTY\": \"Chessire\"}]"
+  },
+  {
+    "id": 410,
+    "spans": "[{\"DOCTOR\": \"Janice\"}, {\"DURATION\": \"a couple of weeks\"}]"
+  },
+  {
+    "id": 3252,
+    "spans": "[{\"FAMILYNAME\": \"Tanya\"}]"
+  },
+  {
+    "id": 3254,
+    "spans": "[{\"DOCTOR\": \"McNally\"}, {\"DATE\": \"now\"}, {\"DATE\": \"yesterday\"}]"
+  },
+  {
+    "id": 3335,
+    "spans": "[{\"DATE\": \"this week\"}, {\"DURATION\": \"this weekend\"}]"
+  },
+  {
+    "id": 3347,
+    "spans": "[{\"DATE\": \"Monday\"}, {\"DURATION\": \"week\"}, {\"DURATION\": \"week\"}, {\"SET\": \"a couple hours\"}, {\"SET\": \"a week\"}, {\"PERSONALNAME\": \"Sydney\"}, {\"DURATION\": \"day\"}]"
+  },
+  {
+    "id": 3373,
+    "spans": "[]"
+  },
+  {
+    "id": 3387,
+    "spans": "[{\"DURATION\": \"a day\"}, {\"FAMILYNAME\": \"Tanya\"}]"
+  },
+  {
+    "id": 3394,
+    "spans": "[]"
+  },
+  {
+    "id": 3444,
+    "spans": "[]"
+  },
+  {
+    "id": 3446,
+    "spans": "[]"
+  },
+  {
+    "id": 3453,
+    "spans": "[{\"STATE\": \"Oregon\"}, {\"PERSONALNAME\": \"Amelia\"}]"
+  },
+  {
+    "id": 3518,
+    "spans": "[{\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 3522,
+    "spans": "[]"
+  },
+  {
+    "id": 3571,
+    "spans": "[{\"FAMILYNAME\": \"Lucille\"}, {\"PERSONALNAME\": \"Ian\"}]"
+  },
+  {
+    "id": 3599,
+    "spans": "[{\"DATE\": \"last week\"}, {\"FAMILYNAME\": \"Tanya\"}, {\"DURATION\": \"this weekend\"}]"
+  },
+  {
+    "id": 3604,
+    "spans": "[{\"DATE\": \"yesterday\"}]"
+  },
+  {
+    "id": 3611,
+    "spans": "[{\"DURATION\": \"10 minutes\"}]"
+  },
+  {
+    "id": 3662,
+    "spans": "[{\"DOCTOR\": \"Farrow\"}, {\"DATE\": \"today\"}]"
+  },
+  {
+    "id": 3675,
+    "spans": "[]"
+  },
+  {
+    "id": 3679,
+    "spans": "[{\"DURATION\": \"several months\"}, {\"PERSONALNAME\": \"Sydney\"}, {\"DURATION\": \"several months\"}]"
+  },
+  {
+    "id": 3688,
+    "spans": "[{\"SET\": \"twice a week\"}, {\"SET\": \"once a week\"}]"
+  },
+  {
+    "id": 3709,
+    "spans": "[]"
+  },
+  {
+    "id": 3723,
+    "spans": "[{\"DATE\": \"it today\"}]"
+  },
+  {
+    "id": 3746,
+    "spans": "[{\"PERSONALNAME\": \"Jonas\"}, {\"PERSONALNAME\": \"Corey\"}, {\"DATE\": \"day before\"}]"
+  },
+  {
+    "id": 3769,
+    "spans": "[{\"FAMILYNAME\": \"Ivan\"}]"
+  },
+  {
+    "id": 3801,
+    "spans": "[]"
+  },
+  {
+    "id": 3803,
+    "spans": "[]"
+  },
+  {
+    "id": 3873,
+    "spans": "[{\"STATE\": \"Delaware\"}]"
+  },
+  {
+    "id": 3875,
+    "spans": "[{\"DATE\": \"now\"}, {\"DATE\": \"winter\"}, {\"DATE\": \"winter\"}]"
+  },
+  {
+    "id": 3896,
+    "spans": "]"
+  },
+  {
+    "id": 3903,
+    "spans": "[{\"DURATION\": \"a few minutes\"}]"
+  },
+  {
+    "id": 3933,
+    "spans": "[]"
+  },
+  {
+    "id": 3963,
+    "spans": "[{\"DATE\": \"today\"}, {\"DATE\": \"1985\"}, {\"DATE\": \"2014\"}]"
+  },
+  {
+    "id": 3984,
+    "spans": "[]"
+  },
+  {
+    "id": 3985,
+    "spans": "[]"
+  },
+  {
+    "id": 4013,
+    "spans": "[]"
+  },
+  {
+    "id": 4028,
+    "spans": "[{\"DATE\": \"that day\"}, {\"SET\": \"one a week\"}]"
+  },
+  {
+    "id": 4054,
+    "spans": "[]"
+  },
+  {
+    "id": 4076,
+    "spans": "[]"
+  },
+  {
+    "id": 4086,
+    "spans": "[{\"FAMILYNAME\": \"Elaina\"}, {\"DURATION\": \"days\"}]"
+  },
+  {
+    "id": 4113,
+    "spans": "[{\"DURATION\": \"midday\"}, {\"DURATION\": \"late day\"}, {\"DATE\": \"Saturday\"}, {\"DURATION\": \"a good two-and-a-half hours\"}, {\"DATE\": \"Saturday\"}, {\"DATE\": \"Saturday\"}, {\"DATE\": \"yesterday\"}]"
+  },
+  {
+    "id": 4203,
+    "spans": "[{\"FAMILYNAME\": \"Emma\"}, {\"SET\": \"40 hours a week\"}]"
+  },
+  {
+    "id": 4214,
+    "spans": "[{\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 4216,
+    "spans": "[]"
+  },
+  {
+    "id": 4263,
+    "spans": "[]"
+  },
+  {
+    "id": 4266,
+    "spans": "[{\"PERSONALNAME\": \"Jamie\"}, {\"DATE\": \"other day\"}]"
+  },
+  {
+    "id": 4270,
+    "spans": "[{\"DURATION\": \"a while\"}, {\"DURATION\": \"30 seconds\"}]"
+  },
+  {
+    "id": 4278,
+    "spans": "[{\"DURATION\": \"few minutes\"}]"
+  },
+  {
+    "id": 4284,
+    "spans": "[{\"DURATION\": \"Long day\"}, {\"DATE\": \"Thursdays\"}]"
+  },
+  {
+    "id": 4341,
+    "spans": "[]"
+  },
+  {
+    "id": 4348,
+    "spans": "[{\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 4363,
+    "spans": "[{\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 32507,
+    "spans": "[{\"DATE\": \"19th\"}, {\"DURATION\": \"two weeks\"}, {\"DURATION\": \"two weeks\"}, {\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 32525,
+    "spans": "[{\"PERSONALNAME\": \"Dave\"}, {\"DURATION\": \"less than an hour\"}, {\"TIME\": \"that night\"}, {\"TIME\": \"five\"}]"
+  },
+  {
+    "id": 32527,
+    "spans": "[]"
+  },
+  {
+    "id": 32565,
+    "spans": "[]"
+  },
+  {
+    "id": 32572,
+    "spans": "[{\"FAMILYNAME\": \"James\"}, {\"FAMILYNAME\": \"James\"}]"
+  },
+  {
+    "id": 32582,
+    "spans": "[{\"DOCTOR\": \"Dad\"}, {\"CITY\": \"LA\"}]"
+  },
+  {
+    "id": 32584,
+    "spans": "[{\"DATE\": \"today\"}, {\"DATE\": \"yesterday\"}, {\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 32599,
+    "spans": "[]"
+  },
+  {
+    "id": 32613,
+    "spans": "[]"
+  },
+  {
+    "id": 32623,
+    "spans": "[]"
+  },
+  {
+    "id": 32624,
+    "spans": "[]"
+  },
+  {
+    "id": 32647,
+    "spans": "[{\"DURATION\": \"last few weeks\"}]"
+  },
+  {
+    "id": 32676,
+    "spans": "[]"
+  },
+  {
+    "id": 32708,
+    "spans": "[]"
+  },
+  {
+    "id": 32728,
+    "spans": "[{\"FAMILYNAME\": \"James\"}, {\"DURATION\": \"15 minutes\"}]"
+  },
+  {
+    "id": 32754,
+    "spans": "[]"
+  },
+  {
+    "id": 32764,
+    "spans": "[{\"CITY\": \"Frederick\"}]"
+  },
+  {
+    "id": 32797,
+    "spans": "[{\"PERSONALNAME\": \"Kelly\"}]"
+  },
+  {
+    "id": 32801,
+    "spans": "{\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 32851,
+    "spans": "[{\"PERSONALNAME\": \"Joanne\"}, {\"PROFESSION\": \"interpreter\"}]"
+  },
+  {
+    "id": 32874,
+    "spans": "[{\"PERSONALNAME\": \"Jessa\"}, {\"LOCATION-OTHER\": \"Brooklyn Bridge\"}]"
+  },
+  {
+    "id": 32907,
+    "spans": "[{\"TIME\": \"Sunday morning\"}, {\"PERSONALNAME\": \"Mosbie\"}]"
+  },
+  {
+    "id": 32912,
+    "spans": "[{\"DURATION\": \"a week\"}, {\"TIME\": \"afternoon\"}, {\"DATE\": \"today\"}]"
+  },
+  {
+    "id": 32918,
+    "spans": "[]"
+  },
+  {
+    "id": 32921,
+    "spans": "[{\"CITY\": \"Sydney\"}, {\"DRUG\": \"Ambien\"}, {\"DRUG\": \"Ambien\"}, {\"TIME\": \"night\"}, {\"DRUG\": \"Ambien\"}]"
+  },
+  {
+    "id": 32925,
+    "spans": "[]"
+  },
+  {
+    "id": 32968,
+    "spans": "[{\"DURATION\": \"a second\"}]"
+  },
+  {
+    "id": 32972,
+    "spans": "[]"
+  },
+  {
+    "id": 33006,
+    "spans": "[]"
+  },
+  {
+    "id": 33018,
+    "spans": "[{\"FAMILYNAME\": \"Ivan\"}, {\"DATE\": \"a year from now\"}, {\"DATE\": \"a year\"}]"
+  },
+  {
+    "id": 33174,
+    "spans": "[]"
+  },
+  {
+    "id": 33233,
+    "spans": "[{\"DATE\": \"2005\"}]"
+  },
+  {
+    "id": 33239,
+    "spans": "[{\"PATIENT\": \"Jessa\"}]"
+  },
+  {
+    "id": 33240,
+    "spans": "[]"
+  },
+  {
+    "id": 33303,
+    "spans": "[{\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 33308,
+    "spans": "[{\"DOCTOR\": \"Debbie\"}]"
+  },
+  {
+    "id": 33312,
+    "spans": "[{\"SET\": \"all week\"}, {\"DURATION\": \"weekend\"}]"
+  },
+  {
+    "id": 33353,
+    "spans": "[]"
+  },
+  {
+    "id": 33371,
+    "spans": "[]"
+  },
+  {
+    "id": 33382,
+    "spans": "[{\"PATIENT\": \"Tyler\"}]"
+  },
+  {
+    "id": 33426,
+    "spans": "{\"DURATION\": \"in the past\"}]"
+  },
+  {
+    "id": 33427,
+    "spans": "[{\"DATE\": \"tomorrow\"}]"
+  },
+  {
+    "id": 33453,
+    "spans": "[{\"PERSONALNAME\": \"Tanya\"}]"
+  },
+  {
+    "id": 33464,
+    "spans": "[]"
+  },
+  {
+    "id": 33466,
+    "spans": "[{\"AGE\": \"35\"}, {\"AGE\": \"23\"}]"
+  },
+  {
+    "id": 33472,
+    "spans": "[]"
+  },
+  {
+    "id": 33545,
+    "spans": "[]"
+  },
+  {
+    "id": 33551,
+    "spans": "[{\"PATIENT\": \"Jessa\"}, {\"PERSONALNAME\": \"Debbie\"}, {\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 33568,
+    "spans": "[{\"TIME\": \"noon\"}]"
+  },
+  {
+    "id": 33570,
+    "spans": "[]"
+  },
+  {
+    "id": 33580,
+    "spans": "[{\"PERSONALNAME\": \"Franco\"}, {\"DATE\": \"now\"}, {\"DURATION\": \"a month\"}, {\"DURATION\": \"a year or\"}]"
+  },
+  {
+    "id": 33622,
+    "spans": "[{\"FAMILYNAME\": \"Tanya\"}, {\"SET\": \"day to day\"}, {\"FAMILYNAME\": \"Tanya\"}]"
+  },
+  {
+    "id": 33663,
+    "spans": "[]"
+  },
+  {
+    "id": 33671,
+    "spans": "[{\"DURATION\": \"all week\"}, {\"DATE\": \"Saturday\"}]"
+  },
+  {
+    "id": 33680,
+    "spans": "[{\"DURATION\": \"weeks\"}, {\"TIME\": \"Friday night\"}, {\"DATE\": \"tomorrow\"}]"
+  },
+  {
+    "id": 33695,
+    "spans": "[{\"COUNTRY\": \"Ethiopian\"}, {\"COUNTRY\": \"Ethiopian\"}]"
+  },
+  {
+    "id": 33707,
+    "spans": "[{\"DATE\": \"winter\"}]"
+  },
+  {
+    "id": 33709,
+    "spans": "[{\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 33738,
+    "spans": "[]"
+  },
+  {
+    "id": 33747,
+    "spans": "[]"
+  },
+  {
+    "id": 33748,
+    "spans": "[]"
+  },
+  {
+    "id": 33753,
+    "spans": "[{\"DATE\": \"one of the two days\"}, {\"DATE\": \"week before\"}, {\"DATE\": \"last week\"}, {\"DURATION\": \"days\"}, {\"DURATION\": \"days\"}, {\"DURATION\": \"days\"}]"
+  },
+  {
+    "id": 33773,
+    "spans": ""
+  },
+  {
+    "id": 33792,
+    "spans": "[{\"DURATION\": \"a week\"}]"
+  },
+  {
+    "id": 33816,
+    "spans": "[{\"DURATION\": \"Couple of months\"}, {\"DURATION\": \"last four and a half weeks\"}, {\"PERSONALNAME\": \"Jack\"}, {\"PERSONALNAME\": \"Bill\"}, {\"PERSONALNAME\": \"Carl\"}, {\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 33835,
+    "spans": "[{\"DATE\": \"Monday\"}, {\"DATE\": \"22nd\"}, {\"TIME\": \"2:30\"}, {\"DATE\": \"Tuesday\"}, {\"DATE\": \"22nd\"}, {\"DATE\": \"Friday\"}, {\"DATE\": \"that week\"}, {\"DATE\": \"Friday\"}, {\"DATE\": \"19th\"}, {\"DATE\": \"Friday\"}, {\"DATE\": \"26th\"}, {\"DATE\": \"19th\"}]"
+  },
+  {
+    "id": 33859,
+    "spans": "[]"
+  },
+  {
+    "id": 33866,
+    "spans": "[{\"DATE\": \"now\"}, {\"DURATION\": \"much time\"}, {\"TIME\": \"morning\"}]"
+  },
+  {
+    "id": 33902,
+    "spans": "[]"
+  },
+  {
+    "id": 33956,
+    "spans": "[{\"DURATION\": \"15 minutes\"}, {\"ORGANIZATION\": \"Google\"}]"
+  },
+  {
+    "id": 33989,
+    "spans": "[{\"FAMILYNAME\": \"Tanya\"}]"
+  },
+  {
+    "id": 33990,
+    "spans": "[]"
+  },
+  {
+    "id": 34032,
+    "spans": "[]"
+  },
+  {
+    "id": 34033,
+    "spans": "[]"
+  },
+  {
+    "id": 34074,
+    "spans": "[{\"AGE\": \"36\"}, {\"AGE\": \"12\"}, {\"AGE\": \"13\"}]"
+  },
+  {
+    "id": 34130,
+    "spans": "[]"
+  },
+  {
+    "id": 34131,
+    "spans": "[]"
+  },
+  {
+    "id": 34137,
+    "spans": "[]"
+  },
+  {
+    "id": 34151,
+    "spans": "[]"
+  },
+  {
+    "id": 34173,
+    "spans": "[{\"DATE\": \"now\"}, {\"DATE\": \"first week\"}]"
+  },
+  {
+    "id": 34200,
+    "spans": ""
+  },
+  {
+    "id": 34218,
+    "spans": "[]"
+  },
+  {
+    "id": 34252,
+    "spans": "[{\"STATE\": \"RA\"}, {\"STATE\": \"RA\"}, {\"STATE\": \"RI\"}, {\"STATE\": \"RI\"}]"
+  },
+  {
+    "id": 34305,
+    "spans": "[{\"FAMILYNAME\": \"Ivan\"}]"
+  },
+  {
+    "id": 34353,
+    "spans": "[]"
+  },
+  {
+    "id": 34380,
+    "spans": "[{\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 34413,
+    "spans": "[{\"DATE\": \"Saturday\"}, {\"DATE\": \"mid-20th century\"}]"
+  },
+  {
+    "id": 34417,
+    "spans": "{\"PERSONALNAME\": \"God\"}, {\"PERSONALNAME\": \"God\"}, {\"DATE\": \"one day\"}, {\"DATE\": \"one day\"}]"
+  },
+  {
+    "id": 34461,
+    "spans": "[{\"DURATION\": \"an hour\"}]"
+  },
+  {
+    "id": 34506,
+    "spans": "[]"
+  },
+  {
+    "id": 34535,
+    "spans": "[]"
+  },
+  {
+    "id": 34566,
+    "spans": "[{\"DATE\": \"next week\"}]"
+  },
+  {
+    "id": 34585,
+    "spans": "[{\"DATE\": \"now\"}, {\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 34625,
+    "spans": "[{\"TIME\": \"two\"}, {\"TIME\": \"three\"}, {\"TIME\": \"three\"}, {\"TIME\": \"morning\"}, {\"SET\": \"two\"}, {\"SET\": \"three\"}, {\"DURATION\": \"seven\"}, {\"DURATION\": \"eight\"}]"
+  },
+  {
+    "id": 34634,
+    "spans": "[]"
+  },
+  {
+    "id": 34645,
+    "spans": "[]"
+  },
+  {
+    "id": 34655,
+    "spans": "[]"
+  },
+  {
+    "id": 34727,
+    "spans": "[]"
+  },
+  {
+    "id": 34736,
+    "spans": "[{\"DATE\": \"following weekend\"}, {\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 34744,
+    "spans": "[]"
+  },
+  {
+    "id": 34804,
+    "spans": "[{\"DATE\": \"August 30th\"}, {\"DURATION\": \"six days\"}, {\"PERSONALNAME\": \"Lee\"}, {\"DURATION\": \"day to\"}, {\"DATE\": \"a September 2nd\"}]"
+  },
+  {
+    "id": 34829,
+    "spans": "[]"
+  },
+  {
+    "id": 34855,
+    "spans": "[]"
+  },
+  {
+    "id": 34867,
+    "spans": "[{\"FAMILYNAME\": \"James\"}, {\"TIME\": \"night\"}]"
+  },
+  {
+    "id": 34923,
+    "spans": "[{\"DURATION\": \"a long time\"}]"
+  },
+  {
+    "id": 34926,
+    "spans": "[]"
+  },
+  {
+    "id": 34928,
+    "spans": "[]"
+  },
+  {
+    "id": 34934,
+    "spans": "[]"
+  },
+  {
+    "id": 35001,
+    "spans": "[{\"CITY\": \"Sydney\"}, {\"LOCATION-OTHER\": \"New Haven\"}, {\"DOCTOR\": \"Barnes\"}]"
+  },
+  {
+    "id": 35035,
+    "spans": "[]"
+  },
+  {
+    "id": 35048,
+    "spans": "[{\"DURATION\": \"number of months\"}]"
+  },
+  {
+    "id": 35071,
+    "spans": "[]"
+  },
+  {
+    "id": 35108,
+    "spans": "[{\"DOCTOR\": \"Kevin\"}, {\"DURATION\": \"five or six years\"}]"
+  },
+  {
+    "id": 35109,
+    "spans": "[{\"FAMILYNAME\": \"Ian\"}]"
+  },
+  {
+    "id": 35152,
+    "spans": "[]"
+  },
+  {
+    "id": 35173,
+    "spans": "PERSONALNAME\": \"Susan\"}, {\"PERSONALNAME\": \"Sydney\"}]"
+  },
+  {
+    "id": 35203,
+    "spans": "{\"DATE\": \"last week\"}]"
+  },
+  {
+    "id": 35207,
+    "spans": "[{\"FAMILYNAME\": \"James\"}, {\"FAMILYNAME\": \"James\"}]"
+  },
+  {
+    "id": 35239,
+    "spans": "[{\"DATE\": \"first week of January\"}, {\"DATE\": \"next week\"}, {\"DATE\": \"Monday\"}, {\"DATE\": \"Tuesday\"}, {\"DATE\": \"Thursday\"}, {\"DATE\": \"second\"}, {\"TIME\": \"12:45\"}, {\"DATE\": \"next week\"}, {\"DATE\": \"following week\"}, {\"DATE\": \"first\"}, {\"DATE\": \"second\"}, {\"TIME\": \"12:45\"}]"
+  },
+  {
+    "id": 35258,
+    "spans": "[{\"DATE\": \"last week\"}, {\"TIME\": \"Wednesday night\"}, {\"DATE\": \"Thursday\"}, {\"DATE\": \"Friday\"}, {\"DURATION\": \"day\"}, {\"DATE\": \"one day\"}, {\"TIME\": \"Saturday night\"}, {\"DATE\": \"Sunday\"}, {\"TIME\": \"Thursday night\"}, {\"TIME\": \"Saturday night\"}, {\"TIME\": \"Sunday night\"}]"
+  },
+  {
+    "id": 35268,
+    "spans": "[{\"DURATION\": \"last couple of weeks\"}]"
+  },
+  {
+    "id": 35281,
+    "spans": "[]"
+  },
+  {
+    "id": 35286,
+    "spans": "[{\"SET\": \"every day\"}, {\"TIME\": \"five o'clock\"}, {\"DURATION\": \"five minutes\"}]"
+  },
+  {
+    "id": 35299,
+    "spans": "[{\"TV\": \"TV\"}]"
+  },
+  {
+    "id": 35335,
+    "spans": "[]"
+  },
+  {
+    "id": 35352,
+    "spans": "[{\"FAMILYNAME\": \"Joe\"}, {\"FAMILYNAME\": \"Joe\"}]"
+  },
+  {
+    "id": 35370,
+    "spans": "[{\"DURATION\": \"weeks\"}, {\"DURATION\": \"a week\"}, {\"DURATION\": \"a week and a half\"}, {\"DURATION\": \"two weeks\"}, {\"TIME\": \"that night\"}]"
+  },
+  {
+    "id": 35382,
+    "spans": "[{\"TIME\": \"nine 10\"}, {\"DATE\": \"Thursday\"}, {\"DATE\": \"next week\"}]"
+  },
+  {
+    "id": 35391,
+    "spans": "[]"
+  },
+  {
+    "id": 35398,
+    "spans": "{\"ORGANIZATION\": \"Orizia\"}]"
+  },
+  {
+    "id": 35441,
+    "spans": "[]"
+  },
+  {
+    "id": 35449,
+    "spans": "[]"
+  },
+  {
+    "id": 35482,
+    "spans": "[{\"TIME\": \"Sunday evening\"}]"
+  },
+  {
+    "id": 35485,
+    "spans": "[{\"DATE\": \"yesterday\"}, {\"DATE\": \"today\"}]"
+  },
+  {
+    "id": 35492,
+    "spans": "SET\": \"once\"}, {\"SET\": \"twice a week\"}, {\"SET\": \"every couple of weeks\"}]"
+  },
+  {
+    "id": 35522,
+    "spans": "[{\"SET\": \"two days a week\"}, {\"DURATION\": \"amount of time\"}, {\"CITY\": \"Chicago\"}, {\"DURATION\": \"this weekend\"}]"
+  },
+  {
+    "id": 35537,
+    "spans": "[]"
+  },
+  {
+    "id": 35571,
+    "spans": "[{\"DURATION\": \"day\"}]"
+  },
+  {
+    "id": 35592,
+    "spans": "[{\"TIME\": \"this afternoon\"}]"
+  },
+  {
+    "id": 35612,
+    "spans": "[]"
+  },
+  {
+    "id": 35651,
+    "spans": "[]"
+  },
+  {
+    "id": 35652,
+    "spans": "[{\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 35693,
+    "spans": "[{\"DURATION\": \"35 years\"}]"
+  },
+  {
+    "id": 35705,
+    "spans": "[{\"PATIENT\": \"Ramona\"}]"
+  },
+  {
+    "id": 35712,
+    "spans": "[]"
+  },
+  {
+    "id": 35744,
+    "spans": "[]"
+  },
+  {
+    "id": 35747,
+    "spans": "[{\"TIME\": \"this morning\"}, {\"DATE\": \"now\"}, {\"DATE\": \"today\"}]"
+  },
+  {
+    "id": 35799,
+    "spans": "[{\"COUNTRY\": \"country\"}]"
+  },
+  {
+    "id": 35841,
+    "spans": "[{\"DURATION\": \"a day\"}, {\"SET\": \"once a day\"}]"
+  },
+  {
+    "id": 35858,
+    "spans": "[]"
+  },
+  {
+    "id": 35866,
+    "spans": "[{\"DURATION\": \"throughout the year\"}]"
+  },
+  {
+    "id": 35876,
+    "spans": "[]"
+  },
+  {
+    "id": 35881,
+    "spans": "[]"
+  },
+  {
+    "id": 35954,
+    "spans": "[{\"FAMILYNAME\": \"James\"}]"
+  },
+  {
+    "id": 35972,
+    "spans": "[]"
+  },
+  {
+    "id": 35991,
+    "spans": "[{\"DURATION\": \"six years\"}]"
+  },
+  {
+    "id": 36004,
+    "spans": "[{\"DURATION\": \"a while\"}, {\"CONTINENT\": \"Africa\"}]"
+  },
+  {
+    "id": 36032,
+    "spans": "[{\"DURATION\": \"a day\"}]"
+  },
+  {
+    "id": 36036,
+    "spans": "[]"
+  },
+  {
+    "id": 36062,
+    "spans": "[]"
+  },
+  {
+    "id": 36070,
+    "spans": "[{\"PERSONALNAME\": \"Wanda\"}, {\"DURATION\": \"a couple of hours\"}, {\"DURATION\": \"all weekend\"}]"
+  },
+  {
+    "id": 36096,
+    "spans": "[{\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 36098,
+    "spans": "[{\"PERSONALNAME\": \"Yvonne\"}, {\"TIME\": \"nights\"}, {\"PERSONALNAME\": \"Madison\"}, {\"TIME\": \"nights\"}]"
+  },
+  {
+    "id": 36118,
+    "spans": "[{\"DATE\": \"now\"}, {\"DATE\": \"a second day\"}, {\"AGE\": \"19\"}]"
+  },
+  {
+    "id": 36127,
+    "spans": "[{\"CITY\": \"Sydney\"}]"
+  },
+  {
+    "id": 36157,
+    "spans": "[{\"DATE\": \"today\"}, {\"DATE\": \"today\"}]"
+  },
+  {
+    "id": 36158,
+    "spans": "[{\"PERSONALNAME\": \"Ian\"}, {\"SET\": \"every year\"}]"
+  },
+  {
+    "id": 36162,
+    "spans": "[]"
+  },
+  {
+    "id": 36166,
+    "spans": "[{\"DURATION\": \"a long time\"}]"
+  },
+  {
+    "id": 36169,
+    "spans": "[{\"DATE\": \"today\"}, {\"DATE\": \"tomorrow\"}]"
+  },
+  {
+    "id": 36188,
+    "spans": "[{\"DATE\": \"Halloween\"}]"
+  },
+  {
+    "id": 36211,
+    "spans": "[]"
+  },
+  {
+    "id": 36214,
+    "spans": "[{\"DATE\": \"winter\"}, {\"DURATION\": \"next few days\"}, {\"DURATION\": \"next few days\"}, {\"DATE\": \"tomorrow\"}]"
+  },
+  {
+    "id": 36269,
+    "spans": "[{\"FAMILYNAME\": \"Ivan\"}, {\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 36325,
+    "spans": "[{\"DATE\": \"tomorrow\"}, {\"DATE\": \"Tuesday\"}]"
+  },
+  {
+    "id": 36336,
+    "spans": "[]"
+  },
+  {
+    "id": 36357,
+    "spans": "[{\"COUNTY\": \"Chesire\"}]"
+  },
+  {
+    "id": 36394,
+    "spans": "[{\"DURATION\": \"a couple of years\"}]"
+  },
+  {
+    "id": 36448,
+    "spans": "[{\"DURATION\": \"last several years\"}]"
+  },
+  {
+    "id": 36511,
+    "spans": "[]"
+  },
+  {
+    "id": 36538,
+    "spans": "[]"
+  },
+  {
+    "id": 36539,
+    "spans": "[{\"DURATION\": \"week\"}, {\"DATE\": \"this coming week\"}]"
+  },
+  {
+    "id": 36610,
+    "spans": "[{\"FAMILYNAME\": \"James\"}]"
+  },
+  {
+    "id": 36637,
+    "spans": "[]"
+  },
+  {
+    "id": 36643,
+    "spans": "{\"PERSONALNAME\": \"Jess\"}, {\"PERSONALNAME\": \"Ian\"}, {\"PERSONALNAME\": \"Ian\"}, {\"TIME\": \"Sunday night\"}]"
+  },
+  {
+    "id": 36687,
+    "spans": "[{\"FAMILYNAME\": \"Mark\"}]"
+  },
+  {
+    "id": 36698,
+    "spans": "[{\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 36702,
+    "spans": "[{\"DURATION\": \"a few weeks\"}, {\"TIME\": \"tonight\"}]"
+  },
+  {
+    "id": 36717,
+    "spans": "[]"
+  },
+  {
+    "id": 36723,
+    "spans": "[]"
+  },
+  {
+    "id": 36728,
+    "spans": "[]"
+  },
+  {
+    "id": 36734,
+    "spans": ""
+  },
+  {
+    "id": 36743,
+    "spans": "]"
+  },
+  {
+    "id": 36745,
+    "spans": "[{\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 36746,
+    "spans": "[{\"DURATION\": \"this whole week\"}]"
+  },
+  {
+    "id": 36755,
+    "spans": "[]"
+  },
+  {
+    "id": 36786,
+    "spans": "[]"
+  },
+  {
+    "id": 36848,
+    "spans": "[{\"PATIENT\": \"Audrey\"}, {\"PATIENT\": \"Audrey\"}, {\"FAMILYNAME\": \"Libby\"}]"
+  },
+  {
+    "id": 36894,
+    "spans": "[]"
+  },
+  {
+    "id": 36897,
+    "spans": "[{\"DURATION\": \"a couple of nights\"}]"
+  },
+  {
+    "id": 36925,
+    "spans": "[]"
+  },
+  {
+    "id": 36926,
+    "spans": "[{\"DURATION\": \"a moment\"}]"
+  },
+  {
+    "id": 36943,
+    "spans": "[]"
+  },
+  {
+    "id": 36952,
+    "spans": "[]"
+  },
+  {
+    "id": 36992,
+    "spans": "[{\"DEPARTMENT\": \"Psychological Medicine\"}, {\"PATIENT\": \"Taylor\"}, {\"DOCTOR\": \"White\"}, {\"DATE\": \"today\"}, {\"DATE\": \"today\"}]"
+  },
+  {
+    "id": 37013,
+    "spans": "[]"
+  },
+  {
+    "id": 37017,
+    "spans": "[]"
+  },
+  {
+    "id": 37025,
+    "spans": "[{\"TIME\": \"Friday night\"}, {\"TIME\": \"Friday night\"}]"
+  },
+  {
+    "id": 37034,
+    "spans": "[{\"TIME\": \"430am\"}, {\"ORGANIZATION\": \"Starbucks\"}, {\"DURATION\": \"a 10 minute\"}]"
+  },
+  {
+    "id": 37073,
+    "spans": "[{\"DATE\": \"Easter\"}]"
+  },
+  {
+    "id": 37083,
+    "spans": "[]"
+  },
+  {
+    "id": 37099,
+    "spans": "[{\"FAMILYNAME\": \"Philip\"}, {\"FAMILYNAME\": \"Aimee\"}, {\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 37132,
+    "spans": "[]"
+  },
+  {
+    "id": 37143,
+    "spans": "[{\"DURATION\": \"a month\"}, {\"DURATION\": \"one month\"}]"
+  },
+  {
+    "id": 37177,
+    "spans": "[{\"PERSONALNAME\": \"Kelly\"}, {\"PERSONALNAME\": \"Bethany\"}]"
+  },
+  {
+    "id": 37187,
+    "spans": "[{\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 37243,
+    "spans": "[{\"DURATION\": \"years\"}, {\"DATE\": \"now\"}, {\"AGE\": \"28\"}, {\"DURATION\": \"five hours\"}, {\"TIME\": \"night\"}, {\"TIME\": \"night\"}, {\"DURATION\": \"last few months\"}]"
+  },
+  {
+    "id": 37295,
+    "spans": "[{\"FAMILYNAME\": \"Jess\"}]"
+  },
+  {
+    "id": 37311,
+    "spans": "[]"
+  },
+  {
+    "id": 37362,
+    "spans": "]"
+  },
+  {
+    "id": 37377,
+    "spans": "[]"
+  },
+  {
+    "id": 37387,
+    "spans": "{\"DURATION\": \"so long\"}]"
+  },
+  {
+    "id": 37404,
+    "spans": "[]"
+  },
+  {
+    "id": 37444,
+    "spans": "[{\"DATE\": \"now\"}, {\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 37481,
+    "spans": "[{\"DATE\": \"now\"}, {\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 37529,
+    "spans": "[{\"DATE\": \"now\"}, {\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 37531,
+    "spans": "[]"
+  },
+  {
+    "id": 37632,
+    "spans": "[{\"FAMILYNAME\": \"Ivan\"}, {\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 37672,
+    "spans": "[]"
+  },
+  {
+    "id": 37693,
+    "spans": "[]"
+  },
+  {
+    "id": 37724,
+    "spans": "[{\"AGE\": \"20s\"}]"
+  },
+  {
+    "id": 37728,
+    "spans": "[]"
+  },
+  {
+    "id": 37750,
+    "spans": "[{\"DOCTOR\": \"Farrow\"}]"
+  },
+  {
+    "id": 37754,
+    "spans": "[{\"FAMILYNAME\": \"Tanya\"}]"
+  },
+  {
+    "id": 37756,
+    "spans": "[{\"PERSONALNAME\": \"Carl\"}, {\"PERSONALNAME\": \"Chet\"}, {\"DATE\": \"today\"}, {\"PROFESSION\": \"postdoc\"}]"
+  },
+  {
+    "id": 37769,
+    "spans": "[{\"CITY\": \"Boston\"}, {\"CITY\": \"LA\"}]"
+  },
+  {
+    "id": 37802,
+    "spans": "[{\"PERSONALNAME\": \"Riley\"}, {\"PROFESSION\": \"lawyers\"}]"
+  },
+  {
+    "id": 37807,
+    "spans": "[]"
+  },
+  {
+    "id": 37826,
+    "spans": "[{\"FAMILYNAME\": \"Emma\"}]"
+  },
+  {
+    "id": 37829,
+    "spans": "[{\"DATE\": \"Sunday\"}]"
+  },
+  {
+    "id": 37870,
+    "spans": "[]"
+  },
+  {
+    "id": 37883,
+    "spans": "[{\"PERSONALNAME\": \"Sydney\"}]"
+  },
+  {
+    "id": 37902,
+    "spans": "[{\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 37909,
+    "spans": "[{\"DOCTOR\": \"Farrow\"}, {\"PATIENT\": \"Ivan\"}]"
+  },
+  {
+    "id": 37922,
+    "spans": "[{\"FAMILYNAME\": \"Ian\"}]"
+  },
+  {
+    "id": 37924,
+    "spans": "[]"
+  },
+  {
+    "id": 37945,
+    "spans": "]"
+  },
+  {
+    "id": 38016,
+    "spans": "[]"
+  },
+  {
+    "id": 38040,
+    "spans": "[{\"DOCTOR\": \"Yep\"}]"
+  },
+  {
+    "id": 38066,
+    "spans": "[{\"DURATION\": \"all night\"}]"
+  },
+  {
+    "id": 38067,
+    "spans": "[{\"PROFESSION\": \"manager\"}, {\"ORGANIZATION\": \"Subway\"}]"
+  },
+  {
+    "id": 38082,
+    "spans": "[]"
+  },
+  {
+    "id": 38087,
+    "spans": "[]"
+  },
+  {
+    "id": 38111,
+    "spans": "[]"
+  },
+  {
+    "id": 38122,
+    "spans": "[]"
+  },
+  {
+    "id": 38125,
+    "spans": "[]"
+  },
+  {
+    "id": 38141,
+    "spans": "[]"
+  },
+  {
+    "id": 38151,
+    "spans": "[]"
+  },
+  {
+    "id": 38179,
+    "spans": "[]"
+  },
+  {
+    "id": 38183,
+    "spans": "[{\"TIME\": \"last night\"}, {\"TIME\": \"midnight\"}, {\"TIME\": \"nighttime\"}, {\"DURATION\": \"another hour\"}]"
+  },
+  {
+    "id": 38191,
+    "spans": "TIME\": \"morning\"}]"
+  },
+  {
+    "id": 38207,
+    "spans": "[{\"DURATION\": \"in the past\"}]"
+  },
+  {
+    "id": 38214,
+    "spans": "[{\"DATE\": \"next summer\"}, {\"DATE\": \"tomorrow\"}]"
+  },
+  {
+    "id": 38217,
+    "spans": "[{\"DOCTOR\": \"Bond\"}, {\"DURATION\": \"a week\"}]"
+  },
+  {
+    "id": 38244,
+    "spans": "ATION\": \"this past week\"}, {\"DATE\": \"Sunday\"}, {\"DATE\": \"Monday\"}, {\"DATE\": \"now\"}, {\"DURATION\": \"two weeks\"}]"
+  },
+  {
+    "id": 38255,
+    "spans": "[{\"DATE\": \"in the past\"}]"
+  },
+  {
+    "id": 38256,
+    "spans": "[{\"DATE\": \"last Tuesday\"}, {\"DATE\": \"last Tuesday\"}]"
+  },
+  {
+    "id": 38276,
+    "spans": "[{\"DURATION\": \"this week\"}, {\"DURATION\": \"couple months\"}]"
+  },
+  {
+    "id": 38288,
+    "spans": "[]"
+  },
+  {
+    "id": 38290,
+    "spans": "[]"
+  },
+  {
+    "id": 38330,
+    "spans": "[]"
+  },
+  {
+    "id": 38346,
+    "spans": "[{\"PATIENT\": \"Jessa\"}]"
+  },
+  {
+    "id": 38368,
+    "spans": "[]"
+  },
+  {
+    "id": 38403,
+    "spans": "[{\"DATE\": \"this week\"}, {\"TIME\": \"this morning\"}]"
+  },
+  {
+    "id": 38419,
+    "spans": "[{\"DATE\": \"last week\"}]"
+  },
+  {
+    "id": 38427,
+    "spans": "[{\"DATE\": \"Tuesday\"}, {\"DATE\": \"Tuesday\"}, {\"DATE\": \"29th\"}, {\"DURATION\": \"from today\"}, {\"DATE\": \"today\"}, {\"TIME\": \"that morning\"}, {\"DATE\": \"today\"}]"
+  },
+  {
+    "id": 38440,
+    "spans": "[{\"DURATION\": \"a month\"}, {\"DURATION\": \"a month and a half\"}]"
+  },
+  {
+    "id": 38446,
+    "spans": "[]"
+  },
+  {
+    "id": 38459,
+    "spans": "[]"
+  },
+  {
+    "id": 38497,
+    "spans": "[]"
+  },
+  {
+    "id": 38501,
+    "spans": "[]"
+  },
+  {
+    "id": 38509,
+    "spans": "{\"DATE\": \"yesterday\"}, {\"PERSONALNAME\": \"Jess\"}, {\"DURATION\": \"weekend\"}, {\"DURATION\": \"day\"}, {\"DURATION\": \"day\"}, {\"FAMILYNAME\": \"Ian\"}]"
+  },
+  {
+    "id": 38525,
+    "spans": "[{\"TIME\": \"evening\"}, {\"PATIENT\": \"Tanya\"}, {\"DATE\": \"tomorrow\"}]"
+  },
+  {
+    "id": 38531,
+    "spans": "[{\"DATE\": \"now\"}, {\"PERSONALNAME\": \"Chad\"}, {\"TIME\": \"afternoon\"}]"
+  },
+  {
+    "id": 38550,
+    "spans": "[{\"DATE\": \"now\"}, {\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 38560,
+    "spans": "[{\"DURATION\": \"three months\"}, {\"DATE\": \"day\"}]"
+  },
+  {
+    "id": 38566,
+    "spans": "[{\"PERSONALNAME\": \"Yvonne\"}, {\"PERSONALNAME\": \"Yvonne\"}, {\"DURATION\": \"three nights\"}, {\"PERSONALNAME\": \"Madison Pete\"}]"
+  },
+  {
+    "id": 38569,
+    "spans": "[]"
+  },
+  {
+    "id": 38592,
+    "spans": "[{\"TIME\": \"11:00\"}, {\"CITY\": \"Phoenix\"}]"
+  },
+  {
+    "id": 38603,
+    "spans": "[{\"DATE\": \"in the past\"}, {\"DATE\": \"Madison\"}, {\"TIME\": \"a minute\"}]"
+  },
+  {
+    "id": 38622,
+    "spans": "[{\"DATE\": \"Friday\"}]"
+  },
+  {
+    "id": 38675,
+    "spans": "{\"PERSONALNAME\": \"Jess\"}, {\"PERSONALNAME\": \"Ian\"}]"
+  },
+  {
+    "id": 38732,
+    "spans": "[]"
+  },
+  {
+    "id": 38771,
+    "spans": "[{\"PROFESSION\": \"manager\"}, {\"ORGANIZATION\": \"Subway\"}]"
+  },
+  {
+    "id": 38797,
+    "spans": "[]"
+  },
+  {
+    "id": 38814,
+    "spans": "[]"
+  },
+  {
+    "id": 38819,
+    "spans": "[{\"DURATION\": \"couple of days\"}, {\"DURATION\": \"couple of days\"}]"
+  },
+  {
+    "id": 38847,
+    "spans": "[]"
+  },
+  {
+    "id": 38873,
+    "spans": "[{\"DATE\": \"next Wednesday\"}, {\"DATE\": \"Wednesday\"}, {\"DATE\": \"January 1st\"}, {\"DATE\": \"January 1st\"}, {\"DATE\": \"Wednesdays\"}]"
+  },
+  {
+    "id": 38884,
+    "spans": "[{\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 38928,
+    "spans": "[]"
+  },
+  {
+    "id": 38936,
+    "spans": "[{\"DOCTOR\": \"Ivan\"}, {\"DOCTOR\": \"Board\"}, {\"FAMILYNAME\": \"Ivan\"}, {\"FAMILYNAME\": \"Ivan\"}, {\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 38937,
+    "spans": "[]"
+  },
+  {
+    "id": 38946,
+    "spans": ""
+  },
+  {
+    "id": 38954,
+    "spans": ""
+  },
+  {
+    "id": 38964,
+    "spans": "[{\"DURATION\": \"for a while\"}, {\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 38994,
+    "spans": "[]"
+  },
+  {
+    "id": 39023,
+    "spans": "[{\"DATE\": \"last week\"}, {\"FAMILYNAME\": \"Tanya\"}, {\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 39025,
+    "spans": "[{\"DOCTOR\": \"White\"}]"
+  },
+  {
+    "id": 39037,
+    "spans": "[]"
+  },
+  {
+    "id": 39040,
+    "spans": "[]"
+  },
+  {
+    "id": 39070,
+    "spans": "[{\"SET\": \"one application a week\"}, {\"SET\": \"one application a week\"}, {\"DATE\": \"last week\"}, {\"DATE\": \"last week\"}]"
+  },
+  {
+    "id": 39076,
+    "spans": "[{\"SET\": \"a couple of days a week\"}]"
+  },
+  {
+    "id": 39113,
+    "spans": "[]"
+  },
+  {
+    "id": 39145,
+    "spans": "[{\"TIME\": \"now\"}]"
+  },
+  {
+    "id": 39168,
+    "spans": "[{\"DATE\": \"now\"}, {\"DURATION\": \"past few days\"}]"
+  },
+  {
+    "id": 39177,
+    "spans": "]"
+  },
+  {
+    "id": 39178,
+    "spans": "[{\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 39217,
+    "spans": "[{\"TIME\": \"Saturday night\"}, {\"DATE\": \"Sunday\"}]"
+  },
+  {
+    "id": 39218,
+    "spans": "[{\"DURATION\": \"whole evening\"}]"
+  },
+  {
+    "id": 39224,
+    "spans": "[{\"PATIENT\": \"Yup\"}]"
+  },
+  {
+    "id": 39262,
+    "spans": "[]"
+  },
+  {
+    "id": 39274,
+    "spans": "[{\"DATE\": \"now\"}, {\"DATE\": \"this week\"}]"
+  },
+  {
+    "id": 39279,
+    "spans": "DOCTOR\": \"Carlton\"}, {\"DATE\": \"Monday\"}]"
+  },
+  {
+    "id": 39283,
+    "spans": "[{\"FAMILYNAME\": \"Ivan\"}]"
+  },
+  {
+    "id": 39321,
+    "spans": "[]"
+  },
+  {
+    "id": 39327,
+    "spans": "[{\"FAMILYNAME\": \"Ivan\"}]"
+  },
+  {
+    "id": 39359,
+    "spans": "[{\"DOCTOR\": \"Farrow\"}]"
+  },
+  {
+    "id": 39365,
+    "spans": "[]"
+  },
+  {
+    "id": 39390,
+    "spans": "[{\"PROFESSION\": \"work in other libraries\"}, {\"DURATION\": \"been a while\"}, {\"ORGANIZATION\": \"Divinity School Library\"}]"
+  },
+  {
+    "id": 39463,
+    "spans": "[{\"FAMILYNAME\": \"Ian\"}, {\"ORGANIZATION\": \"Cub Scouts\"}, {\"FAMILYNAME\": \"Ian\"}]"
+  },
+  {
+    "id": 39464,
+    "spans": "[{\"PERSONALNAME\": \"Marlowe\"}, {\"PERSONALNAME\": \"Vicki\"}]"
+  },
+  {
+    "id": 39480,
+    "spans": "[]"
+  },
+  {
+    "id": 39504,
+    "spans": "[{\"STATE\": \"Texas\"}, {\"DURATION\": \"four years\"}, {\"DURATION\": \"a couple of years\"}]"
+  },
+  {
+    "id": 39509,
+    "spans": "PERSONALNAME\": \"Camilla\"}, {\"DATE\": \"Sunday\"}, {\"LOCATION-OTHER\": \"Denver\"}]"
+  },
+  {
+    "id": 39542,
+    "spans": "[{\"DOCTOR\": \"Farrow\"}]"
+  },
+  {
+    "id": 39552,
+    "spans": "[]"
+  },
+  {
+    "id": 39571,
+    "spans": "[]"
+  },
+  {
+    "id": 39614,
+    "spans": "[{\"FAMILYNAME\": \"Ian\"}, {\"DATE\": \"now\"}, {\"DATE\": \"Tuesday next week\"}, {\"DATE\": \"Friday\"}, {\"DATE\": \"Next week\"}]"
+  },
+  {
+    "id": 39623,
+    "spans": "[{\"DATE\": \"today\"}, {\"PATIENT\": \"Jess\"}, {\"DATE\": \"today\"}, {\"DATE\": \"Friday\"}, {\"DATE\": \"next Wednesday\"}, {\"DATE\": \"day\"}]"
+  },
+  {
+    "id": 39635,
+    "spans": "[{\"DOCTOR\": \"James\"}]"
+  },
+  {
+    "id": 39649,
+    "spans": "[{\"DATE\": \"today\"}, {\"DATE\": \"tomorrow\"}]"
+  },
+  {
+    "id": 39663,
+    "spans": "[]"
+  },
+  {
+    "id": 39667,
+    "spans": "[{\"DATE\": \"tomorrow\"}, {\"TIME\": \"good\"}]"
+  },
+  {
+    "id": 39688,
+    "spans": "[{\"FAMILYNAME\": \"Josh\"}]"
+  },
+  {
+    "id": 39726,
+    "spans": "[]"
+  },
+  {
+    "id": 39744,
+    "spans": "[]"
+  },
+  {
+    "id": 39749,
+    "spans": "[]"
+  },
+  {
+    "id": 39784,
+    "spans": "[{\"DATE\": \"in the past\"}]"
+  },
+  {
+    "id": 39793,
+    "spans": "{\"FAMILYNAME\": \"Ian\"}]"
+  },
+  {
+    "id": 39802,
+    "spans": ""
+  },
+  {
+    "id": 39833,
+    "spans": "[{\"DOCTOR\": \"Barnes\"}]"
+  },
+  {
+    "id": 39912,
+    "spans": "[]"
+  },
+  {
+    "id": 39921,
+    "spans": "[]"
+  },
+  {
+    "id": 39927,
+    "spans": "[{\"DURATION\": \"hours\"}]"
+  },
+  {
+    "id": 39932,
+    "spans": "[{\"PERSONALNAME\": \"Sydney\"}, {\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 39964,
+    "spans": "[{\"DATE\": \"today\"}, {\"DATE\": \"next week\"}]"
+  },
+  {
+    "id": 39995,
+    "spans": "[]"
+  },
+  {
+    "id": 40030,
+    "spans": "[{\"DURATION\": \"in the past\"}, {\"DURATION\": \"in the past\"}, {\"DURATION\": \"in the past\"}]"
+  },
+  {
+    "id": 40041,
+    "spans": "[]"
+  },
+  {
+    "id": 40076,
+    "spans": "[{\"PERSONALNAME\": \"Sydney\"}]"
+  },
+  {
+    "id": 40091,
+    "spans": "[{\"PATIENT\": \"Christopher\"}]"
+  },
+  {
+    "id": 40092,
+    "spans": "[{\"DATE\": \"a year's Eve\"}, {\"DURATION\": \"week\"}]"
+  },
+  {
+    "id": 40100,
+    "spans": "[]"
+  },
+  {
+    "id": 40102,
+    "spans": "[{\"DATE\": \"last week\"}, {\"PERSONALNAME\": \"Tanya\"}, {\"PERSONALNAME\": \"Candice\"}, {\"PERSONALNAME\": \"Candice\"}, {\"PERSONALNAME\": \"Tanya\"}, {\"PERSONALNAME\": \"William\"}, {\"PERSONALNAME\": \"Mary\"}, {\"PERSONALNAME\": \"Tanya\"}]"
+  },
+  {
+    "id": 40125,
+    "spans": "[]"
+  },
+  {
+    "id": 40157,
+    "spans": "[]"
+  },
+  {
+    "id": 40189,
+    "spans": "[{\"DURATION\": \"a year\"}, {\"DURATION\": \"long time\"}, {\"SET\": \"twice a week\"}]"
+  },
+  {
+    "id": 40206,
+    "spans": "[{\"PERSONALNAME\": \"Sophie\"}, {\"FAMILYNAME\": \"Josh\"}, {\"DATE\": \"last year\"}]"
+  },
+  {
+    "id": 40211,
+    "spans": "[{\"DATE\": \"now\"}, {\"PATIENT\": \"Tanya\"}]"
+  },
+  {
+    "id": 40232,
+    "spans": "[{\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 40244,
+    "spans": "[{\"PERSONALNAME\": \"Marie\"}, {\"COUNTRY\": \"Madagascar\"}, {\"DURATION\": \"a month and a half\"}, {\"COUNTRY\": \"Madagascar\"}]"
+  },
+  {
+    "id": 40255,
+    "spans": "FAMILYNAME\": \"Tanya\"}]"
+  },
+  {
+    "id": 40285,
+    "spans": "[{\"ORGANIZATION\": \"Westin Convention Center\"}, {\"ORGANIZATION\": \"Westin\"}, {\"COUNTER\": \"3,000\"}, {\"ORGANIZATION\": \"Plaza\"}]"
+  },
+  {
+    "id": 40319,
+    "spans": "[{\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 40353,
+    "spans": "[]"
+  },
+  {
+    "id": 40370,
+    "spans": "[{\"TIME\": \"2:00 in the morning\"}, {\"FAMILYNAME\": \"Amanda\"}, {\"FAMILYNAME\": \"Tanya\"}]"
+  },
+  {
+    "id": 40395,
+    "spans": "[]"
+  },
+  {
+    "id": 40411,
+    "spans": "[]"
+  },
+  {
+    "id": 40417,
+    "spans": "[{\"DATE\": \"last weekend\"}]"
+  },
+  {
+    "id": 40425,
+    "spans": "[]"
+  },
+  {
+    "id": 40464,
+    "spans": "]"
+  },
+  {
+    "id": 40520,
+    "spans": "[]"
+  },
+  {
+    "id": 40521,
+    "spans": "[]"
+  },
+  {
+    "id": 40542,
+    "spans": "[{\"DURATION\": \"a week\"}, {\"DURATION\": \"a long time\"}]"
+  },
+  {
+    "id": 40562,
+    "spans": "[]"
+  },
+  {
+    "id": 40566,
+    "spans": "[]"
+  },
+  {
+    "id": 40597,
+    "spans": "[{\"DURATION\": \"a week\"}, {\"AMOUNT\": \"100\"}, {\"DATE\": \"today\"}, {\"AMOUNT\": \"1500\"}]"
+  },
+  {
+    "id": 40631,
+    "spans": "[]"
+  },
+  {
+    "id": 40643,
+    "spans": ""
+  },
+  {
+    "id": 40657,
+    "spans": "[{\"PERSONALNAME\": \"Tanya\"}]"
+  },
+  {
+    "id": 40660,
+    "spans": "[{\"PROFESSION\": \"Biomechanics\"}, {\"PROFESSION\": \"Biomechanics\"}]"
+  },
+  {
+    "id": 40672,
+    "spans": "[]"
+  },
+  {
+    "id": 40712,
+    "spans": "[{\"FAMILYNAME\": \"Josh\"}, {\"FAMILYNAME\": \"Josh\"}, {\"DURATION\": \"hours\"}, {\"DURATION\": \"hours\"}, {\"DURATION\": \"hours\"}, {\"CITY\": \"New York\"}, {\"FAMILYNAME\": \"Josh\"}, {\"DATE\": \"yesterday\"}]"
+  },
+  {
+    "id": 40720,
+    "spans": "[{\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 40725,
+    "spans": "[]"
+  },
+  {
+    "id": 40742,
+    "spans": "[]"
+  },
+  {
+    "id": 40780,
+    "spans": "[{\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 40782,
+    "spans": "[{\"DURATION\": \"two weeks\"}]"
+  },
+  {
+    "id": 40783,
+    "spans": "[{\"DURATION\": \"for a while\"}, {\"DURATION\": \"for a while\"}]"
+  },
+  {
+    "id": 40804,
+    "spans": "[]"
+  },
+  {
+    "id": 40827,
+    "spans": "[{\"DURATION\": \"an hour\"}]"
+  },
+  {
+    "id": 40833,
+    "spans": "[]"
+  },
+  {
+    "id": 40840,
+    "spans": "[]"
+  },
+  {
+    "id": 40875,
+    "spans": "[]"
+  },
+  {
+    "id": 40879,
+    "spans": "[{\"DATE\": \"in the past\"}]"
+  },
+  {
+    "id": 40881,
+    "spans": "[{\"DATE\": \"last year\"}]"
+  },
+  {
+    "id": 40885,
+    "spans": "[]"
+  },
+  {
+    "id": 40902,
+    "spans": "[{\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 40905,
+    "spans": "[{\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 40921,
+    "spans": "[{\"PERSONALNAME\": \"Marie\"}, {\"CITY\": \"Chicago\"}]"
+  },
+  {
+    "id": 40943,
+    "spans": "[{\"TIME\": \"tonight\"}]"
+  },
+  {
+    "id": 40959,
+    "spans": "[{\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 40967,
+    "spans": "[]"
+  },
+  {
+    "id": 40975,
+    "spans": "[{\"PERSONALNAME\": \"Cecelia\"}, {\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 41001,
+    "spans": "[{\"DURATION\": \"three years\"}]"
+  },
+  {
+    "id": 41014,
+    "spans": "[]"
+  },
+  {
+    "id": 41028,
+    "spans": "[{\"DATE\": \"now\"}, {\"DATE\": \"now\"}, {\"DURATION\": \"a year\"}, {\"DURATION\": \"a long time\"}]"
+  },
+  {
+    "id": 41082,
+    "spans": "{\"PERSONALNAME\": \"Yovan\"}, {\"PERSONALNAME\": \"Vanessa\"}]"
+  },
+  {
+    "id": 41146,
+    "spans": "[{\"PROFESSION\": \"manager\"}, {\"ORGANIZATION\": \"Subway\"}, {\"DURATION\": \"20 years\"}]"
+  },
+  {
+    "id": 41162,
+    "spans": "[{\"DURATION\": \"day\"}]"
+  },
+  {
+    "id": 41165,
+    "spans": "[]"
+  },
+  {
+    "id": 41232,
+    "spans": "[{\"FAMILYNAME\": \"Ivan\"}, {\"PROFESSION\": \"lawyer\"}]"
+  },
+  {
+    "id": 41250,
+    "spans": "[{\"FAMILYNAME\": \"Harold\"}, {\"FAMILYNAME\": \"Harold\"}, {\"FAMILYNAME\": \"Harold\"}, {\"FAMILYNAME\": \"Harold\"}]"
+  },
+  {
+    "id": 41254,
+    "spans": "[]"
+  },
+  {
+    "id": 41257,
+    "spans": "[]"
+  },
+  {
+    "id": 41293,
+    "spans": "[]"
+  },
+  {
+    "id": 41303,
+    "spans": "ATION\": \"One day\"}, {\"DURATION\": \"30 days\"}]"
+  },
+  {
+    "id": 41305,
+    "spans": "[{\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 41350,
+    "spans": "[]"
+  },
+  {
+    "id": 41356,
+    "spans": "[]"
+  },
+  {
+    "id": 41376,
+    "spans": "[]"
+  },
+  {
+    "id": 41399,
+    "spans": "[{\"TIME\": \"night\"}, {\"TIME\": \"night\"}, {\"DATE\": \"that week\"}]"
+  },
+  {
+    "id": 41409,
+    "spans": "[{\"FAMILYNAME\": \"Ivan\"}]"
+  },
+  {
+    "id": 41413,
+    "spans": "[]"
+  },
+  {
+    "id": 41430,
+    "spans": "]"
+  },
+  {
+    "id": 41441,
+    "spans": "[]"
+  },
+  {
+    "id": 41468,
+    "spans": "[{\"DATE\": \"now\"}, {\"DURATION\": \"years\"}, {\"DOCTOR\": \"Board\"}, {\"FAMILYNAME\": \"Ivan\"}]"
+  },
+  {
+    "id": 41485,
+    "spans": "[{\"FAMILYNAME\": \"James\"}]"
+  },
+  {
+    "id": 41509,
+    "spans": "[]"
+  },
+  {
+    "id": 41525,
+    "spans": "[]"
+  },
+  {
+    "id": 41529,
+    "spans": "[{\"PATIENT\": \"Jessa\"}]"
+  },
+  {
+    "id": 41585,
+    "spans": "[]"
+  },
+  {
+    "id": 41605,
+    "spans": "[{\"ORGANIZATION\": \"Career Services\"}, {\"ORGANIZATION\": \"seekers workshop\"}, {\"PROFESSION\": \"new graduates\"}, {\"DEPARTMENT\": \"Career Services\"}, {\"SET\": \"once a week\"}]"
+  },
+  {
+    "id": 41606,
+    "spans": "[{\"TIME\": \"mid-afternoon\"}, {\"SET\": \"every day\"}, {\"SET\": \"every day\"}, {\"SET\": \"every day\"}, {\"SET\": \"every day\"}]"
+  },
+  {
+    "id": 41638,
+    "spans": "[]"
+  },
+  {
+    "id": 41674,
+    "spans": "[{\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 41682,
+    "spans": "[{\"FAMILYNAME\": \"Tanya\"}, {\"FAMILYNAME\": \"Tanya\"}, {\"DATE\": \"now\"}, {\"DURATION\": \"eight months\"}]"
+  },
+  {
+    "id": 41706,
+    "spans": "[{\"AGE\": \"16\"}]"
+  },
+  {
+    "id": 41718,
+    "spans": "[]"
+  },
+  {
+    "id": 41771,
+    "spans": "[]"
+  },
+  {
+    "id": 41792,
+    "spans": "[{\"DATE\": \"next week\"}, {\"TIME\": \"last night\"}]"
+  },
+  {
+    "id": 41810,
+    "spans": ""
+  },
+  {
+    "id": 41814,
+    "spans": "[{\"FAMILYNAME\": \"Ivan\"}]"
+  },
+  {
+    "id": 41817,
+    "spans": "[{\"DATE\": \"December\"}, {\"DATE\": \"December\"}, {\"DATE\": \"now\"}, {\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 41834,
+    "spans": "[]"
+  },
+  {
+    "id": 41836,
+    "spans": "[{\"DATE\": \"this week\"}]"
+  },
+  {
+    "id": 41850,
+    "spans": "[]"
+  },
+  {
+    "id": 41874,
+    "spans": "[]"
+  },
+  {
+    "id": 41878,
+    "spans": "[]"
+  },
+  {
+    "id": 41916,
+    "spans": "[]"
+  },
+  {
+    "id": 42058,
+    "spans": "[{\"DATE\": \"April\"}, {\"DATE\": \"last year\"}, {\"DURATION\": \"three months\"}]"
+  },
+  {
+    "id": 42092,
+    "spans": "{\"DATE\": \"tomorrow\"}]"
+  },
+  {
+    "id": 42102,
+    "spans": "[]"
+  },
+  {
+    "id": 42109,
+    "spans": "DURATION\": \"long time\"}]"
+  },
+  {
+    "id": 42128,
+    "spans": "[]"
+  },
+  {
+    "id": 42151,
+    "spans": "[]"
+  },
+  {
+    "id": 42161,
+    "spans": ""
+  },
+  {
+    "id": 42252,
+    "spans": "[{\"PATIENT\": \"Micah\"}]"
+  },
+  {
+    "id": 42253,
+    "spans": "[]"
+  },
+  {
+    "id": 42261,
+    "spans": "[{\"LOCATION-OTHER\": \"Brown\"}]"
+  },
+  {
+    "id": 42301,
+    "spans": "[]"
+  },
+  {
+    "id": 42317,
+    "spans": "[]"
+  },
+  {
+    "id": 42341,
+    "spans": "[]"
+  },
+  {
+    "id": 42364,
+    "spans": "[{\"DURATION\": \"one day\"}, {\"DATE\": \"yesterday\"}]"
+  },
+  {
+    "id": 42383,
+    "spans": "[{\"DATE\": \"now\"}, {\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 42391,
+    "spans": "[{\"DURATION\": \"a few weeks\"}]"
+  },
+  {
+    "id": 42393,
+    "spans": "[]"
+  },
+  {
+    "id": 42426,
+    "spans": "[{\"PATIENT\": \"Sydney\"}, {\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 42451,
+    "spans": "[{\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 42475,
+    "spans": "[]"
+  },
+  {
+    "id": 42497,
+    "spans": "[]"
+  },
+  {
+    "id": 42501,
+    "spans": "[{\"TIME\": \"last night\"}]"
+  },
+  {
+    "id": 42567,
+    "spans": "[]"
+  },
+  {
+    "id": 42608,
+    "spans": "[{\"DURATION\": \"several years\"}]"
+  },
+  {
+    "id": 42632,
+    "spans": "[{\"DURATION\": \"four years\"}]"
+  },
+  {
+    "id": 42641,
+    "spans": "[{\"DATE\": \"now\"}, {\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 42713,
+    "spans": "[{\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 42732,
+    "spans": "[{\"FAMILYNAME\": \"Ivan\"}]"
+  },
+  {
+    "id": 42753,
+    "spans": "[{\"FAMILYNAME\": \"Josh\"}]"
+  },
+  {
+    "id": 42769,
+    "spans": "[{\"DURATION\": \"a number of years\"}]"
+  },
+  {
+    "id": 42817,
+    "spans": "[{\"TIME\": \"this morning\"}]"
+  },
+  {
+    "id": 42842,
+    "spans": "[{\"AGE\": \"19\"}, {\"TIME\": \"mornings\"}, {\"TIME\": \"night\"}]"
+  },
+  {
+    "id": 42846,
+    "spans": "[]"
+  },
+  {
+    "id": 42888,
+    "spans": "[{\"DURATION\": \"a couple of days\"}, {\"PERSONALNAME\": \"Lucy\"}, {\"PERSONALNAME\": \"Yvonne\"}, {\"DURATION\": \"this week\"}, {\"DURATION\": \"25 hours a week\"}]"
+  },
+  {
+    "id": 42900,
+    "spans": "[{\"TIME\": \"middle of the night\"}]"
+  },
+  {
+    "id": 42907,
+    "spans": "[{\"DATE\": \"July\"}]"
+  },
+  {
+    "id": 42949,
+    "spans": "[]"
+  },
+  {
+    "id": 42957,
+    "spans": "[]"
+  },
+  {
+    "id": 42958,
+    "spans": "[{\"TIME\": \"nights\"}, {\"TIME\": \"nights\"}, {\"TIME\": \"nights\"}]"
+  },
+  {
+    "id": 42993,
+    "spans": "[{\"DATE\": \"now\"}, {\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 43011,
+    "spans": "[]"
+  },
+  {
+    "id": 43017,
+    "spans": "[]"
+  },
+  {
+    "id": 43040,
+    "spans": "[{\"FAMILYNAME\": \"Harold\"}, {\"DATE\": \"now\"}, {\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 43052,
+    "spans": "[{\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 43055,
+    "spans": "]"
+  },
+  {
+    "id": 43075,
+    "spans": "[{\"AGE\": \"11\"}, {\"PATIENT\": \"Crazy\"}, {\"AGE\": \"11\"}]"
+  },
+  {
+    "id": 43095,
+    "spans": "[]"
+  },
+  {
+    "id": 43105,
+    "spans": "[{\"DOCTOR\": \"Bourd\"}, {\"FAMILYNAME\": \"Ivan\"}, {\"FAMILYNAME\": \"Ivan\"}, {\"PROFESSION\": \"teacher\"}, {\"FAMILYNAME\": \"Ivan\"}, {\"PROFESSION\": \"teacher\"}, {\"FAMILYNAME\": \"Ivan\"}]"
+  },
+  {
+    "id": 43109,
+    "spans": "[{\"TIME\": \"any hour\"}]"
+  },
+  {
+    "id": 43121,
+    "spans": "[]"
+  },
+  {
+    "id": 43141,
+    "spans": "[]"
+  },
+  {
+    "id": 43167,
+    "spans": "[{\"FAMILYNAME\": \"Ivan\"}, {\"FAMILYNAME\": \"Ivan\"}]"
+  },
+  {
+    "id": 43174,
+    "spans": "[{\"PERSONALNAME\": \"Madison\"}, {\"PERSONALNAME\": \"Yvonne\"}, {\"PERSONALNAME\": \"Yvonne\"}]"
+  },
+  {
+    "id": 43213,
+    "spans": "[{\"DURATION\": \"all the time\"}]"
+  },
+  {
+    "id": 43223,
+    "spans": "[]"
+  },
+  {
+    "id": 43230,
+    "spans": "[]"
+  },
+  {
+    "id": 43237,
+    "spans": "[]"
+  },
+  {
+    "id": 43252,
+    "spans": "[{\"DATE\": \"now\"}, {\"DATE\": \"Today\"}]"
+  },
+  {
+    "id": 43297,
+    "spans": "CITY\": \"Hamden\"}]"
+  },
+  {
+    "id": 43304,
+    "spans": "DATE\": \"today\"}]"
+  },
+  {
+    "id": 43309,
+    "spans": "[{\"SET\": \"each day\"}]"
+  },
+  {
+    "id": 43330,
+    "spans": "{\"ORGANIZATION\": \"Jewish girl's school\"}]"
+  },
+  {
+    "id": 43353,
+    "spans": "[]"
+  },
+  {
+    "id": 43394,
+    "spans": "[]"
+  },
+  {
+    "id": 43476,
+    "spans": "[]"
+  },
+  {
+    "id": 43483,
+    "spans": "[{\"DURATION\": \"for a while\"}, {\"FAMILYNAME\": \"Lucille\"}, {\"DATE\": \"today\"}]"
+  },
+  {
+    "id": 43514,
+    "spans": "[]"
+  },
+  {
+    "id": 43530,
+    "spans": "[]"
+  },
+  {
+    "id": 43536,
+    "spans": "[]"
+  },
+  {
+    "id": 43539,
+    "spans": "[{\"PERSONALNAME\": \"Gina\"}, {\"DATE\": \"now\"}, {\"CITY\": \"San Francisco\"}, {\"STATE\": \"California\"}, {\"CITY\": \"San Francisco\"}, {\"PERSONALNAME\": \"Melanie\"}, {\"DURATION\": \"weekends\"}, {\"CITY\": \"Austin\"}, {\"DATE\": \"then\"}, {\"DATE\": \"Tuesday\"}, {\"DATE\": \"Thursday\"}, {\"CITY\": \"San Francisco\"}]"
+  },
+  {
+    "id": 43609,
+    "spans": "[]"
+  },
+  {
+    "id": 43614,
+    "spans": "[{\"DATE\": \"now\"}]"
+  },
+  {
+    "id": 43634,
+    "spans": "[]"
+  },
+  {
+    "id": 43638,
+    "spans": "[{\"DATE\": \"next day\"}]"
+  },
+  {
+    "id": 43669,
+    "spans": "[]"
+  },
+  {
+    "id": 43674,
+    "spans": "[]"
+  },
+  {
+    "id": 43699,
+    "spans": "[]"
+  },
+  {
+    "id": 43778,
+    "spans": "[]"
+  },
+  {
+    "id": 44521,
+    "spans": "[{\"DURATION\": \"week\"}]"
+  },
+  {
+    "id": 53555,
+    "spans": "[{\"ID_NUMBER\": \"44D592246C\"}, {\"PATIENT\": \"Anny Bridges\"}, {\"DATE\": \"May 22, 1988\"}, {\"MEDICAL_RECORD_NUMBER\": \"441592.HKP\"}, {\"ID_NUMBER\": \"44D59224\"}]"
+  },
+  {
+    "id": 53563,
+    "spans": "[{\"DEPARTMENT\": \"3/9 Jennie Cox Close department\"}, {\"DOCTOR\": \"McKane\"}, {\"DOCTOR\": \"Goodwin\"}, {\"SET\": \"pack-year history\"}, {\"SET\": \"40\"}, {\"DOCTOR\": \"Alford\"}, {\"DOCTOR\": \"Allen\"}, {\"DATE\": \"April 21, 2064\"}]"
+  },
+  {
+    "id": 53593,
+    "spans": "[]"
+  },
+  {
+    "id": 53594,
+    "spans": "[{\"MEDICAL_RECORD_NUMBER\": \"405974.QBV\"}, {\"PATIENT\": \"Robyn Patrice Girolamo\"}, {\"DATE\": \"May 29, 2000\"}]"
+  },
+  {
+    "id": 53597,
+    "spans": "[{\"STREET\": \"Mildura\"}, {\"CITY\": \"Mildura\"}, {\"STATE\": \"Queensland\"}, {\"ZIP\": \"6038\"}, {\"DATE\": \"April 16, 2011\"}, {\"DATE\": \"July 4, 2012\"}, {\"TIME\": \"1:47 PM\"}, {\"PATIENT\": \"Stacy\"}]"
+  },
+  {
+    "id": 53609,
+    "spans": "[{\"MEDICAL_RECORD_NUMBER\": \"7189308.GRC\"}, {\"PATIENT\": \"patient Leandra Langehennig\"}, {\"DATE\": \"October 2, 1984\"}, {\"ID_NUMBER\": \"71V930826C\"}]"
+  },
+  {
+    "id": 53610,
+    "spans": "[{\"DATE\": \"August 14, 2062\"}, {\"DATE\": \"August 14, 2062\"}, {\"PATIENT\": \"Mason\"}, {\"DOCTOR\": \"Allen\"}]"
+  },
+  {
+    "id": 53615,
+    "spans": "[{\"HOSPITAL\": \"Tasman Multi-Purpose Centre\"}, {\"HOSPITAL\": \"Children's Hospital, Westmead\"}, {\"DATE\": \"December 1, 2062\"}]"
+  },
+  {
+    "id": 53634,
+    "spans": "[{\"PATIENT\": \"Oliva Oladipo\"}, {\"DEPARTMENT\": \"Gympie Hospital\"}, {\"LAB\": \"SA Pathology\"}, {\"DATE\": \"January 24, 2002\"}, {\"PATIENT\": \"Oliva\"}, {\"STREET\": \"Forest Knoll\"}, {\"CITY\": \"Taree\"}, {\"STATE\": \"Australian Capital Territory\"}, {\"ZIP\": \"3792\"}]"
+  },
+  {
+    "id": 53636,
+    "spans": "[{\"TIME\": \"09:55 AM\"}, {\"DATE\": \"August 7, 2062\"}, {\"DOCTOR\": \"Beal\"}]"
+  },
+  {
+    "id": 53638,
+    "spans": "[{\"PATIENT\": \"Eric Barnes\"}, {\"ID_NUMBER\": \"98Y628548Q\"}, {\"MEDICAL_RECORD_NUMBER\": \"9896285.KVQ\"}]"
+  },
+  {
+    "id": 53639,
+    "spans": "[{\"PATIENT\": \"Maria case\"}, {\"ID_NUMBER\": \"83829154\"}]"
+  },
+  {
+    "id": 53645,
+    "spans": "[{\"DATE\": \"June 20, 2012\"}, {\"TIME\": \"1:25 PM\"}, {\"DATE\": \"August 23, 2062\"}, {\"DOCTOR\": \"Zubac\"}, {\"DATE\": \"August 27, 2062\"}, {\"DOCTOR\": \"Grant\"}, {\"DATE\": \"August 28\"}]"
+  },
+  {
+    "id": 53655,
+    "spans": "[{\"ID_NUMBER\": \"65T90734\"}]"
+  },
+  {
+    "id": 53685,
+    "spans": "[{\"DOCTOR\": \"U Sorbera\"}]"
+  },
+  {
+    "id": 53692,
+    "spans": "[{\"DOCTOR\": \"H Mounger\"}]"
+  },
+  {
+    "id": 53703,
+    "spans": "[{\"ID_NUMBER\": \"19-5034545\"}]"
+  },
+  {
+    "id": 53706,
+    "spans": "[{\"ID_NUMBER\": \"71A25269\"}, {\"STREET\": \"Casa Mia Street\"}, {\"CITY\": \"Kingaroy\"}]"
+  },
+  {
+    "id": 53708,
+    "spans": "[{\"PATIENT\": \"Cimeno Renaldo\"}, {\"ID_NUMBER\": \"42U140591C\"}, {\"MEDICAL_RECORD_NUMBER\": \"4281405.YEC\"}, {\"ID_NUMBER\": \"42U14059\"}]"
+  },
+  {
+    "id": 53742,
+    "spans": "[{\"DOCTOR\": \"M Wolff\"}, {\"DATE\": \"October 1, 2062\"}, {\"DATE\": \"October 29, 2062\"}, {\"DOCTOR\": \"McInturff\"}, {\"DOCTOR\": \"Ngarrindjeri\"}, {\"DATE\": \"July 30, 2065\"}]"
+  },
+  {
+    "id": 53746,
+    "spans": "[{\"DOCTOR\": \"Q Breyers\"}]"
+  },
+  {
+    "id": 53749,
+    "spans": "[{\"ID_NUMBER\": \"73H42958\"}, {\"PATIENT\": \"Gordan\"}, {\"HOSPITAL\": \"Dumbleyung Memorial Hospital\"}, {\"DEPARTMENT\": \"Dickinson 3 South department\"}, {\"PATIENT\": \"Gordan\"}, {\"DATE\": \"April 3, 2014\"}, {\"TIME\": \"11:26 AM\"}, {\"PATIENT\": \"Gordan\"}, {\"TIME\": \"11:23 PM\"}, {\"DATE\": \"same day\"}]"
+  },
+  {
+    "id": 53762,
+    "spans": "[{\"PATIENT\": \"Jalen\"}, {\"STREET\": \"Emack Street\"}, {\"CITY\": \"Curlewis\"}, {\"STATE\": \"WA\"}, {\"ZIP\": \"7321\"}, {\"DATE\": \"November 5, 1999\"}, {\"DURATION\": \"years\"}, {\"DATE\": \"June 22\"}]"
+  },
+  {
+    "id": 53787,
+    "spans": "[{\"MEDICAL_RECORD_NUMBER\": \"9478076.SWP\"}, {\"ID_NUMBER\": \"94T80766\"}, {\"DATE\": \"April 9, 1983\"}, {\"PATIENT\": \"Chris\"}, {\"DATE\": \"June 11, 2064\"}]"
+  },
+  {
+    "id": 53799,
+    "spans": "[]"
+  },
+  {
+    "id": 53810,
+    "spans": "[{\"DOCTOR\": \"O Nusz\"}, {\"DATE\": \"August 10, 2062\"}, {\"DATE\": \"October 10, 2062\"}, {\"PATIENT\": \"Kieran Lamar Clyde Moriarty\"}]"
+  },
+  {
+    "id": 53822,
+    "spans": "[{\"DATE\": \"April 8, 1984\"}, {\"DATE\": \"August 27, 2012\"}, {\"TIME\": \"11:34 AM\"}, {\"DEPARTMENT\": \"Southern IML\"}, {\"HOSPITAL\": \"Lismore Base Hospital, Riverlands Drug & Alcohol Service\"}]"
+  },
+  {
+    "id": 53840,
+    "spans": "[{\"ID_NUMBER\": \"40O974608B\"}, {\"ID_NUMBER\": \"40O97460\"}]"
+  },
+  {
+    "id": 53845,
+    "spans": "[]"
+  },
+  {
+    "id": 53860,
+    "spans": "[{\"DATE\": \"June 12, 2064\"}]"
+  },
+  {
+    "id": 53862,
+    "spans": "[{\"ID_NUMBER\": \"87D09067\"}, {\"PATIENT\": \"Nida\"}]"
+  },
+  {
+    "id": 53892,
+    "spans": "[{\"ID_NUMBER\": \"79161\"}, {\"PATIENT\": \"Tom resides\"}, {\"STREET\": \"Oxendon\"}, {\"CITY\": \"Silverdale\"}, {\"STATE\": \"Victoria\"}, {\"ZIP\": \"7248\"}, {\"DATE\": \"July 7, 1985\"}, {\"DATE\": \"July 9, 2012\"}, {\"TIME\": \"9:14 AM\"}, {\"PATIENT\": \"Tom\"}]"
+  },
+  {
+    "id": 53897,
+    "spans": "[{\"ID_NUMBER\": \"94Y020433U\"}, {\"PATIENT\": \"Oliver Antonio\"}, {\"DATE\": \"June 25, 2017\"}, {\"MEDICAL_RECORD_NUMBER\": \"9490204.JJU\"}]"
+  },
+  {
+    "id": 53920,
+    "spans": "[{\"DOCTOR\": \"Gerald Gucwa\"}, {\"TIME\": \"16:35\"}, {\"DATE\": \"April 9, 2014\"}]"
+  },
+  {
+    "id": 53927,
+    "spans": "[{\"DEPARTMENT\": \"Immunology Department\"}, {\"HOSPITAL\": \"Echuca Regional Health\"}, {\"DATE\": \"October 24, 2008\"}, {\"STREET\": \"Stockdale\"}, {\"CITY\": \"Ipswich\"}, {\"STATE\": \"South Australia\"}, {\"ZIP\": \"3111\"}, {\"DOCTOR\": \"Roger Caden Maier\"}, {\"DOCTOR\": \"E. Brusser\"}, {\"DOCTOR\": \"E. Kochis\"}]"
+  },
+  {
+    "id": 53934,
+    "spans": "[{\"DOCTOR\": \"Gregorio Lynwood Slemmer\"}, {\"DOCTOR\": \"MM\"}, {\"DOCTOR\": \"CU\"}, {\"DOCTOR\": \"Harkenreader\"}, {\"DATE\": \"June 6, 2064\"}]"
+  },
+  {
+    "id": 53948,
+    "spans": "[{\"DEPARTMENT\": \"HAPS Department\"}, {\"HOSPITAL\": \"Mungindi Hospital\"}, {\"DOCTOR\": \"Nate Khokher\"}, {\"DOCTOR\": \"U. Gmernicki\"}]"
+  },
+  {
+    "id": 53963,
+    "spans": "[{\"PATIENT\": \"George\"}, {\"STREET\": \"Roseglen Street\"}, {\"CITY\": \"Bacchus Marsh\"}, {\"STATE\": \"Victoria\"}, {\"ZIP\": \"2258\"}, {\"DATE\": \"September 10, 2063\"}, {\"DEPARTMENT\": \"Macquarie Ward department\"}, {\"ID_NUMBER\": \"lab No. 96C25931\"}]"
+  },
+  {
+    "id": 53988,
+    "spans": "[{\"DATE\": \"August 27, 2062\"}, {\"DOCTOR\": \"Kross\"}, {\"DATE\": \"August 28, 2062,\"}, {\"DOCTOR\": \"Davis\"}]"
+  },
+  {
+    "id": 53994,
+    "spans": "[{\"ID_NUMBER\": \"65O685578K\"}, {\"PATIENT\": \"Taylor Mitchell\"}, {\"DEPARTMENT\": \"Acute Care Ward\"}, {\"HOSPITAL\": \"Penola War Memorial Hospital\"}, {\"PATIENT\": \"Taylor\"}, {\"DATE\": \"January 30, 2007\"}, {\"STREET\": \"Rocher Street\"}, {\"CITY\": \"Terranora\"}, {\"STATE\": \"Northern Territory\"}, {\"ZIP\": \"2660\"}]"
+  },
+  {
+    "id": 54003,
+    "spans": "[{\"DOCTOR\": \"Cleveland Clifton Kliethermes\"}, {\"DOCTOR\": \"Richie Ramariz\"}, {\"DOCTOR\": \"CX\"}, {\"DOCTOR\": \"FW\"}, {\"DOCTOR\": \"U Clayter\"}, {\"DOCTOR\": \"U Wehmeyer\"}, {\"DATE\": \"June 9, 2064\"}, {\"DATE\": \"June 17, 2064\"}]"
+  },
+  {
+    "id": 54005,
+    "spans": "[{\"PATIENT\": \"Floyd Gavin Shelby Bruski\"}, {\"ID_NUMBER\": \"95W7854197\"}, {\"MEDICAL_RECORD_NUMBER\": \"958785.KFZ\"}, {\"DEPARTMENT\": \"L7 Consulting Rooms\"}, {\"HOSPITAL\": \"Dorrigo Multi-Purpose Service\"}]"
+  },
+  {
+    "id": 54020,
+    "spans": "[{\"DOCTOR\": \"Chase Wyatt Capria\"}, {\"DOCTOR\": \"TC\"}, {\"DATE\": \"October 3, 2062\"}, {\"DOCTOR\": \"T Chadek\"}]"
+  },
+  {
+    "id": 54025,
+    "spans": "[{\"PATIENT\": \"Wesley Rauner\"}, {\"MEDICAL_RECORD_NUMBER\": \"6344566.YXQ\"}, {\"ID_NUMBER\": \"63K45669\"}, {\"ID_NUMBER\": \"63K456699Q\"}, {\"STREET\": \"West Bolivar\"}, {\"CITY\": \"Windsor\"}, {\"STATE\": \"Queensland\"}]"
+  },
+  {
+    "id": 54043,
+    "spans": "[{\"ID_NUMBER\": \"08Q37965\"}, {\"PATIENT\": \"Tereasa\"}, {\"STREET\": \"Nicanoa Street\"}, {\"CITY\": \"Lara\"}, {\"STATE\": \"New South Wales\"}, {\"ZIP\": \"6564\"}]"
+  },
+  {
+    "id": 54046,
+    "spans": "[]"
+  },
+  {
+    "id": 54056,
+    "spans": "[]"
+  },
+  {
+    "id": 54068,
+    "spans": "[{\"PATIENT\": \"Jolin\"}, {\"STREET\": \"Reddall Street\"}, {\"CITY\": \"Encounter Bay\"}, {\"STATE\": \"Australian Capital Territory\"}, {\"ZIP\": \"3783\"}, {\"DATE\": \"December 3, 2019\"}]"
+  },
+  {
+    "id": 54098,
+    "spans": "[{\"DATE\": \"April 15, 2064\"}, {\"DOCTOR\": \"Wagner\"}, {\"PATIENT\": \"Sabrina\"}, {\"DATE\": \"April 19, 2064,\"}, {\"DOCTOR\": \"Martin\"}, {\"DOCTOR\": \"Stephenson\"}]"
+  },
+  {
+    "id": 54117,
+    "spans": "[{\"DATE\": \"August 21, 2063\"}, {\"DEPARTMENT\": \"Molecular Diagnostic Oncology Department\"}, {\"HOSPITAL\": \"Blayney Multipurpose Service\"}, {\"DOCTOR\": \"Edward Evadne Stouten\"}, {\"DOCTOR\": \"JW\"}, {\"DOCTOR\": \"X. Neary\"}, {\"DATE\": \"August 22, 2063\"}]"
+  },
+  {
+    "id": 54120,
+    "spans": "[{\"DATE\": \"September 18, 2062\"}]"
+  },
+  {
+    "id": 54132,
+    "spans": "[{\"DATE\": \"Today\"}, {\"PATIENT\": \"Nikola Mood\"}, {\"ID_NUMBER\": \"83Z179706W\"}, {\"MEDICAL_RECORD_NUMBER\": \"8391797.AQW\"}]"
+  },
+  {
+    "id": 54155,
+    "spans": "[{\"ID_NUMBER\": \"07L19041\"}]"
+  },
+  {
+    "id": 54185,
+    "spans": "[{\"TIME\": \"12:01 PM\"}, {\"PATIENT\": \"Eric\"}, {\"DEPARTMENT\": \"Forensic Medicine Department\"}, {\"HOSPITAL\": \"Beaconsfield District Health Service\"}, {\"DOCTOR\": \"West\"}, {\"DURATION\": \"15-year\"}]"
+  },
+  {
+    "id": 54188,
+    "spans": "[{\"DOCTOR\": \"L Mudd\"}, {\"DATE\": \"June 12, 2064\"}]"
+  },
+  {
+    "id": 54194,
+    "spans": "[{\"HOSPITAL\": \"Nathalia District Hospital\"}, {\"DEPARTMENT\": \"Medic Surgery Ward\"}, {\"ID_NUMBER\": \"17N34264\"}, {\"ID_NUMBER\": \"17N34264\"}]"
+  },
+  {
+    "id": 54202,
+    "spans": "[{\"HOSPITAL\": \"Penola War Memorial Hospital\"}, {\"DEPARTMENT\": \"St. Vincent Pathology department\"}, {\"PATIENT\": \"Roy\"}, {\"DATE\": \"April 6, 2014\"}, {\"TIME\": \"07:01 PM\"}, {\"HOSPITAL\": \"Penola War Memorial Hospital\"}]"
+  },
+  {
+    "id": 54210,
+    "spans": "[{\"PATIENT\": \"Ashley Iverson\"}, {\"ID_NUMBER\": \"19N034545E\"}, {\"MEDICAL_RECORD_NUMBER\": \"1950345.KPE\"}, {\"PATIENT\": \"Ashley\"}, {\"ID_NUMBER\": \"19N03454\"}]"
+  },
+  {
+    "id": 54218,
+    "spans": "[{\"ID_NUMBER\": \"17S6644100\"}, {\"PATIENT\": \"Alan Wesley\"}, {\"DEPARTMENT\": \"Radiation Oncology department\"}, {\"HOSPITAL\": \"Milton Ulladulla Hospital\"}, {\"DATE\": \"December 4, 2011\"}, {\"PATIENT\": \"Alan\"}, {\"STREET\": \"Wahnita Street\"}, {\"CITY\": \"Mulwala\"}, {\"STATE\": \"N/A\"}, {\"ZIP\": \"3691\"}]"
+  },
+  {
+    "id": 54219,
+    "spans": "[]"
+  },
+  {
+    "id": 54251,
+    "spans": "[{\"DATE\": \"Today\"}, {\"PATIENT\": \"Maria Cruz\"}, {\"ID_NUMBER\": \"40X485615D\"}, {\"MEDICAL_RECORD_NUMBER\": \"408485.PDO\"}, {\"ID_NUMBER\": \"40X48561\"}]"
+  },
+  {
+    "id": 54254,
+    "spans": "[{\"DATE\": \"December 26, 1984\"}, {\"STREET\": \"Nimco\"}, {\"CITY\": \"Gosford\"}, {\"STATE\": \"South Australia\"}, {\"ZIP\": \"2828\"}, {\"DOCTOR\": \"Antone Horacio Miele\"}, {\"DOCTOR\": \"Robt\"}, {\"DOCTOR\": \"BJ\"}, {\"DOCTOR\": \"S Bille\"}]"
+  },
+  {
+    "id": 54259,
+    "spans": "[{\"DATE\": \"October 1, 2062\"}, {\"DATE\": \"October 10, 2062\"}]"
+  },
+  {
+    "id": 54281,
+    "spans": "[{\"DOCTOR\": \"Haliburton\"}, {\"DOCTOR\": \"Payton\"}, {\"DOCTOR\": \"Turner\"}, {\"DATE\": \"Years later\"}, {\"DATE\": \"August 27, 2062\"}, {\"PATIENT\": \"Batty continued\"}, {\"DOCTOR\": \"Valentine\"}, {\"DOCTOR\": \"Knight\"}]"
+  },
+  {
+    "id": 54309,
+    "spans": "[{\"DATE\": \"October 24\"}]"
+  },
+  {
+    "id": 54350,
+    "spans": "[{\"PATIENT\": \"Grayce Fallert\"}, {\"MEDICAL_RECORD_NUMBER\": \"840157.NNT\"}, {\"ID_NUMBER\": \"84B15755\"}, {\"ID_NUMBER\": \"84B157557B\"}, {\"DATE\": \"December 12, 1990\"}, {\"STREET\": \"Marjorie Jackson, Blayney\"}, {\"CITY\": \"Blayney, QLD\"}, {\"STATE\": \"QLD\"}, {\"ZIP\": \"2126\"}]"
+  },
+  {
+    "id": 54376,
+    "spans": "[{\"PATIENT\": \"Palmira Vredeveld\"}, {\"ID_NUMBER\": \"97P227531O\"}, {\"MEDICAL_RECORD_NUMBER\": \"9752275.ICO\"}, {\"STREET\": \"E Joffre\"}, {\"CITY\": \"Redcliffe\"}, {\"STATE\": \"Northern Territory\"}, {\"ZIP\": \"5118\"}]"
+  },
+  {
+    "id": 54389,
+    "spans": "[{\"HOSPITAL\": \"Laverton Hospital\"}, {\"DOCTOR\": \"Howard\"}, {\"DOCTOR\": \"Forst\"}, {\"DEPARTMENT\": \"Hunter Area department\"}]"
+  },
+  {
+    "id": 54414,
+    "spans": "[{\"DATE\": \"July 5, 2004\"}, {\"PATIENT\": \"Katrina\"}, {\"MEDICAL_RECORD_NUMBER\": \"4997206.IXD\"}, {\"ID_NUMBER\": \"49Z720639D\"}, {\"PATIENT\": \"Katrina\"}, {\"DEPARTMENT\": \"Hereditary Department\"}, {\"DOCTOR\": \"Roland\"}, {\"DOCTOR\": \"Claire\"}]"
+  },
+  {
+    "id": 54419,
+    "spans": "[{\"DOCTOR\": \"Craig\"}, {\"DOCTOR\": \"Jordan\"}, {\"DATE\": \"September 26, 2063\"}, {\"PATIENT\": \"Kenny\"}]"
+  },
+  {
+    "id": 54420,
+    "spans": "[{\"PATIENT\": \"Nida\"}, {\"PATIENT\": \"Nida\"}, {\"STREET\": \"Kimball Hill\"}, {\"CITY\": \"Launceston\"}, {\"STATE\": \"QLD\"}, {\"ZIP\": \"1314\"}, {\"DATE\": \"July 28, 1997\"}, {\"TIME\": \"May 29, 2012\"}]"
+  },
+  {
+    "id": 54423,
+    "spans": "[{\"DATE\": \"September 13, 2062\"}]"
+  },
+  {
+    "id": 54439,
+    "spans": "[{\"STATE\": \"South Australia, 4213\"}, {\"ZIP\": \"4213\"}, {\"DATE\": \"November 30, 1992\"}]"
+  },
+  {
+    "id": 54462,
+    "spans": "[{\"ZIP\": \"0871\"}, {\"DEPARTMENT\": \"Intensive Care Unit\"}, {\"HOSPITAL\": \"Normanton Hospital\"}, {\"ID_NUMBER\": \"49S10747\"}, {\"DATE\": \"April 6, 2014\"}, {\"TIME\": \"19:01\"}]"
+  },
+  {
+    "id": 54472,
+    "spans": "[{\"MEDICAL_RECORD_NUMBER\": \"710252.RYE\"}, {\"PATIENT\": \"Derrick Wiman\"}, {\"DATE\": \"March 30, 2016\"}, {\"ID_NUMBER\": \"71A252691H\"}]"
+  },
+  {
+    "id": 54496,
+    "spans": "[{\"DATE\": \"March 11, 2064\"}, {\"PATIENT\": \"Oliva\"}, {\"DOCTOR\": \"Eriksen\"}]"
+  },
+  {
+    "id": 54499,
+    "spans": "[{\"PATIENT\": \"Carol\"}, {\"STREET\": \"South Tinnin\"}, {\"CITY\": \"Bega\"}, {\"STATE\": \"Northern Territory\"}, {\"ZIP\": \"2559\"}, {\"DATE\": \"October 24, 2004\"}, {\"DATE\": \"July 11, 2012\"}, {\"TIME\": \"10:29 AM\"}]"
+  },
+  {
+    "id": 54513,
+    "spans": "[{\"DOCTOR\": \"Ashley Freddie Rositano\"}, {\"DOCTOR\": \"QS\"}, {\"DOCTOR\": \"L Lutjen\"}, {\"DATE\": \"June 10, 2064\"}, {\"DATE\": \"June 12, 2064\"}]"
+  },
+  {
+    "id": 54514,
+    "spans": "[{\"DATE\": \"July 26, 2012\"}, {\"TIME\": \"11:59 AM from\"}, {\"DEPARTMENT\": \"West Department\"}, {\"HOSPITAL\": \"Tallangatta Health Service\"}, {\"DOCTOR\": \"Jere Gueits\"}, {\"DATE\": \"September 29, 2062\"}, {\"DOCTOR\": \"M Adair\"}]"
+  },
+  {
+    "id": 54523,
+    "spans": "[{\"DATE\": \"Today\"}, {\"PATIENT\": \"Calvin Enger\"}, {\"ID_NUMBER\": \"97A914399O\"}, {\"MEDICAL_RECORD_NUMBER\": \"9709143.YYO\"}, {\"ID_NUMBER\": \"97A91439\"}]"
+  },
+  {
+    "id": 54529,
+    "spans": "[{\"STREET\": \"Quincey, Bacchus\"}, {\"CITY\": \"Bacchus Marsh\"}, {\"STATE\": \"Western Australia\"}, {\"ZIP\": \"5661\"}, {\"DATE\": \"December 27, 1977\"}, {\"DATE\": \"August 14, 2012\"}, {\"TIME\": \"9:17 AM\"}, {\"DEPARTMENT\": \"West Department\"}, {\"HOSPITAL\": \"Caloundra Hospital\"}, {\"DOCTOR\": \"Maurice Letcher\"}, {\"DOCTOR\": \"Lino\"}, {\"DOCTOR\": \"Suddath\"}]"
+  },
+  {
+    "id": 54537,
+    "spans": "[{\"DATE\": \"Today\"}, {\"PATIENT\": \"Dora Becker\"}, {\"ID_NUMBER\": \"3917577.MIK\"}, {\"PATIENT\": \"Dora\"}, {\"DATE\": \"July 1, 2062\"}]"
+  },
+  {
+    "id": 54554,
+    "spans": "[{\"DOCTOR\": \"L Rodnguez\"}, {\"DOCTOR\": \"Barge\"}, {\"TIME\": \"10:15 AM\"}, {\"DATE\": \"April 4, 2014\"}]"
+  },
+  {
+    "id": 54568,
+    "spans": "[{\"DATE\": \"March 4, 2064\"}, {\"DATE\": \"April 20, 2064\"}, {\"DOCTOR\": \"Wade\"}, {\"DOCTOR\": \"Curry\"}, {\"DOCTOR\": \"Beasley\"}, {\"DATE\": \"Now\"}, {\"AGE\": \"53\"}]"
+  },
+  {
+    "id": 54573,
+    "spans": "[{\"DOCTOR\": \"D Hersey\"}]"
+  },
+  {
+    "id": 54594,
+    "spans": "[{\"DATE\": \"October 30, 2062\"}, {\"DATE\": \"November 9, 2062\"}]"
+  },
+  {
+    "id": 54596,
+    "spans": "[{\"PATIENT\": \"Cathy Hill\"}, {\"ID_NUMBER\": \"29M292382U\"}, {\"MEDICAL_RECORD_NUMBER\": \"294292.JVH\"}, {\"ID_NUMBER\": \"29M29238\"}]"
+  },
+  {
+    "id": 54599,
+    "spans": "[{\"PATIENT\": \"Mike Crawford\"}, {\"MEDICAL_RECORD_NUMBER\": \"0973564.CBJ\"}, {\"ID_NUMBER\": \"09S35640\"}]"
+  },
+  {
+    "id": 54619,
+    "spans": "[{\"ID_NUMBER\": \"2062\"}, {\"DOCTOR\": \"Sharp\"}, {\"DOCTOR\": \"Black\"}, {\"DOCTOR\": \"Gay\"}, {\"PATIENT\": \"Alan\"}]"
+  },
+  {
+    "id": 54622,
+    "spans": "[{\"PATIENT\": \"Orval Stapelton\"}, {\"ID_NUMBER\": \"75A861696D\"}, {\"MEDICAL_RECORD_NUMBER\": \"7508616.ZRD\"}]"
+  },
+  {
+    "id": 54631,
+    "spans": "[{\"PATIENT\": \"Ulva Florida Colabella\"}, {\"AGE\": \"72\"}, {\"ID_NUMBER\": \"63F233724L\"}, {\"MEDICAL_RECORD_NUMBER\": \"6322337.HLL\"}, {\"ID_NUMBER\": \"63F23372\"}]"
+  },
+  {
+    "id": 54644,
+    "spans": "[{\"AGE\": \"62\"}, {\"PATIENT\": \"Cathy\"}, {\"DOCTOR\": \"Wiggins\"}, {\"DOCTOR\": \"Smart\"}, {\"DATE\": \"June 4, 2012\"}]"
+  },
+  {
+    "id": 54645,
+    "spans": "[]"
+  },
+  {
+    "id": 54650,
+    "spans": "[]"
+  },
+  {
+    "id": 54657,
+    "spans": "[{\"DATE\": \"June 5, 2012\"}, {\"TIME\": \"12:07 PM\"}, {\"PATIENT\": \"Mason\"}, {\"DEPARTMENT\": \"Orana Department\"}, {\"HOSPITAL\": \"Richmond Hospital\"}, {\"DOCTOR\": \"Bosh\"}]"
+  },
+  {
+    "id": 54661,
+    "spans": "[]"
+  },
+  {
+    "id": 54680,
+    "spans": "[{\"PATIENT\": \"Rosetta Soloway\"}, {\"ID_NUMBER\": \"49S107472G\"}, {\"MEDICAL_RECORD_NUMBER\": \"497107.LTH\"}, {\"DATE\": \"October 29, 2032\"}, {\"STREET\": \"Tarporley\"}, {\"CITY\": \"Newcastle\"}, {\"STATE\": \"New South Wales\"}]"
+  },
+  {
+    "id": 54682,
+    "spans": "[{\"DATE\": \"August 8, 2062\"}, {\"DOCTOR\": \"Dell\"}]"
+  },
+  {
+    "id": 54698,
+    "spans": "[{\"DOCTOR\": \"Wesley\"}, {\"DOCTOR\": \"Jordan\"}, {\"DOCTOR\": \"Bell\"}, {\"DOCTOR\": \"Allen\"}, {\"DOCTOR\": \"Landfair\"}, {\"PATIENT\": \"Chris\"}, {\"DATE\": \"May 5, 2064\"}]"
+  },
+  {
+    "id": 54702,
+    "spans": "[{\"PATIENT\": \"Katrina Rose\"}, {\"AGE\": \"2064\"}, {\"STREET\": \"Gobind Street\"}, {\"CITY\": \"Sanctuary Point\"}, {\"STATE\": \"New South Wales\"}, {\"ZIP\": \"3387\"}]"
+  },
+  {
+    "id": 54722,
+    "spans": "[{\"MEDICAL_RECORD_NUMBER\": \"2993107.QJX\"}, {\"PATIENT\": \"Charline Dania Abed\"}, {\"ID_NUMBER\": \"29Z31076\"}, {\"DATE\": \"June 20, 2064\"}, {\"DOCTOR\": \"SQ\"}, {\"DOCTOR\": \"DV\"}]"
+  },
+  {
+    "id": 54756,
+    "spans": "[{\"PATIENT\": \"Kenny Smith\"}, {\"STREET\": \"North Napa\"}, {\"CITY\": \"Tea Gardens\"}, {\"STATE\": \"Australian Capital Territory\"}, {\"ZIP\": \"6957\"}, {\"DEPARTMENT\": \"Western District Health Service – Penshurst\"}, {\"DATE\": \"November 26, 2004\"}, {\"PATIENT\": \"Kenny case\"}, {\"MEDICAL_RECORD_NUMBER\": \"7568703\"}]"
+  },
+  {
+    "id": 54763,
+    "spans": "[{\"DATE\": \"July 3, 2012\"}, {\"TIME\": \"4:11 PM\"}, {\"PATIENT\": \"Nikola\"}, {\"DEPARTMENT\": \"PathologyWest\"}, {\"HOSPITAL\": \"Bamaga Hospital\"}, {\"DOCTOR\": \"Charlotte\"}]"
+  },
+  {
+    "id": 54769,
+    "spans": "[{\"PATIENT\": \"Annalisa Trexler\"}, {\"ID_NUMBER\": \"59K847594T\"}, {\"MEDICAL_RECORD_NUMBER\": \"594847.PYK\"}, {\"ID_NUMBER\": \"59K84759\"}]"
+  },
+  {
+    "id": 54779,
+    "spans": "[{\"DATE\": \"August 22, 2063\"}, {\"DOCTOR\": \"Mood\"}, {\"DATE\": \"September 3, 2063\"}, {\"DOCTOR\": \"Sabonis\"}, {\"DATE\": \"September 4, 2063\"}, {\"DOCTOR\": \"Jefferson\"}, {\"DATE\": \"September 5, 2063\"}, {\"DOCTOR\": \"Freedom\"}]"
+  },
+  {
+    "id": 54783,
+    "spans": "[{\"DATE\": \"Today\"}, {\"PATIENT\": \"Mark Wall\"}, {\"ID_NUMBER\": \"19P329496B\"}, {\"MEDICAL_RECORD_NUMBER\": \"1963294.YRB\"}, {\"ID_NUMBER\": \"19P32949\"}]"
+  },
+  {
+    "id": 54812,
+    "spans": "[{\"DOCTOR\": \"Marvin\"}, {\"DOCTOR\": \"Vincent\"}, {\"DOCTOR\": \"Kuminga\"}, {\"DOCTOR\": \"Ellis\"}, {\"DATE\": \"July 1, 2062\"}, {\"DATE\": \"November 8, 2062\"}, {\"DATE\": \"October 28, 2063\"}, {\"DATE\": \"October 28\"}]"
+  },
+  {
+    "id": 54822,
+    "spans": "[{\"ID_NUMBER\": \"08Q379659E\"}, {\"DATE\": \"Today\"}, {\"PATIENT\": \"Tereasa Dekker\"}, {\"DATE\": \"June 22, 1989\"}, {\"MEDICAL_RECORD_NUMBER\": \"086379.QPZ\"}, {\"ID_NUMBER\": \"08Q37965\"}]"
+  },
+  {
+    "id": 54856,
+    "spans": "[{\"PATIENT\": \"like Brendon\"}]"
+  },
+  {
+    "id": 54869,
+    "spans": "[{\"PATIENT\": \"Oliver\"}, {\"DATE\": \"June 3, 2064\"}, {\"PATIENT\": \"Oliver\"}, {\"DEPARTMENT\": \"Hunter Area\"}]"
+  },
+  {
+    "id": 54877,
+    "spans": "[{\"MEDICAL_RECORD_NUMBER\": \"526828.SHR\"}, {\"ID_NUMBER\": \"52P82872\"}]"
+  },
+  {
+    "id": 54893,
+    "spans": "[{\"DOCTOR\": \"Walton\"}, {\"DATE\": \"September 12, 2062\"}, {\"DOCTOR\": \"Prince\"}]"
+  },
+  {
+    "id": 54903,
+    "spans": "[{\"PATIENT\": \"Maria\"}, {\"HOSPITAL\": \"Plantagenet Hospital\"}, {\"DEPARTMENT\": \"3/9 Jennie Cox Close\"}, {\"DATE\": \"September 5, 2062\"}, {\"DOCTOR\": \"Sharp\"}, {\"DOCTOR\": \"Kaminsky\"}]"
+  },
+  {
+    "id": 54908,
+    "spans": "[{\"DOCTOR\": \"DY\"}, {\"DOCTOR\": \"VU\"}, {\"DATE\": \"June 16, 2064\"}, {\"DATE\": \"June 17, 2064\"}, {\"TIME\": \"9:55 AM\"}, {\"DATE\": \"April 14, 2014\"}, {\"DOCTOR\": \"Q Herrea\"}, {\"DOCTOR\": \"Q Earls\"}]"
+  },
+  {
+    "id": 54912,
+    "spans": "[{\"DATE\": \"June 17, 1988\"}, {\"STREET\": \"Colemans\"}, {\"CITY\": \"Moama\"}, {\"STATE\": \"QLD\"}, {\"ZIP\": \"1156\"}, {\"DATE\": \"July 12, 2012\"}, {\"TIME\": \"22:14\"}]"
+  },
+  {
+    "id": 54916,
+    "spans": "[{\"DOCTOR\": \"Nida Terry\"}, {\"ID_NUMBER\": \"87D090676Y\"}, {\"MEDICAL_RECORD_NUMBER\": \"8710906.SPY\"}, {\"ID_NUMBER\": \"87D09067\"}]"
+  },
+  {
+    "id": 54925,
+    "spans": "[{\"DATE\": \"July 2, 2062\"}, {\"DOCTOR\": \"Sexton\"}, {\"DATE\": \"August 10, 2062\"}, {\"DOCTOR\": \"Fox\"}, {\"ID_NUMBER\": \"87D09067\"}, {\"ID_NUMBER\": \"87D09067\"}]"
+  },
+  {
+    "id": 54949,
+    "spans": "[{\"DATE\": \"January 3, 2062\"}]"
+  },
+  {
+    "id": 54957,
+    "spans": "[]"
+  },
+  {
+    "id": 54960,
+    "spans": "[]"
+  },
+  {
+    "id": 54967,
+    "spans": "[{\"PATIENT\": \"Calvin\"}, {\"STREET\": \"Gunnels Wood Street\"}, {\"CITY\": \"San Remo\"}, {\"STATE\": \"WA\"}, {\"ZIP\": \"2069\"}, {\"DATE\": \"May 10, 2006\"}]"
+  },
+  {
+    "id": 54990,
+    "spans": "[{\"DOCTOR\": \"Augustus Jay Aspley\"}, {\"DOCTOR\": \"CK. Significant\"}, {\"DATE\": \"June 10, 2064\"}, {\"DATE\": \"June 18, 2064\"}, {\"DOCTOR\": \"Z Gleghorn\"}, {\"DOCTOR\": \"Z Sommerville\"}]"
+  },
+  {
+    "id": 54999,
+    "spans": "[{\"PATIENT\": \"Bradly Vella\"}, {\"MEDICAL_RECORD_NUMBER\": \"6100948\"}, {\"ID_NUMBER\": \"61B09485\"}, {\"DATE\": \"May 22, 2064\"}]"
+  },
+  {
+    "id": 80009,
+    "spans": "[{\"DOCTOR\": \"張\"}, {\"PATIENT\": \"阿祥\"}, {\"PATIENT\": \"阿祥\"}, {\"PATIENT\": \"阿祥\"}, {\"PATIENT\": \"阿祥\"}, {\"PATIENT\": \"阿祥\"}]"
+  },
+  {
+    "id": 80030,
+    "spans": "[]"
+  },
+  {
+    "id": 80054,
+    "spans": "[{\"DEPARTMENT\": \"Trauma team\"}, {\"DOCTOR\": \"江君皓\"}]"
+  },
+  {
+    "id": 80128,
+    "spans": "[{\"DOCTOR\": \"施雅芬\"}, {\"DOCTOR\": \"雅芬\"}, {\"PATIENT\": \"青青\"}, {\"TIME\": \"傍晚\"}, {\"DOCTOR\": \"孟\"}, {\"PATIENT\": \"青青\"}, {\"TIME\": \"11點半\"}, {\"DOCTOR\": \"孟\"}, {\"TIME\": \"下午6點\"}]"
+  },
+  {
+    "id": 80152,
+    "spans": "[{\"CITY\": \"高雄\"}, {\"HOSPITAL\": \"鳳山醫院\"}, {\"DOCTOR\": \"邵漢銘\"}, {\"HOSPITAL\": \"利恆醫院\"}, {\"DEPARTMENT\": \"移植中心\"}, {\"DOCTOR\": \"江君皓\"}, {\"DATE\": \"今天\"}]"
+  },
+  {
+    "id": 80174,
+    "spans": "[{\"DOCTOR\": \"許\"}]"
+  },
+  {
+    "id": 80180,
+    "spans": "[{\"PATIENT\": \"蔡育彰\"}, {\"PROFESSION\": \"局長\"}, {\"DATE\": \"今天\"}, {\"DATE\": \"前天\"}, {\"DATE\": \"今天\"}, {\"DATE\": \"第一天\"}]"
+  },
+  {
+    "id": 80268,
+    "spans": "[{\"DOCTOR\": \"王\"}]"
+  },
+  {
+    "id": 80380,
+    "spans": "[{\"DURATION\": \"四十多分鐘\"}, {\"PATIENT\": \"劉國珍\"}, {\"PATIENT\": \"廖慕玲\"}, {\"PATIENT\": \"廖慕玲\"}, {\"PATIENT\": \"廖慕玲\"}]"
+  },
+  {
+    "id": 80390,
+    "spans": "[{\"DOCTOR\": \"家明\"}, {\"AGE\": \"四十三\"}]"
+  },
+  {
+    "id": 80392,
+    "spans": "[]"
+  },
+  {
+    "id": 80425,
+    "spans": "[{\"DOCTOR\": \"江\"}, {\"PATIENT\": \"周\"}]"
+  },
+  {
+    "id": 80446,
+    "spans": "[{\"DOCTOR\": \"孫\"}, {\"PATIENT\": \"君皓\"}, {\"PATIENT\": \"君皓\"}, {\"DOCTOR\": \"雨讀\"}, {\"DOCTOR\": \"雨讀\"}, {\"DOCTOR\": \"孫\"}]"
+  },
+  {
+    "id": 80492,
+    "spans": "[{\"DOCTOR\": \"劉\"}, {\"DURATION\": \"二十分鐘\"}]"
+  },
+  {
+    "id": 80493,
+    "spans": "[{\"PATIENT\": \"陳麗卿\"}, {\"PATIENT\": \"陳小姐\"}]"
+  },
+  {
+    "id": 80508,
+    "spans": "[{\"TIME\": \"早安\"}, {\"FAMILYNAME\": \"方\"}, {\"NURSE\": \"梅青青\"}, {\"FAMILYNAME\": \"方\"}]"
+  },
+  {
+    "id": 80529,
+    "spans": "[{\"PATIENT\": \"易天健\"}, {\"DURATION\": \"半年\"}, {\"FAMILYNAME\": \"易翔\"}, {\"PATIENT\": \"易天健\"}, {\"DOCTOR\": \"郭\"}]"
+  },
+  {
+    "id": 80545,
+    "spans": "[{\"PATIENT\": \"政帆\"}, {\"PATIENT\": \"政帆\"}]"
+  },
+  {
+    "id": 80559,
+    "spans": "[{\"DOCTOR\": \"孟\"}, {\"PATIENT\": \"青青\"}, {\"DOCTOR\": \"孟\"}, {\"TIME\": \"明天早上\"}, {\"DATE\": \"明天\"}, {\"DOCTOR\": \"孟\"}]"
+  },
+  {
+    "id": 80561,
+    "spans": "[{\"PATIENT\": \"陳麗香\"}, {\"DOCTOR\": \"楊\"}, {\"PATIENT\": \"陳麗卿\"}]"
+  },
+  {
+    "id": 80577,
+    "spans": "[{\"DOCTOR\": \"溫雨讀\"}]"
+  },
+  {
+    "id": 80599,
+    "spans": "[{\"DOCTOR\": \"莊正邦\"}, {\"DOCTOR\": \"莊正邦\"}]"
+  },
+  {
+    "id": 80683,
+    "spans": "[{\"PATIENT\": \"高\"}, {\"DATE\": \"今天\"}, {\"DURATION\": \"幾天\"}, {\"DATE\": \"昨天\"}]"
+  },
+  {
+    "id": 80719,
+    "spans": "[{\"PATIENT\": \"李月娥\"}]"
+  },
+  {
+    "id": 80767,
+    "spans": "[{\"PATIENT\": \"林海派\"}, {\"DATE\": \"民國107年8月2日\"}, {\"TIME\": \"下午\"}, {\"DATE\": \"今天\"}, {\"DOCTOR\": \"孫展華\"}, {\"HOSPITAL\": \"東方醫院\"}, {\"DOCTOR\": \"藍翔暉\"}]"
+  },
+  {
+    "id": 80797,
+    "spans": "[{\"DOCTOR\": \"周\"}, {\"PATIENT\": \"陳麗卿\"}, {\"DOCTOR\": \"楊\"}, {\"DOCTOR\": \"周\"}]"
+  },
+  {
+    "id": 80917,
+    "spans": "[{\"PATIENT\": \"奕萱\"}, {\"DEPARTMENT\": \"器官捐贈小組\"}, {\"PATIENT\": \"奕萱\"}]"
+  },
+  {
+    "id": 81008,
+    "spans": "[{\"PATIENT\": \"志豪\"}, {\"PERSONALNAME\": \"佳佳\"}]"
+  },
+  {
+    "id": 81021,
+    "spans": "[{\"HOSPITAL\": \"立恆醫院\"}, {\"DEPARTMENT\": \"移植中心\"}, {\"DOCTOR\": \"江君浩\"}, {\"DATE\": \"今天\"}]"
+  },
+  {
+    "id": 81100,
+    "spans": "[{\"PATIENT\": \"高\"}]"
+  },
+  {
+    "id": 81165,
+    "spans": "[{\"DOCTOR\": \"Hellen\"}, {\"TIME\": \"早\"}, {\"TIME\": \"早\"}, {\"DOCTOR\": \"Miss張\"}, {\"ROOM\": \"三五床\"}, {\"PATIENT\": \"Peter\"}, {\"TIME\": \"兩點半\"}, {\"PATIENT\": \"林美女\"}, {\"DOCTOR\": \"Miss林\"}]"
+  },
+  {
+    "id": 81169,
+    "spans": "[{\"PATIENT\": \"君皓\"}, {\"PATIENT\": \"杭天宇\"}, {\"DATE\": \"今天\"}]"
+  },
+  {
+    "id": 81176,
+    "spans": "[{\"FAMILYNAME\": \"陳\"}, {\"FAMILYNAME\": \"陳\"}, {\"PATIENT\": \"志豪\"}, {\"HOSPITAL\": \"利恆醫院\"}, {\"PATIENT\": \"志豪\"}]"
+  },
+  {
+    "id": 81209,
+    "spans": "[{\"PATIENT\": \"政帆\"}, {\"DATE\": \"現在\"}, {\"PATIENT\": \"政帆\"}]"
+  },
+  {
+    "id": 81228,
+    "spans": "[{\"DOCTOR\": \"家明\"}, {\"AGE\": \"二十\"}, {\"DOCTOR\": \"緹娜\"}, {\"ROOM\": \"A4\"}]"
+  },
+  {
+    "id": 81249,
+    "spans": "[{\"FAMILYNAME\": \"志豪\"}, {\"TIME\": \"下午\"}]"
+  },
+  {
+    "id": 81304,
+    "spans": "[]"
+  },
+  {
+    "id": 81378,
+    "spans": "[{\"PATIENT\": \"客家人\"}, {\"PATIENT\": \"客家人\"}, {\"AGE\": \"五十四\"}, {\"AGE\": \"七十二\"}, {\"AGE\": \"九十五\"}]"
+  },
+  {
+    "id": 81384,
+    "spans": "[{\"FAMILYNAME\": \"志雄\"}, {\"DOCTOR\": \"莊正邦\"}, {\"DOCTOR\": \"莊正邦\"}]"
+  },
+  {
+    "id": 81454,
+    "spans": "[{\"ROOM\": \"二十三\"}, {\"PATIENT\": \"江朝正\"}, {\"DURATION\": \"兩天\"}, {\"DEPARTMENT\": \"ICU\"}, {\"PATIENT\": \"林P\"}, {\"DEPARTMENT\": \"ICU\"}]"
+  },
+  {
+    "id": 81464,
+    "spans": "[{\"DATE\": \"今天\"}, {\"DOCTOR\": \"江\"}]"
+  },
+  {
+    "id": 81467,
+    "spans": "[{\"PATIENT\": \"奕萱\"}]"
+  },
+  {
+    "id": 81487,
+    "spans": "[{\"TIME\": \"下午\"}, {\"DATE\": \"今天\"}, {\"DOCTOR\": \"孫展華\"}, {\"HOSPITAL\": \"東方醫院\"}, {\"DOCTOR\": \"藍翔暉\"}, {\"CITY\": \"高雄\"}, {\"STATE\": \"鳳山\"}, {\"DOCTOR\": \"邵漢銘\"}]"
+  },
+  {
+    "id": 81509,
+    "spans": "[{\"DATE\": \"今天\"}, {\"DATE\": \"今天\"}]"
+  },
+  {
+    "id": 81591,
+    "spans": "[{\"DURATION\": \"一兩天內\"}]"
+  },
+  {
+    "id": 81616,
+    "spans": "[{\"DEPARTMENT\": \"trama\"}, {\"DOCTOR\": \"江君皓\"}]"
+  },
+  {
+    "id": 81774,
+    "spans": "[{\"PATIENT\": \"林\"}, {\"DATE\": \"現在\"}, {\"PATIENT\": \"林\"}]"
+  },
+  {
+    "id": 81781,
+    "spans": "[]"
+  },
+  {
+    "id": 81786,
+    "spans": "[{\"DOCTOR\": \"孫\"}, {\"PATIENT\": \"志豪\"}]"
+  },
+  {
+    "id": 81790,
+    "spans": "[{\"PATIENT\": \"張\"}]"
+  },
+  {
+    "id": 81798,
+    "spans": "[{\"DOCTOR\": \"阿長\"}]"
+  },
+  {
+    "id": 81833,
+    "spans": "[]"
+  },
+  {
+    "id": 81835,
+    "spans": "[{\"TIME\": \"前天早上\"}]"
+  },
+  {
+    "id": 81852,
+    "spans": "[{\"FAMILYNAME\": \"方\"}, {\"FAMILYNAME\": \"方\"}]"
+  },
+  {
+    "id": 81903,
+    "spans": "[{\"DATE\": \"上星期\"}, {\"DATE\": \"上星期\"}, {\"DOCTOR\": \"陳\"}]"
+  },
+  {
+    "id": 81918,
+    "spans": "[{\"PATIENT\": \"志豪\"}, {\"FAMILYNAME\": \"陳\"}, {\"PATIENT\": \"志豪\"}, {\"DATE\": \"現在\"}, {\"PATIENT\": \"志豪\"}]"
+  },
+  {
+    "id": 81930,
+    "spans": "[{\"PATIENT\": \"于政帆\"}, {\"DATE\": \"民國107年8月9日\"}]"
+  },
+  {
+    "id": 81937,
+    "spans": "[{\"DOCTOR\": \"張\"}, {\"PATIENT\": \"溫語\"}, {\"TIME\": \"明早\"}, {\"DATE\": \"明天\"}]"
+  },
+  {
+    "id": 82058,
+    "spans": "[{\"DOCTOR\": \"陳\"}, {\"DEPARTMENT\": \"立法院\"}, {\"PROFESSION\": \"助理\"}, {\"PERSONALNAME\": \"劉\"}, {\"PERSONALNAME\": \"劉\"}, {\"DATE\": \"今天\"}, {\"PERSONALNAME\": \"江朝正\"}, {\"DEPARTMENT\": \"公關室\"}, {\"PERSONALNAME\": \"梁文娟\"}]"
+  },
+  {
+    "id": 82069,
+    "spans": "[{\"TIME\": \"昨天晚上\"}, {\"DURATION\": \"一段時間\"}]"
+  },
+  {
+    "id": 82082,
+    "spans": "[{\"PATIENT\": \"志豪\"}, {\"PATIENT\": \"志豪\"}, {\"PATIENT\": \"志豪\"}]"
+  },
+  {
+    "id": 82198,
+    "spans": "[{\"PATIENT\": \"張淑英\"}, {\"PATIENT\": \"張淑英\"}]"
+  },
+  {
+    "id": 82204,
+    "spans": "[]"
+  },
+  {
+    "id": 82305,
+    "spans": "[{\"DATE\": \"昨天\"}]"
+  },
+  {
+    "id": 82322,
+    "spans": "[{\"DOCTOR\": \"雨讀\"}, {\"PATIENT\": \"志豪\"}, {\"PATIENT\": \"志豪\"}]"
+  },
+  {
+    "id": 82344,
+    "spans": "[]"
+  },
+  {
+    "id": 82401,
+    "spans": "[{\"PATIENT\": \"張曉盈\"}, {\"PATIENT\": \"張曉盈\"}]"
+  },
+  {
+    "id": 82421,
+    "spans": "[{\"PATIENT\": \"子逸\"}, {\"PATIENT\": \"子逸\"}]"
+  },
+  {
+    "id": 82490,
+    "spans": "[{\"FAMILYNAME\": \"曾\"}, {\"DOCTOR\": \"蕭\"}, {\"DATE\": \"昨天\"}, {\"DATE\": \"今天\"}]"
+  },
+  {
+    "id": 82502,
+    "spans": "[]"
+  },
+  {
+    "id": 82542,
+    "spans": "[{\"CITY\": \"高雄\"}, {\"HOSPITAL\": \"鳳山醫院\"}, {\"DOCTOR\": \"邵漢銘\"}, {\"HOSPITAL\": \"利恆醫院\"}, {\"DEPARTMENT\": \"移植中心\"}, {\"DOCTOR\": \"江君皓\"}, {\"DATE\": \"今天\"}]"
+  },
+  {
+    "id": 82595,
+    "spans": "[{\"PATIENT\": \"蔡可欽\"}, {\"DATE\": \"今年\"}, {\"AGE\": \"十六\"}]"
+  },
+  {
+    "id": 82602,
+    "spans": "[{\"DOCTOR\": \"劉\"}, {\"DOCTOR\": \"劉\"}, {\"DOCTOR\": \"劉\"}, {\"DATE\": \"現在\"}, {\"DOCTOR\": \"劉\"}, {\"DATE\": \"今天\"}, {\"DOCTOR\": \"劉\"}]"
+  },
+  {
+    "id": 82664,
+    "spans": "[{\"PATIENT\": \"黃秀鑾\"}, {\"AGE\": \"四十六\"}, {\"SET\": \"一天\"}, {\"SET\": \"抽一包\"}, {\"DURATION\": \"十五年\"}, {\"DURATION\": \"兩個月\"}]"
+  },
+  {
+    "id": 82700,
+    "spans": "IENT\": \"江朝正\"}, {\"PATIENT\": \"江朝正\"}, {\"DATE\": \"頂禮拜\"}]"
+  },
+  {
+    "id": 82890,
+    "spans": "[]"
+  },
+  {
+    "id": 83126,
+    "spans": "[]"
+  },
+  {
+    "id": 84980,
+    "spans": "[]"
+  }
+]
