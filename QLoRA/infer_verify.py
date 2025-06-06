@@ -91,7 +91,7 @@ def get_prompt(text, validation_result):
         "AGE, DATE, TIME, DURATION, SET, \n"
         "PHONE, FAX, EMAIL, URL, IPADDRESS, \n"
         "SOCIAL_SECURITY_NUMBER, MEDICAL_RECORD_NUMBER, HEALTH_PLAN_NUMBER, ACCOUNT_NUMBER, LICENSE_NUMBER, VEHICLE_ID, DEVICE_ID, BIOMETRIC_ID, ID_NUMBER.\n\n"
-        "This is your previous result: {validation_result}, enhance your answer according to it."
+        f"This is your previous result: {validation_result}, enhance your answer according to it."
         "Return the result as a JSON list of dictionaries, where each dictionary has a 'label' (the category) and a 'text' (the extracted span).\n\n"
         "If there are no sensitive spans, return an empty list: []\n\n"
         f"### Instruction:\n{text}\n\n### Response:"
