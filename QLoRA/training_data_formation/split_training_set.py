@@ -1,3 +1,4 @@
+# split the training set into different categories based on the provided categories and save them into separate JSON files.
 import json
 import sys
 import os

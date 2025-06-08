@@ -1,5 +1,4 @@
-# import os
-# os.environ["TRITON_CACHE_DIR"] = "/tmp2/b11902155/triton_cache"
+# This script performs inference using two models: a base model with QLoRA fine-tuning and a validation model.
 import torch
 from tqdm import tqdm
 from transformers import AutoModelForCausalLM, AutoTokenizer

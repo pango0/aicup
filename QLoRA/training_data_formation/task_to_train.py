@@ -1,3 +1,4 @@
+# This script processes two text files, task1.txt and task2.txt, to create a JSON file in a specific format for training for phase 2.
 import json
 from collections import defaultdict
 
