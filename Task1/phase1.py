@@ -28,22 +28,11 @@ def set_torch_seed(seed=0):
     torch.cuda.manual_seed_all(seed)
 set_torch_seed()
 
-# TODO: Change the paths to your audio dataset and transcription files
-t1_train_audio_folder = "audio_dataset/TRAINGING_DATASET_1/Training_Dataset_01/audio"
-t1_train_transcription_file = "audio_dataset/TRAINGING_DATASET_1/Training_Dataset_01/task1_answer.txt"
-t2_train_audio_folder = "/tmp2/zion/AICup/training_dataset_2/audio"
-t2_train_transcription_file = "/tmp2/zion/AICup/training_dataset_2/task1_answer.txt"
+t1_train_audio_folder = "/tmp2/zion/AICup/phase1/all_audio"
+t1_train_transcription_file = "/tmp2/zion/AICup/phase1/zh/task1_answer.txt"
 transcripts, dataset_list = {}, []
 
 with open(t1_train_transcription_file, "r", encoding="utf-8") as f:
-  for line in f:
-    if line.strip():
-      parts = line.strip().split("\t", 1)
-      if len(parts) == 2:
-        filename, transcript = parts
-        transcripts[filename] = transcript
-
-with open(t2_train_transcription_file, "r", encoding="utf-8") as f:
   for line in f:
     if line.strip():
       parts = line.strip().split("\t", 1)
@@ -66,31 +55,13 @@ for file in sorted(os.listdir(t1_train_audio_folder)):
     except Exception as e:
       print(e)
       print(f"Can't read {file_path}:{e}")
-      
-for file in sorted(os.listdir(t2_train_audio_folder)):
-  if file.endswith(".wav") and file.split(".")[0] in transcripts:
-    try:
-      file_path = os.path.join(t2_train_audio_folder, file)
-      audio_array, sr = librosa.load(file_path, sr=16000)
-      dataset_list.append({"audio":
-                 {
-                  "path":file_path,
-                  "array":audio_array,
-                  "sampling_rate":sr
-                 },
-                 "sentence": transcripts[file.split(".")[0]]})
-    except Exception as e:
-      print(e)
-      print(f"Can't read {file_path}:{e}")
 
 dataset = Dataset.from_pandas(pd.DataFrame(dataset_list))
 
 print("audio sample:",len(dataset[0]['audio']['array']))
 print("audio duration:",len(dataset[0]['audio']['array'])/16000)
 
-
-# TODO: Change the split ratio as needed
-split_ratio = 0.8
+split_ratio = 0.85
 train_size = int(len(dataset) * split_ratio)
 dataset = dataset.train_test_split(train_size=train_size,
      test_size=len(dataset) - train_size, shuffle=True, seed=42)
@@ -99,7 +70,6 @@ test_dataset = dataset["test"]
 
 print(f"Train: {len(train_dataset)} samples, Test: {len(test_dataset)} samples")
 
-# TODO: Change the model name to the desired Whisper model
 model_name = "openai/whisper-large-v3-turbo"  #"small", "medium", "large"
 feature_extractor = WhisperFeatureExtractor.from_pretrained(model_name)
 tokenizer = WhisperTokenizer.from_pretrained(model_name)
@@ -110,9 +80,38 @@ model.generation_config.language = None
 model.generation_config.task = "transcribe"
 model.generation_config.forced_decoder_ids = None
 
+model.generation_config.num_beams      = 5
+model.generation_config.length_penalty = 0.8
+model.generation_config.early_stopping = True
+
 from jiwer import mer
 from transformers.models.whisper.english_normalizer import BasicTextNormalizer
 from tqdm import tqdm
+
+import unicodedata, re
+from jiwer import mer
+
+def normalize_transcript(text: str) -> str:
+    text = unicodedata.normalize("NFC", text.strip())
+    text = re.sub(r"[“”\"‘’]", "", text)
+    text = text.lower()
+
+    text = re.sub(r"([\u4e00-\u9fff])([A-Za-z])", r"\1 \2", text)
+    text = re.sub(r"([A-Za-z])([\u4e00-\u9fff])", r"\1 \2", text)
+    return text
+
+def mixed_tokens(text: str):
+    text = normalize_transcript(text)
+    return re.findall(r"[A-Za-z]+|[\u4e00-\u9fff]", text)
+
+def compute_metrics(eval_pred):
+    preds, labels = eval_pred
+    dp = processor.batch_decode(preds,  skip_special_tokens=True)
+    dl = processor.batch_decode(labels,skip_special_tokens=True)
+    sp = [" ".join(mixed_tokens(p)) for p in dp]
+    sl = [" ".join(mixed_tokens(l)) for l in dl]
+    scores = [mer(r, p) for r, p in zip(sl, sp)]
+    return {"mer": sum(scores)/len(scores) if scores else 1.0}
 
 def calculate_mer(ground_truth_texts, predicted_texts):
   """ Mix Error Rate (MER) English only"""
@@ -208,55 +207,54 @@ def mixed_tokenizer(text):
     tokens.append(temp_token)
   return tokens
 
-def compute_metrics(eval_pred):
-  predictions, labels = eval_pred
+# def compute_metrics(eval_pred):
+#   predictions, labels = eval_pred
 
-  decoded_preds = processor.batch_decode(predictions, skip_special_tokens=True)
-  decoded_labels = processor.batch_decode(labels, skip_special_tokens=True)
+#   decoded_preds = processor.batch_decode(predictions, skip_special_tokens=True)
+#   decoded_labels = processor.batch_decode(labels, skip_special_tokens=True)
 
-  decoded_preds = [normalizer(pred.strip()) for pred in decoded_preds]
-  decoded_labels = [normalizer(label.strip()) for label in decoded_labels]
+#   decoded_preds = [normalizer(pred.strip()) for pred in decoded_preds]
+#   decoded_labels = [normalizer(label.strip()) for label in decoded_labels]
 
-  paired = [
-      (ref, hyp) for ref, hyp in zip(decoded_labels, decoded_preds)
-      if ref.strip() != "" and hyp.strip() != ""
-  ]
+#   paired = [
+#       (ref, hyp) for ref, hyp in zip(decoded_labels, decoded_preds)
+#       if ref.strip() != "" and hyp.strip() != ""
+#   ]
 
-  filtered_labels, filtered_preds = zip(*paired) if paired else ([], [])
-  if len(filtered_labels) == 0:
-    return {"mer": 1.0}
+#   filtered_labels, filtered_preds = zip(*paired) if paired else ([], [])
+#   if len(filtered_labels) == 0:
+#     return {"mer": 1.0}
 
-  ref_tokens = [mixed_tokenizer(t) for t in filtered_labels]
-  pred_tokens = [mixed_tokenizer(t) for t in filtered_preds]
-  # print(ref_tokens)
-  # print(pred_tokens)
-  ref_strs = [" ".join(tokens) for tokens in ref_tokens]
-  pred_strs = [" ".join(tokens) for tokens in pred_tokens]
+#   ref_tokens = [mixed_tokenizer(t) for t in filtered_labels]
+#   pred_tokens = [mixed_tokenizer(t) for t in filtered_preds]
+#   # print(ref_tokens)
+#   # print(pred_tokens)
+#   ref_strs = [" ".join(tokens) for tokens in ref_tokens]
+#   pred_strs = [" ".join(tokens) for tokens in pred_tokens]
 
-  try:
-    score = mer(ref_strs, pred_strs)
-  except Exception as e:
-    print("Error during MER computation:", e)
-    score = 1.0
+#   try:
+#     score = mer(ref_strs, pred_strs)
+#   except Exception as e:
+#     print("Error during MER computation:", e)
+#     score = 1.0
 
-  return {"mer": score}
+#   return {"mer": score}
 
-# TODO: Adjust the training arguments as needed
 training_args = Seq2SeqTrainingArguments(
-  output_dir="whisper-large-v3-turbo-2",
+  output_dir="whisper-large-v3-turbo-zh",
   report_to="none",
-  num_train_epochs=3,
+  num_train_epochs=5,
   per_device_train_batch_size=2,
   per_device_eval_batch_size=2,
   evaluation_strategy="steps",
-  eval_steps=30,
+  eval_steps=10,
   save_strategy="steps",
-  save_steps=30,
+  save_steps=10,
   predict_with_generate=True,
-  logging_dir="whisper-large-v3-turbo-2/logs",
+  logging_dir="whisper-large-v3-turbo-zh/logs",
   logging_steps=5,
   fp16=True,
-  learning_rate=1e-5,
+  learning_rate=5e-6,
   warmup_ratio=0.1,
   gradient_accumulation_steps=4,
   dataloader_num_workers=1,
@@ -274,17 +272,16 @@ trainer = Seq2SeqTrainer(
 
 trainer.train()
 
-# TODO: Change the save directory as needed
-save_directory = "whisper-large-v3-turbo-2"
+save_directory = "whisper-large-v3-turbo-zh"
 
-model.save_pretrained(save_directory)
-tokenizer.save_pretrained(save_directory)
-processor.save_pretrained(save_directory)
+# model.save_pretrained(save_directory)
+# tokenizer.save_pretrained(save_directory)
+# processor.save_pretrained(save_directory)
 
-print(f"Model saved to {save_directory}")
+# print(f"Model saved to {save_directory}")
 
 valid_dataset_list = []
-t1_vaild_audio_folder = "/tmp2/77/aicup-slave-individual_prompting/phase1/audio_dataset/TRAINGING_DATASET_1/Validation_Dataset/audio"
+t1_vaild_audio_folder = "/tmp2/zion/AICup/phase1/private_zh_audio"
 for file in sorted(os.listdir(t1_vaild_audio_folder)):
   if file.endswith(".wav"):
     try:
@@ -298,7 +295,7 @@ for file in sorted(os.listdir(t1_vaild_audio_folder)):
 
 valid_dataset = Dataset.from_pandas(pd.DataFrame(valid_dataset_list))
 
-model.generation_config.language = 'en'
+model.generation_config.language = 'zh'
 model.to("cuda" if torch.cuda.is_available() else "cpu")
 model.eval()
 

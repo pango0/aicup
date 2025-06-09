@@ -1,0 +1,5 @@
+351	TIME	nine o'clock at night
+351	SET	Wednesday
+367	DATE	Friday
+367	TIME	night
+367	DURATION	within a very short time

@@ -48,42 +48,6 @@ DATE_TIME = {
 }
 
 
-DATE_TIME_FEW_SHOT = [
-    {
-        "text": "Tomorrow night at 7 PM, and again every Wednesday afternoon.",
-        "answer": [
-            {"DATE": "Tomorrow"},
-            {"TIME": "night"},
-            {"TIME": "7 PM"},
-            {"SET": "every Wednesday"},
-            {"TIME": "afternoon"},
-        ],
-    },
-    {
-        "text": (
-            "She was hospitalized from 3 March to 10 March 2024 and will return next month for a three-day observation."
-        ),
-        "answer": [
-            {"DATE": "3 March"},
-            {"DATE": "10 March 2024"},
-            {"DURATION": "next month"},
-            {"DURATION": "three-day"},
-        ],
-    },
-    {
-        "text": (
-            "Yesterday at noon he agreed to train for two hours, starting again every second Monday at 6 PM."
-        ),
-        "answer": [
-            {"DATE": "Yesterday"},
-            {"TIME": "noon"},
-            {"DURATION": "two hours"},
-            {"SET": "every second Monday"},
-            {"TIME": "6 PM"},
-        ],
-    },
-]
-
 IDENTIFIERS = {
     'SOCIAL_SECURITY_NUMBER': "U.S. Social Security Number",
     'MEDICAL_RECORD_NUMBER': "Medical record number",
@@ -153,6 +117,41 @@ DEMOGRAPHICS_FEW_SHOT = [
     ],
 ]
 
+DATE_TIME_FEW_SHOT = [
+    {
+        "text": "Tomorrow night at 7 PM, and again every Wednesday afternoon.",
+        "answer": [
+            {"DATE": "Tomorrow"},
+            {"TIME": "night"},
+            {"TIME": "7 PM"},
+            {"SET": "every Wednesday"},
+            {"TIME": "afternoon"},
+        ],
+    },
+    {
+        "text": (
+            "She was hospitalized from 3 March to 10 March 2024 and will return next month for a three-day observation."
+        ),
+        "answer": [
+            {"DATE": "3 March"},
+            {"DATE": "10 March 2024"},
+            {"DURATION": "next month"},
+            {"DURATION": "three-day"},
+        ],
+    },
+    {
+        "text": (
+            "Yesterday at noon he agreed to train for two hours, starting again every second Monday at 6 PM."
+        ),
+        "answer": [
+            {"DATE": "Yesterday"},
+            {"TIME": "noon"},
+            {"DURATION": "two hours"},
+            {"SET": "every second Monday"},
+            {"TIME": "6 PM"},
+        ],
+    },
+]
 
 IDENTIFIERS_FEW_SHOT = [
     [
