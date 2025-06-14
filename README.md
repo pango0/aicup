@@ -45,7 +45,10 @@ For each json file in `train_split/`, augment data if the number of entries < 30
 - `src/data_aug_zh.py`: Generate Chinese entries
 ```bash
 # e.x. for the LOCATION category, to generate English entries
-python src/data_aug_en.py --input_file train_split/train_LOCATIONS.json --category "LOCATIONS" --output_file train_split/extended_train_LOCATIONS.json
+python src/data_aug_en.py \
+    --input_file train_split/train_LOCATIONS.json \
+    --category "LOCATIONS" \
+    --output_file train_split/extended_train_LOCATIONS.json
 ```
  
 ## Training
