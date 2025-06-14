@@ -7,6 +7,7 @@ from typing import List, Dict, Any, Tuple, Union
 import warnings
 import multiprocessing
 from tqdm import tqdm
+import argparse
 
 warnings.filterwarnings("ignore")
 
@@ -15,7 +16,6 @@ MODEL_ID = "openai/whisper-large-v3-turbo"
 MAX_WORKERS = 14  # adjust based on GPU memory
 
 # --- Helper Functions ---
-
 def get_device_and_dtype() -> Tuple[str, torch.dtype]:
     device = "cuda:0" if torch.cuda.is_available() else "cpu"
     torch_dtype = torch.float16 if torch.cuda.is_available() else torch.float32
@@ -48,48 +48,34 @@ def load_speech_model_and_processor(
         model_id,
         torch_dtype=torch_dtype,
         low_cpu_mem_usage=True,
-        use_safetensors=True
+        use_safetensors=True,
+        attn_implementation="eager",
     )
     model.to(device)
     processor = AutoProcessor.from_pretrained(model_id)
     return model, processor
 
-def create_asr_pipeline(
-    model: AutoModelForSpeechSeq2Seq,
-    processor: AutoProcessor,
-    torch_dtype: torch.dtype,
-    device: str
-) -> pipeline:
-    return pipeline(
-        "automatic-speech-recognition",
-        model=model,
-        tokenizer=processor.tokenizer,
-        feature_extractor=processor.feature_extractor,
-        torch_dtype=torch_dtype,
-        device=device,
-    )
+
 
 def transcribe_single_file(audio_path: str) -> Union[Dict[str, Any], None]:
     try:
         device, torch_dtype = get_device_and_dtype()
         model, processor = load_speech_model_and_processor(MODEL_ID, torch_dtype, device)
-        asr_pipeline = create_asr_pipeline(model, processor, torch_dtype, device)
-        generate_kwargs = {
-            "language": 'en',
-            "max_new_tokens": 512,
-            "num_beams": 2,
-            # "temperature": (0.0, 0.2, 0.4, 0.6, 0.8, 1.0),
-            # "logprob_threshold": -1.0,
-            "no_speech_threshold": 0.5,
-            "return_timestamps": "word",
-        }
-        result = asr_pipeline(audio_path, generate_kwargs=generate_kwargs)
+        asr_pipeline = pipeline(
+            "automatic-speech-recognition",
+            model=model,
+            tokenizer=processor.tokenizer,
+            feature_extractor=processor.feature_extractor,
+            torch_dtype=torch_dtype,
+            device=device,
+        )
+        result = asr_pipeline(audio_path, return_timestamps="word")
         basename = os.path.splitext(audio_path)[0]
         num = basename.split('/')[-1]
         result['num'] = num
         return result
     except Exception as e:
-        print(f"Error processing {audio_path}: {e}")
+        print(f"Error processing {audio_path}: {e}", flush=True)
         return None
 
 def save_results_to_json(results: List[Dict[str, Any]], output_path: str) -> None:
@@ -100,7 +86,12 @@ def save_results_to_json(results: List[Dict[str, Any]], output_path: str) -> Non
     except IOError as e:
         print(f"Error saving results to {output_path}: {e}", flush=True)
 
-def transcribe(wav_dir, output_path):
+def transcribe(wav_dir:str, output_path:str):
+    """
+    args:
+        - wav_dir: path to .wav directory
+        - output_path: path to output .json file
+    """
     wav_files = get_audio_files(wav_dir, sort=True)
     if not wav_files:
         print("No audio files found. Exiting.", flush=True)
@@ -126,5 +117,18 @@ def transcribe(wav_dir, output_path):
         print("No transcription results to save.", flush=True)
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Run whisper on a directory of .wav files")
+    parser.add_argument(
+        '--audio_directory', '-d',
+        required=True,
+        help="directory to .wav files"
+    )
+    parser.add_argument(
+        '--output_file', '-o',
+        required=True,
+        help="output .json file",
+        default="transcription.json"
+    )
+    args = parser.parse_args()
     multiprocessing.set_start_method("spawn")
-    transcribe('/work/b11902044/aicup/AICup/training_dataset_1/Validation_Dataset/audio', 'validation_1.json')
+    transcribe(args.audio_directory, args.output_file)
