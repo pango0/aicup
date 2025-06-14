@@ -18,7 +18,9 @@ We define the following subcategories, where each category contains their relate
 
 Then split the data into different categories by running
 ```bash
-python src/split_training_set.py --input_file train.json --output_dir train_split
+python src/split_training_set.py \
+    --input_file train.json \
+    --output_dir train_split
 ```
 `train.json` should be in the following format
 ```json
