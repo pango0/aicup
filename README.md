@@ -46,7 +46,6 @@ python task2/split_training_set.py \
 ```
 `train.json` should be in the following format
 ```json
-TODO: not sure
 [
   {
     "id": 19,
