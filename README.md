@@ -2,8 +2,30 @@
 Create conda env with `environment.yaml`
 
 # Task 1
+We finetuned `openai/whisper-large-v3-turbo` model for speech recognition tasks in English and Chinese using the AICup dataset.
 ## Training
-TODO
+We finetuned two models for Chinese and English task. 
+So, adjust the dataset path on either the English or Chinese dataset. 
+This code also do inference with the last checkpoint. 
+
+Train on English task:
+```bash
+python task1/train.py
+```
+Train on Chinese task:
+```bash
+python task1/train_zh.py
+```
+## Inference
+Choose a particular checkpoint and run inference on  audio and generate transcriptions with timestamps.
+```bash
+python task1/infer.py
+```
+Ensure you update the following variables in infer.py:
+```bash
+checkpoint_path = "whisper-large-v3-turbo-en/checkpoint-100"
+base_model_name = "openai/whisper-large-v3-turbo"
+```
 ---
 # Task 2
 ## Data Preprocessing
