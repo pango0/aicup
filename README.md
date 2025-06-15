@@ -3,7 +3,7 @@ Create conda env with `environment.yaml`
 
 # Task 1
 ## Training
-
+TODO
 ---
 # Task 2
 ## Data Preprocessing
@@ -24,6 +24,7 @@ python task2/split_training_set.py \
 ```
 `train.json` should be in the following format
 ```json
+TODO: not sure
 [
   {
     "id": 19,
@@ -68,11 +69,11 @@ python task1/inference_ft.py \
 ### Single model
 To inference the models trained on the whole data, you should please modify `task1/inference_whole.py` to the correct model path and your desired output directory.
 ```bash
-python
+TODO
 ```
 ---
 ### Merging results
-
+TODO
 
 ## Utility files
 `task1/llm.py`: Simple wrapper around a Hugging Face–style transformer-based large language model (LLM) to streamline loading, inference, and prompt handling
