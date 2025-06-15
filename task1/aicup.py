@@ -26,37 +26,121 @@ class DataCollatorSpeechSeq2SeqWithPadding:
 
     return batch
 
-def transcribe_with_timestamps(audio_data,model,processor):
-  audio_array = audio_data['audio']['array']
-  sr = audio_data['audio']['sampling_rate']
-  duration = len(audio_array) / sr
+import jieba
 
-  input_features = processor.feature_extractor(
-      audio_array, sampling_rate=sr, return_tensors="pt"
-  ).input_features.to(model.device)
+def segment_by_jieba(segments):
+    # 1. 將所有文字與時間段組成一整串字串與時間列表
+    full_text = "".join(seg["word"] for seg in segments)
+    start_time = segments[0]["start"]
+    end_time = segments[-1]["end"]
+    total_duration = end_time - start_time
 
-  with torch.no_grad():
-    generated_ids = model.generate(input_features)
+    words = list(jieba.cut(full_text, cut_all=False))
+    
+    new_segments = []
+    offset = start_time
+    avg_duration = total_duration / len(full_text)
+    
+    for word in words:
+        word_duration = len(word) * avg_duration
+        new_segments.append({
+            "word": word,
+            "start": round(offset, 2),
+            "end": round(offset + word_duration, 2)
+        })
+        offset += word_duration
+    
+    return new_segments
 
-  transcription = processor.tokenizer.batch_decode(generated_ids, skip_special_tokens=True)[0]
+def transcribe_with_timestamps(sample, model, processor):
+    array = sample["audio"]["array"]
+    sr = sample["audio"]["sampling_rate"]
 
-  tokens = processor.tokenizer.convert_ids_to_tokens(generated_ids[0])
-  num_tokens = len(tokens)
-  timestamps = [(i * duration / num_tokens) for i in range(num_tokens)]
+    inputs = processor.feature_extractor(
+        array,
+        sampling_rate=sr,
+        return_tensors="pt",
+        return_attention_mask=True
+    )
+    input_feats = inputs.input_features.to(model.device)
+    attention_mask = inputs.attention_mask.to(model.device)
 
-  result = {
-      "text": transcription,
-      "segments": []
-  }
+    generate_kwargs = {
+        "return_timestamps": "word",
+        "return_dict_in_generate": True,
+        "language": "zh",
+    }
 
-  for i, (token, timestamp) in enumerate(zip(tokens, timestamps)):
-      result["segments"].append({
-          "word": token,
-          "start": round(timestamp, 2),
-          "end": round(timestamps[i + 1] if i + 1 < len(timestamps) else duration, 2)
-      })
+    with torch.no_grad():
+        generated = model.generate(
+            input_feats,
+            attention_mask=attention_mask,
+            **generate_kwargs
+        )
 
-  return result
+    text = processor.tokenizer.batch_decode(
+        generated["sequences"],
+        skip_special_tokens=True,
+        clean_up_tokenization_spaces=True
+    )[0]
+
+    segments = []
+    
+    if "segments" in generated and len(generated["segments"]) > 0:
+        for seg in generated["segments"][0]:
+            word = processor.tokenizer.decode(
+                seg["tokens"],
+                skip_special_tokens=True
+            ).strip()
+            if word:
+                segments.append({
+                    "word": word,
+                    "start": round(seg["start"].item(), 2),
+                    "end": round(seg["end"].item(), 2)
+                })
+    if segments and len(segments[0]["word"]) > 6:
+        try:
+            words = []
+            # Handle Chinese characters and other text
+            for char in segments[0]["word"]:
+                if '\u4e00' <= char <= '\u9fff':  # Chinese character
+                    words.append(char)
+                else:
+                    if words and not ('\u4e00' <= words[-1][-1] <= '\u9fff'):
+                        words[-1] += char
+                    else:
+                        words.append(char)
+            
+            duration = segments[0]["end"] - segments[0]["start"]
+            word_duration = duration / len(words)
+            
+            new_segments = []
+            for i, word in enumerate(words):
+                new_segments.append({
+                    "word": word,
+                    "start": round(segments[0]["start"] + i * word_duration, 2),
+                    "end": round(segments[0]["start"] + (i+1) * word_duration, 2)
+                })
+            segments = new_segments
+        except Exception as e:
+            print(f"Warning: Failed to split long segment: {e}")
+    
+    # If no segments at all, create one for the full audio
+    if not segments:
+        duration = len(array) / sr
+        segments.append({
+            "word": text,
+            "start": 0.0,
+            "end": round(duration, 2)
+        })
+    
+    if all(len(seg["word"]) == 1 for seg in segments):
+      segments = segment_by_jieba(segments)
+
+    return {
+        "text": text,
+        "segments": segments
+    }
 
 def collate_batch_with_prompt_template(batch, tokenizer, template = "<|endoftext|> __CONTENT__\n\n####\n\n__LABEL__ <|END|>", IGNORED_PAD_IDX = -100):
   """ template: __CONTENT__ and __LABEL__ will be replaced with the content and the corresponding labels."""
