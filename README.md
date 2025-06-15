@@ -18,7 +18,7 @@ We define the following subcategories, where each category contains their relate
 
 Then split the data into different categories by running
 ```bash
-python src/split_training_set.py \
+python task2/split_training_set.py \
     --input_file train.json \
     --output_dir train_split
 ```
@@ -41,11 +41,11 @@ python src/split_training_set.py \
 Multiple `train_<category>.json` should be generated in `train_split`
 ## Data Augmentation
 For each json file in `train_split/`, augment data if the number of entries < 300 (We generate 300 entries by default). 
-- `src/data_aug_en.py`: Generate English entries
-- `src/data_aug_zh.py`: Generate Chinese entries
+- `task1/data_aug_en.py`: Generate English entries
+- `task1/data_aug_zh.py`: Generate Chinese entries
 ```bash
 # e.x. for the LOCATION category, to generate English entries
-python src/data_aug_en.py \
+python task1/data_aug_en.py \
     --input_file train_split/train_LOCATIONS.json \
     --category "LOCATIONS" \
     --output_file train_split/extended_train_LOCATIONS.json
@@ -53,42 +53,26 @@ python src/data_aug_en.py \
  
 ## Training
 We use QLoRA fine-tuning to train a total of 8 models
-- `unsloth/gemma-3-27b-it-bnb-4bit` is fine-tuned on all training data
-- 7 * `Qwen/Qwen2.5-32B-Instruct` is each fine-tuned on the splitted training data and our augmented data
-You can use the following command to train a model
-```bash
-# e.x. for training the CONTACT category
-python src/train.py \
-    --model_name_or_path "Qwen/Qwen2.5-32B-Instruct" \
-    --output_dir "model/contact" \
-    --dataset "train_split/extended_train_CONTACT.json" \
-    --prompt_type "CONTACT_PROMPT" \
-    --dataset_format alpaca \
-    --bits 4 \
-    --bf16 \
-    --do_train \
-    --max_steps 100 \
-    --save_steps 100 \
-    --per_device_train_batch_size 32 \
-    --max_train_epochs 3 \
-    --gradient_accumulation_steps 2 \
-    --lr_scheduler_type constant
-```
+- `unsloth/gemma-3-27b-it-bnb-4bit` is fine-tuned on all training data (`task1/train_whole.sh` is the script we used during our training)
+- 7 * `Qwen/Qwen2.5-32B-Instruct` is each fine-tuned on the splitted training data and our augmented data (`task1/train_split.sh` is the script we used during our training)
 
 ## Prediction/Inference
 ### Split models
-To inference the models trained on the splitted data, you should please modify the `config` in `src/inference_ft.py` to the correct model path and your desired output directory.
+To inference the models trained on the splitted data, you should please modify the `config` in `task1/inference_ft.py` to the correct model path and your desired output directory.
 ```bash
 # e.x. for inferencing the CONTACT category
-python src/inference_ft.py \
+python task1/inference_ft.py \
     -t "CONTACT" 
 ```
 ---
 ### Single model
-
+To inference the models trained on the whole data, you should please modify `task1/inference_whole.py` to the correct model path and your desired output directory.
+```bash
+python
+```
 ---
 ### Merging results
 
 
 ## Utility files
-`src/llm.py`: Simple wrapper around a Hugging Face–style transformer-based large language model (LLM) to streamline loading, inference, and prompt handling
+`task1/llm.py`: Simple wrapper around a Hugging Face–style transformer-based large language model (LLM) to streamline loading, inference, and prompt handling
