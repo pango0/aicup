@@ -94,7 +94,14 @@ TODO
 ```
 ---
 ### Merging results
-TODO
+
+Name the outputs of the two models `ans1.txt` and `ans2.txt`.
+
+```bash
+python task2/merge.py
+```
+
+It will merge the two files and output `merge.txt`.
 
 ## Utility files
 `task1/llm.py`: Simple wrapper around a Hugging Face–style transformer-based large language model (LLM) to streamline loading, inference, and prompt handling
